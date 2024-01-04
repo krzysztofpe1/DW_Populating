@@ -1,0 +1,11 @@
+use CarRepairShopDW;
+
+DELETE FROM Part_in_repair;
+DELETE FROM Part;
+DELETE FROM Repair;
+DELETE FROM Car;
+DELETE FROM Client;
+DELETE FROM Mechanic_TA;
+DELETE FROM Mechanic;
+DELETE FROM Date;
+DELETE FROM Junk;

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="WKSTN_KRZ.CarRepairShopDW"
+  DTS:DTSID="{C228BC7C-7BDA-4A6C-BF96-33DC3F7C5DC3}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=WKSTN_KRZ;Initial Catalog=CarRepairShopDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Populating CarRepairShop DW-{C228BC7C-7BDA-4A6C-BF96-33DC3F7C5DC3}WKSTN_KRZ.CarRepairShopDW;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

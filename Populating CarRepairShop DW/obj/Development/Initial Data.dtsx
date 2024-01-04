@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="12/8/2023 1:00:41 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="WKSTN_KRZ"
+  DTS:CreatorName="WKSTN_KRZ\krzys"
+  DTS:DTSID="{88FC4FA1-59E9-4A1E-9F79-62B069C29CA1}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5397.1"
+  DTS:LocaleID="1045"
+  DTS:ObjectName="Initial Data"
+  DTS:PackageType="5"
+  DTS:VersionBuild="15"
+  DTS:VersionGUID="{50A30348-64B9-47A1-A0CC-2D87B492961A}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ETL_load_date.sql]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{CCAF67CB-7B9E-4A77-83FD-4FD5C1561C4F}"
+      DTS:ObjectName="ETL_load_date.sql">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="Z:\DataWarehouses\ETL_load_date.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ETL_load_date.sql 1]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{0161B677-3FF1-42EB-B761-D6649F0F3F40}"
+      DTS:ObjectName="ETL_load_date.sql 1">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Users\krzys\Downloads\carrepairshopdw\ETL_load_date.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ETL_load_date.sql 2]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{83645D48-04D6-43CF-B6EB-2FE24C787F4B}"
+      DTS:ObjectName="ETL_load_date.sql 2">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Users\krzys\Downloads\carrepairshopdw\ETL_load_date.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ETL_load_date.sql 3]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{B16F8C7E-CA56-464B-8B85-12AE9D0B0345}"
+      DTS:ObjectName="ETL_load_date.sql 3">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Projects\DataWarehouses\DW_Populating\scripts\ETL_load_date.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ETL_load_junk.sql]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{B6588200-9ECF-4718-BAF2-80E92667783D}"
+      DTS:ObjectName="ETL_load_junk.sql">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="Z:\DataWarehouses\ETL_load_junk.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ETL_load_junk.sql 1]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{069AA390-FCA7-4CDE-AEF0-B18BFC21CA65}"
+      DTS:ObjectName="ETL_load_junk.sql 1">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Users\krzys\Downloads\carrepairshopdw\ETL_load_junk.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ETL_load_junk.sql 2]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{CE433DE1-C300-4B19-A715-2307B4ABEC71}"
+      DTS:ObjectName="ETL_load_junk.sql 2">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Users\krzys\Downloads\carrepairshopdw\ETL_load_junk.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ETL_load_junk.sql 3]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{1D660DDE-26E9-4444-A0AC-01CB5C04A10E}"
+      DTS:ObjectName="ETL_load_junk.sql 3">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Projects\DataWarehouses\DW_Populating\scripts\ETL_load_junk.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[LPTP_KRZ.CarRepairShopDW]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{81BB2883-09AB-46B4-AC52-5099B525638E}"
+      DTS:ObjectName="LPTP_KRZ.CarRepairShopDW">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=LPTP_KRZ;Initial Catalog=CarRepairShopDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Initial Data-{81BB2883-09AB-46B4-AC52-5099B525638E}LPTP_KRZ.CarRepairShopDW;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[WKSTN_KRZ.CarRepairShopDW 1]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{37684D20-9630-43DD-BC03-2F1CEC9DCB5E}"
+      DTS:ObjectName="WKSTN_KRZ.CarRepairShopDW 1">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=WKSTN_KRZ;Initial Catalog=CarRepairShopDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Initial Data-{37684D20-9630-43DD-BC03-2F1CEC9DCB5E}WKSTN_KRZ.CarRepairShopDW 1;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Inserting into Date"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{9500A2AC-4CF8-4CA5-877E-45F0F36D566D}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Inserting into Date"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{81BB2883-09AB-46B4-AC52-5099B525638E}"
+          SQLTask:SqlStmtSourceType="FileConnection"
+          SQLTask:SqlStatementSource="ETL_load_date.sql 3" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Inserting into Junk"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{B5F53CA9-B67D-4E05-AF57-CF41C514DD33}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Inserting into Junk"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{81BB2883-09AB-46B4-AC52-5099B525638E}"
+          SQLTask:SqlStmtSourceType="FileConnection"
+          SQLTask:SqlStatementSource="ETL_load_junk.sql 3" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="8">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        <NodeLayout
+          Size="167.2,41.6"
+          Id="Package\Inserting into Date"
+          TopLeft="312.142856413004,165.647058828221" />
+        <NodeLayout
+          Size="163.2,41.6"
+          Id="Package\Inserting into Junk"
+          TopLeft="122.857141064442,163.764705881683" />
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>

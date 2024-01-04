@@ -1,0 +1,293 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="1/3/2024 3:32:17 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="LPTP_KRZ"
+  DTS:CreatorName="LPTP_KRZ\krzys"
+  DTS:DTSID="{9F959B56-301F-4460-BDFC-4FCB4BE06AED}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5397.1"
+  DTS:LocaleID="1045"
+  DTS:ObjectName="T2_2"
+  DTS:PackageType="5"
+  DTS:VersionBuild="6"
+  DTS:VersionGUID="{E5D81AD0-A68D-474E-AF7D-53319DF0A4DD}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ETL_load_car_and_client.sql]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{D2F66C03-71D5-45BC-ACCC-989A4C1C3CCD}"
+      DTS:ObjectName="ETL_load_car_and_client.sql">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Projects\DataWarehouses\Populating CarRepairShop DW\scriptsT2\ETL_load_car_and_client.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ETL_load_car_and_client.sql 1]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{428E8CDC-13EB-48A8-B962-5EADE1DAAD6C}"
+      DTS:ObjectName="ETL_load_car_and_client.sql 1">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Projects\DataWarehouses\DW_Populating\scriptsT2\ETL_load_car_and_client.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ETL_load_mechanic.sql]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{75437E7C-DB4E-49B2-AB5F-139BA3C1A93B}"
+      DTS:ObjectName="ETL_load_mechanic.sql">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Projects\DataWarehouses\Populating CarRepairShop DW\scriptsT2\ETL_load_mechanic.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ETL_load_mechanic.sql 1]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{38B957C2-5356-48ED-B981-608D10F01E94}"
+      DTS:ObjectName="ETL_load_mechanic.sql 1">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Projects\DataWarehouses\DW_Populating\scriptsT2\ETL_load_mechanic.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ETL_load_part_part_in_repair.sql]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{EBCC85DD-CF69-45C2-B243-C9730F94C170}"
+      DTS:ObjectName="ETL_load_part_part_in_repair.sql">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Projects\DataWarehouses\Populating CarRepairShop DW\scriptsT2\ETL_load_part_part_in_repair.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ETL_load_part_part_in_repair.sql 1]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{961798D3-FB7D-4844-B932-D62616D88CDC}"
+      DTS:ObjectName="ETL_load_part_part_in_repair.sql 1">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Projects\DataWarehouses\DW_Populating\scriptsT2\ETL_load_part_part_in_repair.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[load_mechanicTA.sql]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{0A203B2E-05B7-4E19-B359-8F3470DF1FDF}"
+      DTS:ObjectName="load_mechanicTA.sql">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Projects\DataWarehouses\Populating CarRepairShop DW\scriptsT2\load_mechanicTA.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[load_mechanicTA.sql 1]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{7ED16792-0362-48C1-B270-20DA02791089}"
+      DTS:ObjectName="load_mechanicTA.sql 1">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Projects\DataWarehouses\DW_Populating\scriptsT2\load_mechanicTA.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Insert Car and Client"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{59BCB3A4-75A1-4F33-800A-71FC3A0C31D1}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Insert Car and Client"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{C228BC7C-7BDA-4A6C-BF96-33DC3F7C5DC3}"
+          SQLTask:SqlStmtSourceType="FileConnection"
+          SQLTask:SqlStatementSource="ETL_load_car_and_client.sql 1" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Insert Mechanics"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{411176E9-7D5D-482C-A629-284E7C0B29B7}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Insert Mechanics"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{C228BC7C-7BDA-4A6C-BF96-33DC3F7C5DC3}"
+          SQLTask:SqlStmtSourceType="FileConnection"
+          SQLTask:SqlStatementSource="ETL_load_mechanic.sql 1" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Insert Mechanic_TAs"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{69D82242-AB8B-405C-B247-6658F50B2D2E}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Insert Mechanic_TAs"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{C228BC7C-7BDA-4A6C-BF96-33DC3F7C5DC3}"
+          SQLTask:SqlStmtSourceType="FileConnection"
+          SQLTask:SqlStatementSource="load_mechanicTA.sql 1" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Insert Repar, Part, Part_in_repair"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{4EC39068-E647-4CFB-B8FF-06DBDC6A015F}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Insert Repar, Part, Part_in_repair"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{C228BC7C-7BDA-4A6C-BF96-33DC3F7C5DC3}"
+          SQLTask:SqlStmtSourceType="FileConnection"
+          SQLTask:SqlStatementSource="ETL_load_part_part_in_repair.sql 1" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:PrecedenceConstraints>
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint]"
+      DTS:CreationName=""
+      DTS:DTSID="{F6F6DA5D-334B-4E6D-8E53-A8517D3C442A}"
+      DTS:From="Package\Insert Mechanics"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint"
+      DTS:To="Package\Insert Mechanic_TAs" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{22ADA32C-3A22-4FBD-AB1C-41E9A39F2054}"
+      DTS:From="Package\Insert Car and Client"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 1"
+      DTS:To="Package\Insert Repar, Part, Part_in_repair" />
+  </DTS:PrecedenceConstraints>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="8">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="176,41.6"
+          Id="Package\Insert Car and Client"
+          TopLeft="375.714286514083,129.99999988605" />
+        <NodeLayout
+          Size="176,41.6"
+          Id="Package\Insert Mechanic_TAs"
+          TopLeft="63.5714287067555,219.47058804292" />
+        <NodeLayout
+          Size="157.6,41.6"
+          Id="Package\Insert Mechanics"
+          TopLeft="87.1428573283614,94.0588234469656" />
+        <NodeLayout
+          Size="235.2,41.6"
+          Id="Package\Insert Repar, Part, Part_in_repair"
+          TopLeft="320.714286397002,257.705882127052" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint]"
+          TopLeft="165.942857328361,135.658823446966">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-14.3714286216059,83.8117645959541"
+              Start="0,0"
+              End="-14.3714286216059,76.3117645959541">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,37.9058822979771" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,37.9058822979771"
+                    Point2="0,41.9058822979771"
+                    Point3="-4,41.9058822979771" />
+                  <mssgle:LineSegment
+                    End="-10.3714286216059,41.9058822979771" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-10.3714286216059,41.9058822979771"
+                    Point2="-14.3714286216059,41.9058822979771"
+                    Point3="-14.3714286216059,45.9058822979771" />
+                  <mssgle:LineSegment
+                    End="-14.3714286216059,76.3117645959541" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 1]"
+          TopLeft="463.714286514083,171.59999988605">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-25.4000001170807,86.1058822410021"
+              Start="0,0"
+              End="-25.4000001170807,78.6058822410021">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,39.052941120501" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,39.052941120501"
+                    Point2="0,43.052941120501"
+                    Point3="-4,43.052941120501" />
+                  <mssgle:LineSegment
+                    End="-21.4000001170807,43.052941120501" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-21.4000001170807,43.052941120501"
+                    Point2="-25.4000001170807,43.052941120501"
+                    Point3="-25.4000001170807,47.052941120501" />
+                  <mssgle:LineSegment
+                    End="-25.4000001170807,78.6058822410021" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>

@@ -1,0 +1,4236 @@
+id;part_type;producer;price;FK_id_repair
+0;Brake rotor;Centric;100;1
+1;Brake pads;Brembo;200;9
+2;Control arm bushing;Febi;50;12
+3;Fuel filter;Wix;50;6
+4;EGR valve gasket;Fel-Pro;25;12
+5;Brake caliper;Cardone;50;17
+6;Clutch kit;Exedy;200;18
+7;Transmission speed sensor;ACDelco;25;13
+8;Radiator fan assembly;TYC;100;13
+9;Drive belt;Gates;25;15
+10;Tie rod end;Mevotech;50;17
+11;Throttle body;Dorman;75;3
+12;Ball joint;Moog;50;11
+13;Control arm;Moog;75;17
+14;Engine oil cooler;Dorman;75;26
+15;Oxygen sensor;Bosch;150;9
+16;Ignition control module;ACDelco;50;10
+17;Tie rod end;Mevotech;50;14
+18;Fuel pressure regulator;Delphi;25;28
+19;Transmission speed sensor;ACDelco;25;31
+20;Brake rotor;Centric;100;1
+21;Clutch kit;Exedy;200;4
+22;Transmission fluid change;Valvoline;200;4
+23;Blower motor;TYC;75;6
+24;Control arm;Moog;150;12
+25;Transmission speed sensor;ACDelco;25;15
+26;Fuel tank filler neck;Dorman;50;34
+27;Transmission speed sensor;ACDelco;25;35
+28;Thermostat;Stant;50;7
+29;Wheel alignment;-;400;7
+30;Oxygen sensor;Bosch;150;15
+31;Control arm bushing;Febi;50;24
+32;Ball joint;Moog;50;28
+33;Power steering hose;Gates;100;25
+34;Transmission mount;Anchor;50;40
+35;Radiator fan assembly;TYC;100;42
+36;Engine mount;DEA;50;21
+37;Ball joint;Moog;50;21
+38;Fuel tank filler neck;Dorman;50;36
+39;Fuel tank;Spectra Premium;200;37
+40;Clutch kit;Exedy;200;43
+41;Engine mount;DEA;50;24
+42;Wheel bearing;SKF;50;37
+43;Battery;AC Delco;350;24
+44;Exhaust hanger;Walker;25;28
+45;Fuel tank filler neck;Dorman;50;34
+46;Transmission filter;Fram;50;35
+47;Crankshaft position sensor;Beck/Arnley;50;40
+48;Tire rotation;-;100;40
+49;Fuel tank;Spectra Premium;200;41
+50;Throttle body;Dorman;75;41
+51;Ignition switch;ACDelco;50;46
+52;Fuel filter;Wix;50;49
+53;Transmission speed sensor;ACDelco;25;29
+54;Transmission speed sensor;ACDelco;25;29
+55;Wheel bearing;SKF;50;43
+56;Shock absorber;KYB;75;37
+57;Transmission filter;Fram;50;44
+58;Headlight bulb;Philips;25;44
+59;Oxygen sensor;Bosch;150;45
+60;Oxygen sensor;Bosch;150;48
+61;Tie rod end;Mevotech;50;61
+62;PCV valve;Standard Motor Products;25;67
+63;Engine mount;DEA;50;42
+64;Spark plugs;NGK;25;50
+65;Wheel lug nuts;Dorman;25;51
+66;Ignition coil;Bosch;50;64
+67;Brake fluid flush;Castrol;100;67
+68;Transmission control module;ACDelco;200;76
+69;Transmission speed sensor;ACDelco;25;48
+70;Water pump;Airtex;200;52
+71;Engine control module;A1 Cardone;200;55
+72;Control arm bushing;Dorman;25;55
+73;Wheel cylinder;Raybestos;50;56
+74;Wheel alignment;-;400;59
+75;Headlight assembly;TYC;100;60
+76;Ignition control module;ACDelco;50;68
+77;Transmission mount;Anchor;50;74
+78;Drive belt;Gates;25;74
+79;Control arm;Moog;75;79
+80;PCV valve;Standard Motor Products;25;48
+83;EGR valve;Standard Motor Products;50;58
+82;Muffler;Walker;100;53
+83;EGR valve;Standard Motor Products;50;58
+84;Serpentine belt;Gates;75;66
+85;Fuel filter;Wix;50;68
+86;Mass airflow sensor;Spectra Premium;150;77
+87;Water pump;Airtex;200;52
+88;Fuel tank;Spectra Premium;200;61
+90;Fuel injector;Bosch;100;58
+90;Fuel injector;Bosch;100;58
+91;Brake caliper;Cardone;50;70
+92;Muffler;Walker;100;70
+93;EGR valve;ACDelco;75;73
+94;Transmission shift solenoid;Rostra;75;81
+95;Thermostat;Stant;50;81
+96;Control arm;Moog;75;87
+97;Wheel bearing;SKF;50;87
+98;Brake master cylinder;Centric;100;93
+99;Oxygen sensor;Bosch;150;95
+100;Transmission mount;Westar;25;72
+101;Ignition control module;ACDelco;50;74
+102;Shock absorber;KYB;75;77
+103;PCV valve;Standard Motor Products;25;80
+104;EGR valve;ACDelco;75;92
+105;Serpentine belt;Gates;75;95
+106;Transmission pan gasket;Fel-Pro;25;83
+107;Radiator;Denso;350;89
+108;Exhaust hanger;Walker;25;95
+109;Control arm;Moog;75;103
+110;Ignition control module;ACDelco;50;103
+111;Transmission pan gasket;Fel-Pro;25;73
+112;Control arm;Dorman;50;73
+113;Transmission fluid cooler;Hayden;50;90
+114;Thermostat;Stant;50;91
+115;Brake caliper;Cardone;50;97
+116;Control arm bushing;Febi;50;100
+117;Oxygen sensor;Bosch;150;101
+118;Control arm;Moog;75;106
+119;Fuel tank filler neck;Dorman;50;107
+120;Windshield wipers;Rain-X;50;81
+121;Transmission fluid cooler;Hayden;50;87
+122;Fuel filter;Wix;50;101
+123;Exhaust hanger;Walker;25;110
+124;Air filter;Fram;50;93
+125;Wheel cylinder;Raybestos;50;101
+126;Muffler;Walker;100;103
+127;Ball joint;Moog;50;105
+128;Transmission shift solenoid;Rostra;75;114
+129;Ignition switch;ACDelco;50;117
+130;Suspension strut;Monroe;200;125
+131;Transmission shift cable;Pioneer Cables;50;104
+132;Transmission filter;Fram;50;111
+133;Water pump;Airtex;200;112
+134;Power steering hose;Gates;100;117
+135;Radiator fan assembly;TYC;100;120
+136;Wheel lug nuts;Dorman;25;132
+137;Transmission pan gasket;Fel-Pro;25;110
+138;Ignition control module;ACDelco;50;113
+139;EGR valve;Standard Motor Products;50;117
+140;Serpentine belt;Gates;75;118
+141;Serpentine belt;Gates;75;121
+142;Headlight bulb;Philips;25;127
+143;Tire rotation;-;100;137
+144;Fuel tank filler neck;Dorman;50;102
+145;Wheel hub assembly;Timken;200;119
+146;Transmission mount;Anchor;50;107
+147;Transmission fluid change;Valvoline;200;114
+148;Ignition coil;Delphi;100;127
+149;Blower motor;TYC;75;130
+150;Transmission fluid change;Valvoline;200;147
+151;Windshield wipers;Rain-X;50;111
+152;Transmission fluid cooler;Hayden;50;118
+153;Wheel cylinder;Raybestos;50;122
+154;Air filter;Fram;50;124
+155;EGR valve gasket;Fel-Pro;25;138
+156;Power steering pump;Cardone;150;118
+157;Power steering pump;Cardone;150;121
+159;Power steering hose;Gates;100;133
+159;Power steering hose;Gates;100;133
+160;Fuel filter;Wix;50;134
+161;Mass airflow sensor;Spectra Premium;150;136
+162;Control arm;Dorman;50;137
+163;Ignition control module;ACDelco;50;147
+164;Control arm;Dorman;50;151
+165;Ignition coil;Delphi;100;159
+166;Brake master cylinder;Centric;100;126
+167;Muffler;Walker;100;134
+168;Ignition control module;ACDelco;50;135
+169;Catalytic converter;MagnaFlow;300;139
+170;Transmission mount;Westar;25;149
+171;Mass airflow sensor;Spectra Premium;150;150
+172;Radiator;Denso;350;157
+173;Brake master cylinder;Centric;100;161
+174;Transmission mount;Anchor;50;164
+175;Catalytic converter;MagnaFlow;300;129
+176;Catalytic converter;MagnaFlow;300;137
+177;Radiator fan assembly;TYC;100;162
+178;Oil change;Mobil 1;150;167
+179;Fuel tank filler neck;Dorman;50;168
+180;Transmission mount;Westar;25;140
+181;Control arm;Moog;150;146
+182;Spark plugs;NGK;25;148
+183;Crankshaft position sensor;Beck/Arnley;50;151
+184;Ignition coil;Delphi;100;168
+185;Exhaust hanger;Walker;25;174
+186;Suspension strut;Monroe;200;142
+187;Brake caliper;Cardone;50;146
+188;Thermostat;Stant;50;150
+189;Fuel tank filler neck;Dorman;50;153
+190;Engine oil cooler;Dorman;75;170
+191;Fuel tank;Spectra Premium;200;153
+192;Headlight bulb;Philips;25;157
+193;EGR valve;Standard Motor Products;50;178
+194;Fuel tank filler neck;Dorman;50;180
+198;Brake pads;Brembo;200;156
+197;Air filter;Fram;50;155
+197;Air filter;Fram;50;155
+198;Brake pads;Brembo;200;156
+199;EGR valve;ACDelco;75;163
+200;Battery;AC Delco;350;173
+201;Axle shaft;A1 Cardone;100;183
+202;Ball joint;Moog;50;184
+203;Fuel pump;Delphi;150;186
+204;Clutch kit;Exedy;200;159
+205;Wheel cylinder;Raybestos;50;180
+206;Water pump;Airtex;200;180
+207;Wheel cylinder;Raybestos;50;165
+208;Transmission control module;ACDelco;200;167
+209;Ignition switch;Standard Motor Products;25;170
+210;Spark plugs;NGK;25;171
+211;Transmission mount;Westar;25;173
+212;Wheel lug nuts;Dorman;25;174
+213;Wheel lug nuts;Dorman;25;188
+214;Ignition coil;Delphi;100;175
+215;Ignition coil;Bosch;50;177
+216;Transmission speed sensor;ACDelco;25;179
+217;Ignition control module;ACDelco;50;186
+218;Spark plugs;NGK;25;191
+219;Engine oil cooler;Dorman;75;194
+220;Fuel filter;Wix;50;172
+221;Power steering pump;Cardone;150;176
+222;Crankshaft position sensor;Beck/Arnley;50;176
+223;Engine control module;A1 Cardone;200;179
+224;Brake rotor;Centric;100;188
+225;Axle shaft;A1 Cardone;100;182
+226;Water pump;Airtex;200;205
+227;Spark plugs;NGK;25;213
+228;Ignition switch;Standard Motor Products;25;185
+229;Transmission filter;Fram;50;197
+230;Tie rod end;Mevotech;50;199
+231;Axle shaft;A1 Cardone;100;217
+232;Windshield wipers;Rain-X;50;218
+233;Camshaft position sensor;Dorman;100;190
+234;Control arm;Moog;75;193
+235;Ignition coil;Bosch;50;202
+236;Brake master cylinder;Centric;100;203
+237;Control arm;Moog;75;209
+238;Thermostat;Stant;50;214
+239;Muffler;Walker;100;194
+240;EGR valve;ACDelco;75;204
+241;Windshield wipers;Rain-X;50;205
+242;Water pump;Airtex;200;207
+243;Engine mount;DEA;50;208
+244;Brake pads;Brembo;200;219
+245;Fuel filter;Wix;50;222
+246;Oil change;Mobil 1;150;228
+247;Ignition switch;Standard Motor Products;25;229
+252;Control arm;Dorman;50;206
+249;Fuel tank;Spectra Premium;200;197
+250;Crankshaft position sensor;Beck/Arnley;50;200
+251;Transmission mount;Anchor;50;203
+252;Control arm;Dorman;50;206
+253;Transmission mount;Westar;25;215
+254;Thermostat;Stant;50;216
+255;MAP sensor;Standard Motor Products;50;226
+256;Blower motor;TYC;75;233
+257;Brake pads;Brembo;200;208
+258;Headlight assembly;TYC;100;213
+259;Transmission speed sensor;ACDelco;25;228
+260;Transmission mount;Westar;25;229
+261;Brake caliper;Cardone;50;230
+263;MAP sensor;Standard Motor Products;50;206
+263;MAP sensor;Standard Motor Products;50;206
+264;Throttle body;Dorman;75;217
+265;Ignition switch;Standard Motor Products;25;236
+266;Control arm;Moog;75;244
+267;Transmission filter;Fram;50;219
+268;Water pump;Airtex;200;240
+269;Shock absorber;KYB;75;251
+270;EGR valve;ACDelco;75;235
+271;EGR valve gasket;Fel-Pro;25;239
+272;Throttle body;Dorman;75;239
+273;Battery;AC Delco;350;240
+274;Power steering pump;Cardone;150;251
+275;Battery;AC Delco;350;222
+276;Transmission fluid cooler;Hayden;50;222
+277;Transmission fluid cooler;Hayden;50;231
+278;Fuel pump;Delphi;150;233
+279;Throttle body;Dorman;75;235
+280;Fuel pump;Delphi;150;243
+281;EGR valve;Standard Motor Products;50;243
+282;Water pump;Airtex;200;255
+283;Radiator;Denso;350;260
+284;Wheel alignment;-;400;231
+285;Ignition control module;ACDelco;50;232
+286;Fuel injector;Bosch;100;233
+289;Thermostat;Stant;50;246
+288;Tie rod end;Mevotech;50;244
+289;Thermostat;Stant;50;246
+290;Thermostat;Stant;50;256
+291;Fuel pressure regulator;Delphi;25;259
+292;Wheel cylinder;Raybestos;50;237
+293;Air filter;Fram;50;238
+294;Brake pads;Brembo;200;250
+295;Camshaft position sensor;Dorman;100;255
+296;CV joint;GSP;100;260
+297;Power steering hose;Gates;100;259
+298;Fuel filter;Wix;50;260
+299;Catalytic converter;MagnaFlow;300;271
+300;Windshield wipers;Rain-X;50;250
+301;Fuel pump;Delphi;150;256
+302;EGR valve;ACDelco;75;257
+303;Air filter;Fram;50;273
+304;Transmission fluid cooler;Hayden;50;249
+305;Control arm;Moog;150;252
+306;Brake master cylinder;Centric;100;258
+307;Brake master cylinder;Centric;100;262
+308;Brake fluid flush;Castrol;100;266
+309;Spark plugs;NGK;25;268
+310;Transmission mount;Westar;25;271
+311;Windshield wipers;Rain-X;50;258
+312;EGR valve;Standard Motor Products;50;261
+313;Wheel bearing;SKF;50;265
+314;Wheel cylinder;Raybestos;50;267
+315;Engine control module;A1 Cardone;200;270
+316;Windshield wipers;Rain-X;50;259
+317;Control arm bushing;Febi;50;278
+318;Fuel filter;Wix;50;282
+319;Ignition control module;ACDelco;50;282
+320;Transmission control module;ACDelco;200;290
+321;Control arm;Moog;150;272
+322;Spark plugs;NGK;25;274
+323;CV joint;GSP;100;277
+324;PCV valve;Standard Motor Products;25;288
+325;Ignition switch;Standard Motor Products;25;296
+326;Spark plugs;NGK;25;272
+327;Clutch kit;Exedy;200;285
+328;Axle shaft;A1 Cardone;100;297
+329;Axle shaft;A1 Cardone;100;298
+330;Tie rod end;Mevotech;50;301
+331;Fuel filter;Wix;50;304
+332;Oil change;Mobil 1;150;306
+333;Tie rod end;Mevotech;50;273
+334;Wheel cylinder;Raybestos;50;275
+335;Transmission fluid cooler;Hayden;50;276
+336;Transmission fluid change;Valvoline;200;277
+337;Wheel hub assembly;Timken;200;283
+338;Exhaust manifold;Dorman;100;283
+339;Exhaust manifold;Dorman;100;290
+340;Camshaft position sensor;Dorman;100;278
+341;Tie rod end;Mevotech;50;286
+342;Power steering pump;Cardone;150;289
+343;Control arm;Moog;75;291
+344;Power steering pump;Cardone;150;294
+345;Suspension strut;Monroe;200;306
+346;Wheel lug nuts;Dorman;25;313
+347;Serpentine belt;Gates;75;287
+348;Windshield wipers;Rain-X;50;315
+349;Wheel bearing;SKF;50;321
+350;Engine mount;DEA;50;322
+351;Camshaft position sensor;Dorman;100;323
+352;Fuel pressure regulator;Delphi;25;284
+353;Power steering pump;Cardone;150;285
+354;Fuel pump;Delphi;150;293
+355;Transmission speed sensor;ACDelco;25;294
+356;EGR valve;Standard Motor Products;50;295
+357;Oxygen sensor;Bosch;150;298
+358;Wheel lug nuts;Dorman;25;306
+359;Ignition switch;Standard Motor Products;25;312
+360;Transmission fluid cooler;Hayden;50;316
+361;Catalytic converter;MagnaFlow;300;303
+362;Water pump;Airtex;200;308
+363;Ignition coil;Delphi;100;309
+364;Exhaust manifold;Dorman;100;327
+365;Ball joint;Moog;50;296
+366;Air filter;Fram;50;308
+367;Exhaust manifold;Dorman;100;316
+368;Engine control module;A1 Cardone;200;318
+369;Wheel alignment;-;400;327
+370;Oxygen sensor;Bosch;150;336
+371;Fuel filter;Wix;50;310
+372;Fuel pressure regulator;Delphi;25;315
+373;Engine control module;A1 Cardone;200;317
+374;Transmission mount;Westar;25;327
+375;Serpentine belt;Gates;75;332
+376;Exhaust manifold;Dorman;100;338
+377;Windshield wipers;Rain-X;50;338
+378;Air filter;Fram;50;308
+379;Oxygen sensor;Bosch;150;313
+380;Spark plugs;NGK;25;321
+381;Brake caliper;Cardone;50;335
+382;Wheel alignment;-;400;339
+383;Fuel tank;Spectra Premium;200;341
+384;CV joint;GSP;100;314
+385;Oxygen sensor;Bosch;150;330
+386;Transmission shift cable;Pioneer Cables;50;344
+387;Engine control module;A1 Cardone;200;320
+388;Radiator fan assembly;TYC;100;322
+389;Shock absorber;KYB;75;337
+390;Engine control module;A1 Cardone;200;340
+391;EGR valve;Standard Motor Products;50;343
+392;Transmission control module;ACDelco;200;353
+393;Fuel injector;Bosch;100;344
+394;Control arm bushing;Dorman;25;349
+395;Transmission pan gasket;Fel-Pro;25;351
+397;Transmission fluid cooler;Hayden;50;331
+397;Transmission fluid cooler;Hayden;50;331
+398;Battery;AC Delco;350;332
+399;Ignition switch;Standard Motor Products;25;335
+400;Power steering hose;Gates;100;337
+401;Fuel tank filler neck;Dorman;50;341
+402;Wheel cylinder;Raybestos;50;343
+403;Power steering hose;Gates;100;353
+404;Power steering pump;Cardone;150;363
+405;Battery;AC Delco;350;364
+406;Fuel pump;Delphi;150;369
+407;Oil change;Mobil 1;150;342
+408;Brake master cylinder;Centric;100;345
+409;PCV valve;Standard Motor Products;25;347
+410;Fuel pressure regulator;Delphi;25;359
+411;Catalytic converter;MagnaFlow;300;371
+412;Transmission pan gasket;Fel-Pro;25;372
+413;Engine mount;DEA;50;342
+414;Throttle body;Dorman;75;349
+415;Ignition control module;ACDelco;50;366
+416;Fuel injector;Bosch;100;371
+417;Power steering hose;Gates;100;353
+418;Serpentine belt;Gates;75;358
+419;Fuel filter;Wix;50;372
+420;Control arm;Moog;150;357
+421;Headlight bulb;Philips;25;358
+424;Fuel pressure regulator;Delphi;25;368
+423;Catalytic converter;MagnaFlow;300;367
+424;Fuel pressure regulator;Delphi;25;368
+425;Engine control module;A1 Cardone;200;373
+426;Engine control module;A1 Cardone;200;375
+427;Fuel filter;Wix;50;358
+428;Suspension strut;Monroe;200;362
+429;Tie rod end;Mevotech;50;364
+430;Transmission fluid cooler;Hayden;50;381
+431;Ignition switch;Standard Motor Products;25;392
+432;Headlight assembly;TYC;100;360
+433;Wheel hub assembly;Timken;200;361
+434;Tie rod end;Mevotech;50;366
+435;Transmission shift cable;Pioneer Cables;50;373
+436;Fuel tank filler neck;Dorman;50;374
+437;Transmission speed sensor;ACDelco;25;393
+438;Transmission shift cable;Pioneer Cables;50;396
+439;Exhaust manifold;Dorman;100;366
+440;Transmission mount;Anchor;50;369
+441;Brake fluid flush;Castrol;100;370
+442;Drive belt;Gates;25;371
+443;Drive belt;Gates;25;379
+444;EGR valve;ACDelco;75;387
+445;Axle shaft;A1 Cardone;100;390
+446;Mass airflow sensor;Spectra Premium;150;393
+447;Ignition switch;ACDelco;50;403
+448;Exhaust hanger;Walker;25;382
+449;Transmission shift cable;Pioneer Cables;50;390
+450;Clutch kit;Exedy;200;391
+451;Ball joint;Moog;50;391
+452;Transmission mount;Anchor;50;392
+453;Transmission speed sensor;ACDelco;25;397
+454;Ignition coil;Delphi;100;401
+455;EGR valve gasket;Fel-Pro;25;401
+456;Wheel alignment;-;400;405
+457;Tie rod end;Mevotech;50;408
+458;Wheel alignment;-;400;378
+459;Ignition control module;ACDelco;50;386
+460;Oxygen sensor;Bosch;150;405
+461;Throttle body;Dorman;75;384
+462;Oxygen sensor;Bosch;150;387
+463;Brake master cylinder;Centric;100;393
+464;Fuel injector;Bosch;100;398
+465;Wheel lug nuts;Dorman;25;399
+466;Alternator;Bosch;300;409
+467;Transmission speed sensor;ACDelco;25;411
+468;Power steering hose;Gates;100;417
+469;Clutch kit;Exedy;200;388
+470;Suspension strut;Monroe;200;398
+471;Water pump;Airtex;200;401
+472;Brake fluid flush;Castrol;100;420
+473;Radiator fan assembly;TYC;100;399
+474;Ignition coil;Bosch;50;403
+475;Suspension strut;Monroe;200;403
+476;Shock absorber;KYB;75;407
+477;Power steering pump;Cardone;150;411
+478;Catalytic converter;MagnaFlow;300;413
+479;Suspension strut;Monroe;200;416
+480;Drive belt;Gates;25;417
+481;Wheel cylinder;Raybestos;50;431
+482;Clutch kit;Exedy;200;404
+483;Exhaust hanger;Walker;25;408
+484;Wheel hub assembly;Timken;200;412
+485;PCV valve;Standard Motor Products;25;423
+486;Transmission fluid cooler;Hayden;50;429
+487;Power steering pump;Cardone;150;408
+488;Throttle body;Dorman;75;410
+489;Shock absorber;KYB;75;434
+490;Transmission filter;Fram;50;436
+491;Control arm;Dorman;50;406
+492;Transmission speed sensor;ACDelco;25;410
+493;Ignition coil;Bosch;50;427
+494;EGR valve;ACDelco;75;435
+495;Wheel hub assembly;Timken;200;441
+496;Engine mount;DEA;50;411
+497;Transmission fluid cooler;Hayden;50;424
+498;Exhaust manifold;Dorman;100;429
+499;Mass airflow sensor;Spectra Premium;150;424
+500;Oxygen sensor;Bosch;150;431
+501;PCV valve;Standard Motor Products;25;431
+502;EGR valve;ACDelco;75;437
+503;Exhaust manifold;Dorman;100;441
+504;Blower motor;TYC;75;446
+505;Engine control module;A1 Cardone;200;453
+506;Alternator;Bosch;300;420
+507;Transmission filter;Fram;50;424
+508;Air filter;Fram;50;435
+509;Wheel hub assembly;Timken;200;448
+510;Power steering hose;Gates;100;456
+511;Wheel bearing;SKF;50;427
+512;EGR valve;Standard Motor Products;50;434
+513;Fuel tank filler neck;Dorman;50;438
+514;Radiator fan assembly;TYC;100;459
+515;Thermostat;Stant;50;460
+516;Brake master cylinder;Centric;100;433
+517;CV joint;GSP;100;439
+518;Serpentine belt;Gates;75;448
+519;Transmission shift cable;Pioneer Cables;50;458
+520;Headlight assembly;TYC;100;459
+524;Transmission fluid change;Valvoline;200;447
+522;Oil change;Mobil 1;150;437
+523;EGR valve;ACDelco;75;446
+524;Transmission fluid change;Valvoline;200;447
+525;Brake master cylinder;Centric;100;451
+526;EGR valve gasket;Fel-Pro;25;462
+527;Radiator;Denso;350;469
+528;Engine oil cooler;Dorman;75;440
+529;Water pump;Airtex;200;443
+530;Radiator;Denso;350;449
+531;MAP sensor;Standard Motor Products;50;455
+532;Transmission fluid cooler;Hayden;50;459
+533;Control arm;Moog;75;468
+534;Thermostat;Stant;50;469
+535;Radiator fan assembly;TYC;100;470
+536;Radiator;Denso;350;472
+537;PCV valve;Standard Motor Products;25;474
+538;Battery;AC Delco;350;477
+539;Spark plugs;NGK;25;452
+540;Transmission mount;Westar;25;461
+541;Transmission shift cable;Pioneer Cables;50;465
+542;Shock absorber;KYB;75;467
+543;EGR valve gasket;Fel-Pro;25;475
+544;Wheel hub assembly;Timken;200;477
+545;Crankshaft position sensor;Beck/Arnley;50;455
+546;Control arm bushing;Febi;50;462
+547;Transmission fluid change;Valvoline;200;470
+548;Control arm;Dorman;50;470
+549;Fuel pressure regulator;Delphi;25;473
+550;EGR valve gasket;Fel-Pro;25;460
+551;Windshield wipers;Rain-X;50;462
+552;Wheel lug nuts;Dorman;25;465
+553;Axle shaft;A1 Cardone;100;466
+554;Transmission fluid change;Valvoline;200;471
+555;MAP sensor;Standard Motor Products;50;475
+556;Exhaust manifold;Dorman;100;481
+557;Ignition coil;Delphi;100;482
+558;EGR valve;Standard Motor Products;50;489
+559;Power steering hose;Gates;100;460
+560;Control arm bushing;Febi;50;474
+561;Ball joint;Moog;50;489
+562;Oil change;Mobil 1;150;471
+563;Air filter;Fram;50;474
+564;Radiator fan assembly;TYC;100;479
+565;Transmission control module;ACDelco;200;480
+566;Engine control module;A1 Cardone;200;491
+567;Brake fluid flush;Castrol;100;493
+568;Fuel pump;Delphi;150;496
+569;Fuel tank filler neck;Dorman;50;497
+570;Tie rod end;Mevotech;50;501
+571;Blower motor;TYC;75;504
+572;EGR valve;ACDelco;75;477
+573;Oxygen sensor;Bosch;150;478
+574;Control arm bushing;Dorman;25;499
+575;Fuel injector;Bosch;100;501
+576;Drive belt;Gates;25;504
+577;Axle shaft;A1 Cardone;100;505
+578;Brake fluid flush;Castrol;100;506
+579;Brake master cylinder;Centric;100;483
+580;Fuel pump;Delphi;150;483
+581;Transmission speed sensor;ACDelco;25;484
+582;EGR valve gasket;Fel-Pro;25;488
+583;Tire rotation;-;100;492
+584;Brake caliper;Cardone;50;503
+585;Fuel filter;Wix;50;505
+586;Ignition switch;Standard Motor Products;25;482
+587;Ignition switch;ACDelco;50;482
+588;Catalytic converter;MagnaFlow;300;485
+589;Engine oil cooler;Dorman;75;486
+590;Fuel tank filler neck;Dorman;50;491
+591;Wheel hub assembly;Timken;200;493
+592;Spark plugs;NGK;25;507
+593;EGR valve;ACDelco;75;495
+594;Thermostat;Stant;50;503
+595;Fuel pump;Delphi;150;510
+596;Ignition switch;ACDelco;50;514
+597;Tie rod end;Mevotech;50;518
+598;Fuel pressure regulator;Delphi;25;519
+599;Fuel tank;Spectra Premium;200;521
+600;Brake master cylinder;Centric;100;522
+601;Transmission mount;Anchor;50;492
+602;Muffler;Walker;100;500
+603;Brake fluid flush;Castrol;100;514
+604;Control arm bushing;Dorman;25;527
+605;Wheel cylinder;Raybestos;50;502
+606;Engine mount;DEA;50;512
+607;Brake caliper;Cardone;50;518
+608;Wheel lug nuts;Dorman;25;527
+609;Oxygen sensor;Bosch;150;521
+610;EGR valve gasket;Fel-Pro;25;526
+611;Battery;AC Delco;350;506
+612;Control arm bushing;Febi;50;510
+613;Mass airflow sensor;Spectra Premium;150;512
+614;EGR valve;ACDelco;75;514
+615;Fuel injector;Bosch;100;515
+616;Transmission fluid change;Valvoline;200;522
+617;Engine mount;DEA;50;523
+618;Clutch kit;Exedy;200;524
+619;Radiator fan assembly;TYC;100;526
+620;Transmission speed sensor;ACDelco;25;528
+621;Tire rotation;-;100;531
+622;Radiator;Denso;350;511
+623;Radiator fan assembly;TYC;100;526
+624;Windshield wipers;Rain-X;50;530
+625;Wheel lug nuts;Dorman;25;535
+626;EGR valve;Standard Motor Products;50;541
+627;Wheel lug nuts;Dorman;25;516
+628;Water pump;Airtex;200;523
+629;Control arm;Dorman;50;525
+630;Tire rotation;-;100;548
+631;Wheel hub assembly;Timken;200;553
+632;Control arm bushing;Dorman;25;528
+633;Engine control module;A1 Cardone;200;554
+634;Headlight assembly;TYC;100;556
+635;Power steering hose;Gates;100;530
+636;Oxygen sensor;Bosch;150;547
+637;MAP sensor;Standard Motor Products;50;550
+638;Brake pads;Brembo;200;553
+639;Engine oil cooler;Dorman;75;538
+640;Transmission shift cable;Pioneer Cables;50;540
+641;Exhaust hanger;Walker;25;542
+642;CV joint;GSP;100;545
+643;Brake fluid flush;Castrol;100;545
+644;Power steering pump;Cardone;150;548
+645;Tire rotation;-;100;566
+646;Control arm bushing;Febi;50;567
+647;Engine oil cooler;Dorman;75;540
+648;Control arm;Moog;75;555
+649;Engine mount;DEA;50;568
+650;Blower motor;TYC;75;572
+651;MAP sensor;Standard Motor Products;50;540
+652;Control arm;Moog;150;542
+653;Brake pads;Brembo;200;545
+654;Fuel filter;Wix;50;546
+655;Engine control module;A1 Cardone;200;562
+656;Control arm bushing;Dorman;25;568
+657;Tie rod end;Mevotech;50;570
+658;Headlight assembly;TYC;100;557
+659;Engine oil cooler;Dorman;75;564
+660;Transmission control module;ACDelco;200;579
+661;Control arm;Moog;75;549
+662;Transmission mount;Westar;25;573
+663;Power steering pump;Cardone;150;576
+664;Engine oil cooler;Dorman;75;581
+665;Engine mount;DEA;50;583
+666;CV joint;GSP;100;584
+667;MAP sensor;Standard Motor Products;50;585
+668;Exhaust hanger;Walker;25;571
+669;Brake master cylinder;Centric;100;573
+670;Brake master cylinder;Centric;100;575
+671;MAP sensor;Standard Motor Products;50;577
+672;Transmission control module;ACDelco;200;578
+673;Transmission filter;Fram;50;580
+674;Alternator;Bosch;300;581
+675;Fuel injector;Bosch;100;589
+676;Transmission filter;Fram;50;559
+677;Control arm bushing;Dorman;25;569
+678;Axle shaft;A1 Cardone;100;584
+679;Crankshaft position sensor;Beck/Arnley;50;586
+680;Engine oil cooler;Dorman;75;574
+681;Power steering pump;Cardone;150;575
+682;Radiator fan assembly;TYC;100;576
+683;Tie rod end;Mevotech;50;594
+684;Transmission fluid cooler;Hayden;50;595
+685;Control arm bushing;Febi;50;599
+686;Oil change;Mobil 1;150;599
+687;Transmission fluid cooler;Hayden;50;600
+688;Control arm;Dorman;50;571
+689;Wheel lug nuts;Dorman;25;578
+690;Windshield wipers;Rain-X;50;590
+691;Ignition switch;ACDelco;50;575
+692;Serpentine belt;Gates;75;581
+693;Axle shaft;A1 Cardone;100;584
+694;Fuel injector;Bosch;100;591
+695;Ignition switch;ACDelco;50;606
+696;EGR valve;ACDelco;75;609
+697;Blower motor;TYC;75;583
+698;Control arm bushing;Dorman;25;583
+699;Tie rod end;Mevotech;50;589
+700;Shock absorber;KYB;75;590
+701;Water pump;Airtex;200;614
+702;CV joint;GSP;100;585
+703;Control arm;Moog;75;601
+704;Control arm;Moog;75;606
+705;Exhaust manifold;Dorman;100;607
+706;Control arm bushing;Febi;50;607
+707;Catalytic converter;MagnaFlow;300;608
+708;Wheel lug nuts;Dorman;25;609
+709;Brake master cylinder;Centric;100;617
+710;Engine oil cooler;Dorman;75;588
+711;Control arm;Dorman;50;593
+712;Brake fluid flush;Castrol;100;595
+713;Brake master cylinder;Centric;100;595
+714;Ignition control module;ACDelco;50;599
+715;Ball joint;Moog;50;605
+716;Camshaft position sensor;Dorman;100;610
+717;Transmission shift solenoid;Rostra;75;614
+718;EGR valve gasket;Fel-Pro;25;618
+719;Spark plugs;NGK;25;597
+720;Battery;AC Delco;350;598
+721;Transmission mount;Westar;25;608
+722;Exhaust manifold;Dorman;100;610
+723;Throttle body;Dorman;75;611
+724;EGR valve;ACDelco;75;622
+725;Engine mount;DEA;50;616
+726;Drive belt;Gates;25;619
+727;Radiator;Denso;350;623
+728;Headlight bulb;Philips;25;631
+729;Radiator fan assembly;TYC;100;602
+730;Ignition switch;Standard Motor Products;25;607
+731;Oxygen sensor;Bosch;150;609
+732;Tie rod end;Mevotech;50;622
+733;Control arm bushing;Dorman;25;624
+734;Control arm bushing;Febi;50;625
+735;Brake fluid flush;Castrol;100;608
+736;Transmission control module;ACDelco;200;616
+737;Ignition coil;Bosch;50;627
+738;Brake master cylinder;Centric;100;630
+739;Power steering pump;Cardone;150;639
+741;Ignition coil;Delphi;100;612
+741;Ignition coil;Delphi;100;612
+742;Brake pads;Brembo;200;616
+743;Engine mount;DEA;50;619
+744;Thermostat;Stant;50;628
+745;PCV valve;Standard Motor Products;25;628
+746;Wheel alignment;-;400;639
+747;Control arm;Moog;75;642
+748;Wheel hub assembly;Timken;200;639
+749;Headlight assembly;TYC;100;640
+750;Transmission fluid change;Valvoline;200;641
+751;Control arm bushing;Febi;50;645
+752;Engine oil cooler;Dorman;75;646
+753;Ignition control module;ACDelco;50;635
+754;Control arm;Moog;150;640
+755;Serpentine belt;Gates;75;649
+756;Ignition switch;Standard Motor Products;25;650
+757;Brake master cylinder;Centric;100;651
+758;Tie rod end;Mevotech;50;632
+759;Power steering hose;Gates;100;641
+760;Headlight assembly;TYC;100;645
+761;Headlight assembly;TYC;100;647
+762;Throttle body;Dorman;75;650
+763;Control arm;Dorman;50;655
+764;Fuel tank;Spectra Premium;200;657
+765;Windshield wipers;Rain-X;50;657
+766;Camshaft position sensor;Dorman;100;636
+767;Tire rotation;-;100;642
+768;Wheel alignment;-;400;644
+769;Brake fluid flush;Castrol;100;644
+770;Fuel tank filler neck;Dorman;50;658
+771;Transmission control module;ACDelco;200;671
+772;Muffler;Walker;100;672
+773;Battery;AC Delco;350;643
+774;Brake rotor;Centric;100;656
+775;Brake fluid flush;Castrol;100;665
+776;Control arm bushing;Dorman;25;666
+777;Camshaft position sensor;Dorman;100;669
+778;Muffler;Walker;100;646
+779;Ignition switch;ACDelco;50;648
+780;Transmission mount;Westar;25;670
+781;Headlight bulb;Philips;25;672
+782;Alternator;Bosch;300;678
+783;Control arm;Moog;75;651
+784;Camshaft position sensor;Dorman;100;661
+785;MAP sensor;Standard Motor Products;50;662
+786;Fuel injector;Bosch;100;664
+787;Transmission shift cable;Pioneer Cables;50;665
+788;Control arm;Dorman;50;666
+789;Brake rotor;Centric;100;679
+790;Thermostat;Stant;50;680
+791;Power steering hose;Gates;100;665
+792;Ignition coil;Delphi;100;667
+793;MAP sensor;Standard Motor Products;50;657
+794;EGR valve;Standard Motor Products;50;659
+795;Transmission pan gasket;Fel-Pro;25;661
+796;MAP sensor;Standard Motor Products;50;666
+797;Transmission shift cable;Pioneer Cables;50;675
+798;Oxygen sensor;Bosch;150;676
+799;Fuel pump;Delphi;150;688
+800;CV joint;GSP;100;691
+801;Spark plugs;NGK;25;693
+802;Oil change;Mobil 1;150;695
+803;Battery;AC Delco;350;671
+804;CV joint;GSP;100;686
+805;Fuel pressure regulator;Delphi;25;692
+806;Fuel pressure regulator;Delphi;25;693
+807;EGR valve;Standard Motor Products;50;695
+808;Axle shaft;A1 Cardone;100;671
+809;Transmission mount;Westar;25;695
+810;Spark plugs;NGK;25;700
+811;Engine control module;A1 Cardone;200;702
+812;Wheel lug nuts;Dorman;25;675
+813;Exhaust manifold;Dorman;100;675
+814;Ignition switch;Standard Motor Products;25;679
+815;Control arm;Dorman;50;688
+816;Headlight assembly;TYC;100;696
+817;Ball joint;Moog;50;700
+818;Transmission fluid change;Valvoline;200;700
+819;Brake fluid flush;Castrol;100;702
+820;Drive belt;Gates;25;691
+821;Oxygen sensor;Bosch;150;696
+822;EGR valve;ACDelco;75;702
+823;Transmission pan gasket;Fel-Pro;25;710
+824;Suspension strut;Monroe;200;717
+825;Ignition coil;Delphi;100;687
+826;Control arm;Dorman;50;689
+827;Catalytic converter;MagnaFlow;300;699
+828;Transmission pan gasket;Fel-Pro;25;704
+829;Transmission control module;ACDelco;200;707
+830;Brake master cylinder;Centric;100;709
+831;Exhaust manifold;Dorman;100;710
+832;Suspension strut;Monroe;200;711
+833;Ball joint;Moog;50;712
+834;CV joint;GSP;100;713
+835;Oil change;Mobil 1;150;716
+836;Drive belt;Gates;25;697
+837;Ignition coil;Delphi;100;708
+838;Alternator;Bosch;300;717
+839;Battery;AC Delco;350;718
+840;Battery;AC Delco;350;721
+841;Control arm bushing;Dorman;25;697
+842;Alternator;Bosch;300;711
+843;Drive belt;Gates;25;718
+844;Fuel pressure regulator;Delphi;25;722
+845;Transmission fluid cooler;Hayden;50;698
+846;Fuel pump;Delphi;150;706
+847;Transmission speed sensor;ACDelco;25;717
+848;Mass airflow sensor;Spectra Premium;150;727
+849;Tie rod end;Mevotech;50;728
+850;Control arm bushing;Febi;50;732
+851;Spark plugs;NGK;25;724
+852;Transmission speed sensor;ACDelco;25;731
+853;Transmission control module;ACDelco;200;739
+854;Crankshaft position sensor;Beck/Arnley;50;708
+855;Axle shaft;A1 Cardone;100;723
+856;Transmission fluid cooler;Hayden;50;724
+857;Clutch kit;Exedy;200;727
+858;Serpentine belt;Gates;75;741
+859;Catalytic converter;MagnaFlow;300;742
+860;Exhaust manifold;Dorman;100;736
+861;Fuel tank filler neck;Dorman;50;739
+862;Transmission mount;Anchor;50;743
+863;Ignition coil;Delphi;100;744
+864;Transmission mount;Anchor;50;747
+865;Ignition switch;Standard Motor Products;25;748
+866;Battery;AC Delco;350;726
+867;Transmission filter;Fram;50;731
+868;Wheel lug nuts;Dorman;25;732
+869;Fuel pressure regulator;Delphi;25;738
+870;Tie rod end;Mevotech;50;743
+871;EGR valve gasket;Fel-Pro;25;744
+872;Ignition coil;Delphi;100;756
+873;Engine oil cooler;Dorman;75;757
+874;Tire rotation;-;100;736
+875;EGR valve gasket;Fel-Pro;25;737
+876;Transmission speed sensor;ACDelco;25;746
+877;Thermostat;Stant;50;758
+878;Fuel injector;Bosch;100;739
+879;Ball joint;Moog;50;740
+880;Transmission control module;ACDelco;200;743
+881;Water pump;Airtex;200;754
+882;EGR valve;ACDelco;75;760
+883;Catalytic converter;MagnaFlow;300;763
+884;Ball joint;Moog;50;764
+885;Engine mount;DEA;50;765
+886;Oil change;Mobil 1;150;765
+887;Ball joint;Moog;50;754
+888;Ignition control module;ACDelco;50;764
+889;Battery;AC Delco;350;771
+890;Fuel tank filler neck;Dorman;50;745
+891;Brake rotor;Centric;100;747
+892;Alternator;Bosch;300;748
+893;EGR valve;ACDelco;75;763
+894;Ignition control module;ACDelco;50;765
+895;Fuel injector;Bosch;100;766
+896;Brake fluid flush;Castrol;100;774
+897;Fuel pressure regulator;Delphi;25;776
+898;Water pump;Airtex;200;745
+899;Brake rotor;Centric;100;747
+900;Control arm bushing;Dorman;25;767
+901;Engine control module;A1 Cardone;200;770
+902;Ignition coil;Bosch;50;776
+903;Oxygen sensor;Bosch;150;781
+904;Brake fluid flush;Castrol;100;782
+905;Windshield wipers;Rain-X;50;760
+906;Windshield wipers;Rain-X;50;760
+907;Mass airflow sensor;Spectra Premium;150;761
+908;Control arm;Dorman;50;766
+909;Transmission fluid cooler;Hayden;50;767
+910;Exhaust manifold;Dorman;100;767
+911;Spark plugs;NGK;25;771
+912;Wheel lug nuts;Dorman;25;772
+913;Catalytic converter;MagnaFlow;300;784
+914;Ball joint;Moog;50;784
+915;Fuel pump;Delphi;150;789
+916;EGR valve;Standard Motor Products;50;754
+917;Headlight assembly;TYC;100;755
+918;Engine control module;A1 Cardone;200;768
+919;Crankshaft position sensor;Beck/Arnley;50;774
+920;EGR valve;Standard Motor Products;50;778
+921;Control arm bushing;Febi;50;780
+922;Headlight bulb;Philips;25;783
+923;Brake caliper;Cardone;50;783
+924;Wheel hub assembly;Timken;200;785
+925;Radiator fan assembly;TYC;100;770
+926;Brake master cylinder;Centric;100;776
+927;EGR valve;Standard Motor Products;50;782
+928;Transmission fluid change;Valvoline;200;785
+929;Brake rotor;Centric;100;789
+930;Transmission fluid change;Valvoline;200;791
+931;Ball joint;Moog;50;792
+932;Power steering hose;Gates;100;795
+933;Alternator;Bosch;300;804
+934;Brake pads;Brembo;200;804
+935;Radiator fan assembly;TYC;100;772
+936;Suspension strut;Monroe;200;785
+937;Spark plugs;NGK;25;797
+938;Transmission fluid change;Valvoline;200;801
+939;Radiator;Denso;350;812
+940;Headlight assembly;TYC;100;775
+941;Transmission speed sensor;ACDelco;25;779
+942;Transmission control module;ACDelco;200;781
+943;Catalytic converter;MagnaFlow;300;783
+944;Spark plugs;NGK;25;787
+945;Wheel hub assembly;Timken;200;789
+946;Camshaft position sensor;Dorman;100;793
+947;Transmission mount;Anchor;50;799
+948;Transmission mount;Anchor;50;800
+949;Control arm;Moog;150;803
+950;Catalytic converter;MagnaFlow;300;817
+951;Fuel tank filler neck;Dorman;50;788
+952;Camshaft position sensor;Dorman;100;793
+953;PCV valve;Standard Motor Products;25;803
+954;Fuel pump;Delphi;150;815
+955;Alternator;Bosch;300;823
+956;Headlight bulb;Philips;25;786
+957;Tie rod end;Mevotech;50;829
+958;Muffler;Walker;100;792
+959;Control arm bushing;Febi;50;803
+960;Wheel cylinder;Raybestos;50;806
+961;Drive belt;Gates;25;808
+962;Engine oil cooler;Dorman;75;809
+963;Oxygen sensor;Bosch;150;818
+964;Transmission fluid change;Valvoline;200;820
+965;Transmission shift cable;Pioneer Cables;50;798
+966;Fuel pump;Delphi;150;800
+967;Brake pads;Brembo;200;811
+968;Brake caliper;Cardone;50;825
+969;MAP sensor;Standard Motor Products;50;826
+970;Thermostat;Stant;50;806
+971;Brake rotor;Centric;100;808
+972;Power steering hose;Gates;100;811
+973;Transmission fluid change;Valvoline;200;815
+974;Brake fluid flush;Castrol;100;843
+975;Control arm;Moog;75;816
+976;Power steering pump;Cardone;150;819
+977;Blower motor;TYC;75;822
+978;Oxygen sensor;Bosch;150;827
+979;Engine oil cooler;Dorman;75;828
+980;CV joint;GSP;100;829
+981;Wheel alignment;-;400;830
+982;Serpentine belt;Gates;75;831
+983;CV joint;GSP;100;837
+984;Headlight assembly;TYC;100;822
+985;Transmission pan gasket;Fel-Pro;25;826
+986;Tie rod end;Mevotech;50;850
+991;Ignition switch;ACDelco;50;841
+988;Fuel pump;Delphi;150;826
+989;Tie rod end;Mevotech;50;827
+990;Exhaust manifold;Dorman;100;832
+991;Ignition switch;ACDelco;50;841
+992;Throttle body;Dorman;75;845
+993;Wheel alignment;-;400;848
+994;Transmission mount;Westar;25;836
+995;Fuel tank filler neck;Dorman;50;844
+996;Control arm;Moog;75;845
+997;Ignition control module;ACDelco;50;847
+998;Wheel alignment;-;400;852
+999;Transmission shift solenoid;Rostra;75;865
+1000;Ignition switch;ACDelco;50;837
+1001;Fuel pressure regulator;Delphi;25;848
+1002;CV joint;GSP;100;840
+1003;Axle shaft;A1 Cardone;100;843
+1004;Headlight bulb;Philips;25;844
+1005;Ball joint;Moog;50;855
+1006;Wheel hub assembly;Timken;200;856
+1007;Ball joint;Moog;50;860
+1008;PCV valve;Standard Motor Products;25;861
+1009;Fuel pump;Delphi;150;863
+1010;Transmission mount;Westar;25;874
+1011;Headlight assembly;TYC;100;876
+1012;Engine control module;A1 Cardone;200;858
+1013;Transmission speed sensor;ACDelco;25;866
+1014;Wheel cylinder;Raybestos;50;869
+1015;Windshield wipers;Rain-X;50;871
+1016;Camshaft position sensor;Dorman;100;874
+1017;Exhaust manifold;Dorman;100;849
+1018;Ignition switch;ACDelco;50;854
+1019;Fuel pressure regulator;Delphi;25;866
+1020;Control arm bushing;Dorman;25;870
+1021;Ignition control module;ACDelco;50;871
+1022;Alternator;Bosch;300;876
+1023;Exhaust manifold;Dorman;100;878
+1024;Control arm;Dorman;50;881
+1025;Transmission mount;Anchor;50;882
+1026;Fuel filter;Wix;50;867
+1027;Drive belt;Gates;25;868
+1028;Ignition switch;ACDelco;50;881
+1029;MAP sensor;Standard Motor Products;50;884
+1030;Air filter;Fram;50;864
+1031;Axle shaft;A1 Cardone;100;876
+1032;Fuel tank;Spectra Premium;200;879
+1033;Fuel tank;Spectra Premium;200;886
+1034;Control arm;Dorman;50;864
+1035;EGR valve;Standard Motor Products;50;891
+1036;Mass airflow sensor;Spectra Premium;150;894
+1037;EGR valve;ACDelco;75;895
+1038;Wheel cylinder;Raybestos;50;874
+1039;Thermostat;Stant;50;883
+1040;Catalytic converter;MagnaFlow;300;885
+1041;Transmission speed sensor;ACDelco;25;887
+1042;Ignition control module;ACDelco;50;893
+1043;Water pump;Airtex;200;895
+1044;Transmission fluid change;Valvoline;200;891
+1045;Blower motor;TYC;75;892
+1046;Drive belt;Gates;25;884
+1047;Wheel hub assembly;Timken;200;905
+1048;Transmission shift cable;Pioneer Cables;50;908
+1049;Ignition coil;Bosch;50;911
+1050;Wheel alignment;-;400;881
+1051;Tire rotation;-;100;882
+1052;Serpentine belt;Gates;75;900
+1053;Fuel pump;Delphi;150;904
+1054;Transmission control module;ACDelco;200;904
+1055;Brake caliper;Cardone;50;912
+1056;Transmission speed sensor;ACDelco;25;893
+1057;EGR valve;Standard Motor Products;50;911
+1058;Transmission filter;Fram;50;902
+1059;Alternator;Bosch;300;910
+1060;Engine mount;DEA;50;911
+1061;MAP sensor;Standard Motor Products;50;914
+1062;Axle shaft;A1 Cardone;100;915
+1063;Engine control module;A1 Cardone;200;920
+1064;Serpentine belt;Gates;75;925
+1065;Fuel injector;Bosch;100;896
+1066;Brake caliper;Cardone;50;896
+1067;Drive belt;Gates;25;901
+1068;Engine oil cooler;Dorman;75;901
+1069;PCV valve;Standard Motor Products;25;905
+1070;Transmission control module;ACDelco;200;909
+1071;Wheel cylinder;Raybestos;50;915
+1072;EGR valve;ACDelco;75;918
+1073;Power steering hose;Gates;100;927
+1074;Brake rotor;Centric;100;931
+1075;Windshield wipers;Rain-X;50;917
+1076;Transmission mount;Westar;25;918
+1077;Wheel cylinder;Raybestos;50;927
+1078;Engine oil cooler;Dorman;75;932
+1079;Headlight assembly;TYC;100;906
+1080;Control arm bushing;Dorman;25;910
+1081;Transmission shift cable;Pioneer Cables;50;925
+1082;Brake fluid flush;Castrol;100;934
+1083;Fuel tank;Spectra Premium;200;913
+1084;Windshield wipers;Rain-X;50;923
+1085;CV joint;GSP;100;935
+1086;Fuel pump;Delphi;150;922
+1087;Fuel tank filler neck;Dorman;50;947
+1093;Control arm bushing;Febi;50;936
+1089;Mass airflow sensor;Spectra Premium;150;918
+1090;Wheel hub assembly;Timken;200;920
+1091;Windshield wipers;Rain-X;50;924
+1092;Brake pads;Brembo;200;935
+1093;Control arm bushing;Febi;50;936
+1094;Ignition switch;Standard Motor Products;25;926
+1095;Alternator;Bosch;300;927
+1096;Clutch kit;Exedy;200;929
+1097;Ignition switch;ACDelco;50;949
+1098;Fuel filter;Wix;50;957
+1101;Spark plugs;NGK;25;936
+1100;Exhaust manifold;Dorman;100;932
+1101;Spark plugs;NGK;25;936
+1102;Windshield wipers;Rain-X;50;937
+1103;Air filter;Fram;50;942
+1104;Shock absorber;KYB;75;948
+1105;Brake pads;Brembo;200;935
+1106;Transmission shift cable;Pioneer Cables;50;941
+1107;Control arm;Moog;150;952
+1108;Camshaft position sensor;Dorman;100;938
+1109;Brake rotor;Centric;100;958
+1110;Fuel tank;Spectra Premium;200;961
+1111;Brake caliper;Cardone;50;972
+1112;Clutch kit;Exedy;200;974
+1113;EGR valve;ACDelco;75;947
+1114;Windshield wipers;Rain-X;50;951
+1115;Ball joint;Moog;50;963
+1116;Engine mount;DEA;50;967
+1117;Wheel bearing;SKF;50;969
+1118;Throttle body;Dorman;75;974
+1119;Thermostat;Stant;50;955
+1120;Brake master cylinder;Centric;100;965
+1121;Ignition switch;Standard Motor Products;25;971
+1122;Power steering pump;Cardone;150;976
+1123;Transmission fluid change;Valvoline;200;953
+1124;Tire rotation;-;100;959
+1125;Exhaust manifold;Dorman;100;963
+1126;Brake caliper;Cardone;50;969
+1127;Transmission shift solenoid;Rostra;75;975
+1128;Drive belt;Gates;25;984
+1129;Throttle body;Dorman;75;968
+1130;Fuel pump;Delphi;150;974
+1131;Engine control module;A1 Cardone;200;988
+1132;CV joint;GSP;100;965
+1133;Alternator;Bosch;300;970
+1134;MAP sensor;Standard Motor Products;50;971
+1135;Suspension strut;Monroe;200;978
+1136;Control arm;Dorman;50;979
+1137;Radiator fan assembly;TYC;100;994
+1138;Shock absorber;KYB;75;995
+1139;Wheel hub assembly;Timken;200;972
+1140;Ignition switch;ACDelco;50;975
+1141;Spark plugs;NGK;25;981
+1142;Serpentine belt;Gates;75;984
+1143;Transmission filter;Fram;50;985
+1144;Transmission shift cable;Pioneer Cables;50;985
+1145;Air filter;Fram;50;996
+1146;Serpentine belt;Gates;75;1005
+1147;Shock absorber;KYB;75;976
+1148;Brake rotor;Centric;100;999
+1149;CV joint;GSP;100;1007
+1150;Ignition control module;ACDelco;50;1007
+1151;Muffler;Walker;100;985
+1152;Power steering pump;Cardone;150;990
+1153;Transmission shift cable;Pioneer Cables;50;992
+1154;Crankshaft position sensor;Beck/Arnley;50;1002
+1155;Transmission filter;Fram;50;1003
+1156;Fuel pump;Delphi;150;1004
+1157;Control arm;Dorman;50;1008
+1158;Throttle body;Dorman;75;1015
+1160;Air filter;Fram;50;998
+1160;Air filter;Fram;50;998
+1161;Fuel pump;Delphi;150;1014
+1162;Brake caliper;Cardone;50;991
+1163;Ignition coil;Bosch;50;999
+1164;Catalytic converter;MagnaFlow;300;1000
+1165;EGR valve;Standard Motor Products;50;1010
+1166;Ignition switch;Standard Motor Products;25;1016
+1167;Control arm bushing;Febi;50;1023
+1168;Control arm;Moog;150;1024
+1169;Shock absorber;KYB;75;996
+1170;Headlight bulb;Philips;25;997
+1171;Transmission mount;Anchor;50;1018
+1172;Transmission mount;Westar;25;1004
+1173;Power steering pump;Cardone;150;1007
+1174;Brake rotor;Centric;100;1010
+1175;Wheel lug nuts;Dorman;25;1017
+1176;Fuel filter;Wix;50;1018
+1177;MAP sensor;Standard Motor Products;50;1011
+1178;Blower motor;TYC;75;1023
+1179;MAP sensor;Standard Motor Products;50;1024
+1180;Brake rotor;Centric;100;1011
+1181;Brake rotor;Centric;100;1016
+1182;Transmission mount;Westar;25;1038
+1183;Transmission filter;Fram;50;1040
+1184;Wheel lug nuts;Dorman;25;1041
+1185;Headlight assembly;TYC;100;1012
+1186;Transmission mount;Anchor;50;1016
+1187;Mass airflow sensor;Spectra Premium;150;1024
+1188;Battery;AC Delco;350;1029
+1189;Wheel cylinder;Raybestos;50;1031
+1190;Transmission mount;Westar;25;1034
+1191;Transmission mount;Anchor;50;1020
+1192;Wheel lug nuts;Dorman;25;1028
+1193;Fuel tank;Spectra Premium;200;1029
+1194;Ignition coil;Bosch;50;1037
+1195;Ignition coil;Delphi;100;1040
+1196;Air filter;Fram;50;1044
+1197;Crankshaft position sensor;Beck/Arnley;50;1048
+1198;Transmission speed sensor;ACDelco;25;1032
+1199;Mass airflow sensor;Spectra Premium;150;1035
+1200;Spark plugs;NGK;25;1035
+1201;Drive belt;Gates;25;1036
+1202;Engine mount;DEA;50;1037
+1203;Engine control module;A1 Cardone;200;1038
+1204;CV joint;GSP;100;1041
+1205;Headlight bulb;Philips;25;1042
+1206;Shock absorber;KYB;75;1048
+1207;Brake caliper;Cardone;50;1025
+1208;Crankshaft position sensor;Beck/Arnley;50;1026
+1209;Muffler;Walker;100;1034
+1210;Oxygen sensor;Bosch;150;1034
+1211;Transmission fluid change;Valvoline;200;1046
+1212;Blower motor;TYC;75;1047
+1213;Battery;AC Delco;350;1049
+1214;Headlight assembly;TYC;100;1055
+1215;Oxygen sensor;Bosch;150;1031
+1216;Air filter;Fram;50;1045
+1217;Blower motor;TYC;75;1058
+1218;Fuel injector;Bosch;100;1059
+1219;Fuel filter;Wix;50;1038
+1220;Serpentine belt;Gates;75;1042
+1221;Tie rod end;Mevotech;50;1050
+1222;Blower motor;TYC;75;1050
+1223;Transmission mount;Anchor;50;1065
+1224;Ignition coil;Bosch;50;1070
+1225;Clutch kit;Exedy;200;1050
+1226;Radiator;Denso;350;1052
+1227;Axle shaft;A1 Cardone;100;1058
+1228;Thermostat;Stant;50;1061
+1229;Suspension strut;Monroe;200;1047
+1230;EGR valve gasket;Fel-Pro;25;1053
+1231;Camshaft position sensor;Dorman;100;1057
+1232;Transmission shift solenoid;Rostra;75;1062
+1233;Oxygen sensor;Bosch;150;1066
+1234;EGR valve gasket;Fel-Pro;25;1072
+1235;Muffler;Walker;100;1077
+1236;Tire rotation;-;100;1078
+1237;Water pump;Airtex;200;1061
+1238;Transmission fluid cooler;Hayden;50;1062
+1239;Ignition coil;Delphi;100;1064
+1240;Ignition switch;Standard Motor Products;25;1073
+1241;Water pump;Airtex;200;1087
+1242;Clutch kit;Exedy;200;1064
+1243;Drive belt;Gates;25;1066
+1244;Serpentine belt;Gates;75;1069
+1245;Ignition switch;Standard Motor Products;25;1085
+1246;Transmission pan gasket;Fel-Pro;25;1068
+1247;Transmission fluid change;Valvoline;200;1073
+1248;Ignition coil;Delphi;100;1082
+1249;Brake fluid flush;Castrol;100;1092
+1250;PCV valve;Standard Motor Products;25;1096
+1251;Spark plugs;NGK;25;1066
+1252;Fuel pump;Delphi;150;1083
+1253;CV joint;GSP;100;1094
+1254;Battery;AC Delco;350;1100
+1255;Mass airflow sensor;Spectra Premium;150;1102
+1256;Muffler;Walker;100;1103
+1257;Power steering pump;Cardone;150;1092
+1258;MAP sensor;Standard Motor Products;50;1103
+1259;Power steering pump;Cardone;150;1079
+1260;Transmission fluid change;Valvoline;200;1079
+1261;Water pump;Airtex;200;1080
+1262;Ball joint;Moog;50;1091
+1263;CV joint;GSP;100;1083
+1264;Transmission fluid change;Valvoline;200;1090
+1265;Clutch kit;Exedy;200;1090
+1266;Transmission mount;Anchor;50;1103
+1267;Control arm bushing;Febi;50;1107
+1268;Fuel filter;Wix;50;1108
+1270;Wheel cylinder;Raybestos;50;1089
+1270;Wheel cylinder;Raybestos;50;1089
+1271;Tire rotation;-;100;1091
+1272;Fuel pressure regulator;Delphi;25;1093
+1273;Ignition coil;Bosch;50;1099
+1274;Water pump;Airtex;200;1105
+1275;Transmission shift solenoid;Rostra;75;1111
+1276;Transmission fluid change;Valvoline;200;1111
+1277;Transmission fluid change;Valvoline;200;1113
+1278;Serpentine belt;Gates;75;1093
+1279;Wheel cylinder;Raybestos;50;1098
+1280;Transmission shift cable;Pioneer Cables;50;1101
+1281;Transmission mount;Anchor;50;1107
+1282;Exhaust manifold;Dorman;100;1124
+1283;Engine mount;DEA;50;1124
+1284;Ignition switch;ACDelco;50;1096
+1285;Camshaft position sensor;Dorman;100;1100
+1286;Control arm;Moog;150;1101
+1287;Wheel lug nuts;Dorman;25;1102
+1288;Transmission filter;Fram;50;1109
+1289;Radiator fan assembly;TYC;100;1113
+1290;Drive belt;Gates;25;1115
+1291;Fuel tank;Spectra Premium;200;1115
+1292;Power steering pump;Cardone;150;1117
+1293;Transmission mount;Westar;25;1121
+1294;Transmission mount;Anchor;50;1129
+1295;Control arm;Moog;150;1119
+1296;Power steering hose;Gates;100;1128
+1297;Shock absorber;KYB;75;1130
+1298;Water pump;Airtex;200;1106
+1299;Transmission mount;Westar;25;1128
+1300;Ignition switch;Standard Motor Products;25;1134
+1301;Transmission fluid cooler;Hayden;50;1141
+1303;Ball joint;Moog;50;1114
+1303;Ball joint;Moog;50;1114
+1304;Transmission pan gasket;Fel-Pro;25;1125
+1305;Spark plugs;NGK;25;1128
+1306;Ignition coil;Delphi;100;1129
+1307;Wheel alignment;-;400;1145
+1308;Brake pads;Brembo;200;1124
+1309;Air filter;Fram;50;1139
+1310;Brake rotor;Centric;100;1144
+1311;Control arm bushing;Dorman;25;1146
+1312;Air filter;Fram;50;1150
+1313;PCV valve;Standard Motor Products;25;1154
+1314;Headlight assembly;TYC;100;1129
+1315;Power steering hose;Gates;100;1135
+1316;Engine control module;A1 Cardone;200;1137
+1317;Power steering hose;Gates;100;1143
+1318;Engine mount;DEA;50;1145
+1319;Power steering pump;Cardone;150;1153
+1320;Alternator;Bosch;300;1125
+1321;Spark plugs;NGK;25;1126
+1322;Wheel alignment;-;400;1151
+1323;Tie rod end;Mevotech;50;1151
+1324;Catalytic converter;MagnaFlow;300;1152
+1325;Throttle body;Dorman;75;1160
+1326;EGR valve gasket;Fel-Pro;25;1161
+1327;Engine mount;DEA;50;1162
+1328;Tie rod end;Mevotech;50;1163
+1329;Shock absorber;KYB;75;1141
+1330;Mass airflow sensor;Spectra Premium;150;1142
+1331;Wheel cylinder;Raybestos;50;1154
+1332;Suspension strut;Monroe;200;1156
+1333;Transmission filter;Fram;50;1157
+1334;Power steering pump;Cardone;150;1167
+1335;Fuel pump;Delphi;150;1168
+1336;Muffler;Walker;100;1135
+1337;Wheel lug nuts;Dorman;25;1136
+1338;Shock absorber;KYB;75;1138
+1339;EGR valve;Standard Motor Products;50;1152
+1340;Spark plugs;NGK;25;1161
+1341;Brake caliper;Cardone;50;1163
+1342;Tire rotation;-;100;1164
+1343;Serpentine belt;Gates;75;1170
+1344;Transmission shift cable;Pioneer Cables;50;1139
+1345;Wheel lug nuts;Dorman;25;1143
+1346;EGR valve gasket;Fel-Pro;25;1149
+1347;Drive belt;Gates;25;1153
+1348;Transmission mount;Anchor;50;1162
+1349;Ignition coil;Delphi;100;1164
+1350;Serpentine belt;Gates;75;1171
+1351;Fuel pump;Delphi;150;1155
+1352;Transmission mount;Westar;25;1158
+1353;Camshaft position sensor;Dorman;100;1162
+1354;Brake caliper;Cardone;50;1165
+1355;Clutch kit;Exedy;200;1174
+1356;EGR valve gasket;Fel-Pro;25;1177
+1357;Catalytic converter;MagnaFlow;300;1167
+1358;Brake rotor;Centric;100;1178
+1359;Water pump;Airtex;200;1181
+1360;Fuel injector;Bosch;100;1171
+1361;Wheel hub assembly;Timken;200;1179
+1362;Control arm bushing;Febi;50;1173
+1363;Engine oil cooler;Dorman;75;1182
+1364;Wheel bearing;SKF;50;1186
+1365;Oil change;Mobil 1;150;1170
+1366;Mass airflow sensor;Spectra Premium;150;1171
+1367;EGR valve;Standard Motor Products;50;1177
+1368;Transmission pan gasket;Fel-Pro;25;1183
+1369;Exhaust manifold;Dorman;100;1192
+1370;Drive belt;Gates;25;1196
+1371;Battery;AC Delco;350;1197
+1372;Alternator;Bosch;300;1172
+1373;Wheel cylinder;Raybestos;50;1187
+1374;EGR valve;Standard Motor Products;50;1192
+1375;Oxygen sensor;Bosch;150;1198
+1376;Ignition switch;ACDelco;50;1199
+1377;Transmission control module;ACDelco;200;1176
+1378;Drive belt;Gates;25;1185
+1379;Engine mount;DEA;50;1195
+1380;Wheel alignment;-;400;1206
+1381;Wheel lug nuts;Dorman;25;1206
+1382;Transmission shift solenoid;Rostra;75;1209
+1383;Crankshaft position sensor;Beck/Arnley;50;1185
+1384;Transmission pan gasket;Fel-Pro;25;1187
+1385;Control arm bushing;Febi;50;1192
+1386;CV joint;GSP;100;1195
+1387;Muffler;Walker;100;1198
+1388;Engine mount;DEA;50;1214
+1394;Power steering pump;Cardone;150;1194
+1395;Mass airflow sensor;Spectra Premium;150;1194
+1391;Axle shaft;A1 Cardone;100;1189
+1392;Engine mount;DEA;50;1190
+1393;Control arm;Moog;75;1191
+1394;Power steering pump;Cardone;150;1194
+1395;Mass airflow sensor;Spectra Premium;150;1194
+1396;Tire rotation;-;100;1198
+1397;Windshield wipers;Rain-X;50;1211
+1398;Radiator fan assembly;TYC;100;1217
+1399;Camshaft position sensor;Dorman;100;1217
+1400;Wheel hub assembly;Timken;200;1191
+1401;EGR valve;ACDelco;75;1196
+1402;Power steering pump;Cardone;150;1208
+1403;Transmission mount;Westar;25;1224
+1404;Muffler;Walker;100;1225
+1405;Ignition switch;Standard Motor Products;25;1199
+1406;Headlight assembly;TYC;100;1203
+1407;Transmission control module;ACDelco;200;1207
+1408;Fuel pressure regulator;Delphi;25;1214
+1409;Headlight assembly;TYC;100;1216
+1410;Camshaft position sensor;Dorman;100;1210
+1411;Tire rotation;-;100;1217
+1412;Mass airflow sensor;Spectra Premium;150;1225
+1413;Axle shaft;A1 Cardone;100;1230
+1414;Power steering hose;Gates;100;1234
+1415;Oxygen sensor;Bosch;150;1224
+1416;Radiator;Denso;350;1234
+1417;Transmission shift cable;Pioneer Cables;50;1235
+1418;Transmission fluid change;Valvoline;200;1236
+1419;Spark plugs;NGK;25;1237
+1420;Ignition switch;ACDelco;50;1210
+1421;Thermostat;Stant;50;1212
+1422;Ignition control module;ACDelco;50;1215
+1423;Fuel tank;Spectra Premium;200;1222
+1424;Ball joint;Moog;50;1231
+1425;Transmission fluid change;Valvoline;200;1242
+1426;Fuel tank filler neck;Dorman;50;1220
+1427;Brake rotor;Centric;100;1226
+1428;Power steering hose;Gates;100;1230
+1429;Windshield wipers;Rain-X;50;1235
+1430;Transmission control module;ACDelco;200;1236
+1431;Ignition control module;ACDelco;50;1237
+1432;Exhaust hanger;Walker;25;1245
+1433;EGR valve;ACDelco;75;1222
+1434;Control arm;Moog;75;1227
+1435;Transmission shift solenoid;Rostra;75;1229
+1436;Spark plugs;NGK;25;1229
+1437;Wheel cylinder;Raybestos;50;1232
+1438;Radiator fan assembly;TYC;100;1232
+1439;Alternator;Bosch;300;1237
+1440;Muffler;Walker;100;1223
+1441;Thermostat;Stant;50;1224
+1442;EGR valve gasket;Fel-Pro;25;1227
+1443;Fuel injector;Bosch;100;1228
+1444;Drive belt;Gates;25;1234
+1445;Fuel filter;Wix;50;1236
+1446;Ignition coil;Bosch;50;1240
+1447;Throttle body;Dorman;75;1243
+1448;Clutch kit;Exedy;200;1262
+1451;Camshaft position sensor;Dorman;100;1233
+1450;Air filter;Fram;50;1231
+1451;Camshaft position sensor;Dorman;100;1233
+1452;Water pump;Airtex;200;1244
+1453;Radiator;Denso;350;1245
+1454;Shock absorber;KYB;75;1248
+1455;Transmission shift solenoid;Rostra;75;1249
+1456;Control arm;Dorman;50;1251
+1457;Ignition control module;ACDelco;50;1254
+1458;Brake fluid flush;Castrol;100;1255
+1459;Transmission speed sensor;ACDelco;25;1256
+1460;Transmission speed sensor;ACDelco;25;1266
+1461;Ignition coil;Delphi;100;1238
+1462;Transmission mount;Westar;25;1238
+1463;Ignition switch;Standard Motor Products;25;1242
+1464;Transmission fluid change;Valvoline;200;1248
+1465;Catalytic converter;MagnaFlow;300;1250
+1466;Oil change;Mobil 1;150;1264
+1467;EGR valve;Standard Motor Products;50;1239
+1468;Control arm;Dorman;50;1239
+1469;Transmission mount;Anchor;50;1241
+1470;Serpentine belt;Gates;75;1241
+1471;Serpentine belt;Gates;75;1242
+1472;Tire rotation;-;100;1256
+1473;Transmission shift cable;Pioneer Cables;50;1257
+1474;Ignition coil;Delphi;100;1261
+1475;Wheel lug nuts;Dorman;25;1268
+1476;Transmission control module;ACDelco;200;1252
+1477;Mass airflow sensor;Spectra Premium;150;1262
+1478;Brake caliper;Cardone;50;1274
+1479;Engine mount;DEA;50;1275
+1480;Engine mount;DEA;50;1280
+1481;Mass airflow sensor;Spectra Premium;150;1250
+1482;Wheel alignment;-;400;1260
+1483;Wheel bearing;SKF;50;1266
+1484;Spark plugs;NGK;25;1269
+1485;Engine control module;A1 Cardone;200;1277
+1490;Transmission mount;Anchor;50;1258
+1492;Transmission mount;Anchor;50;1273
+1488;Transmission mount;Anchor;50;1255
+1489;Exhaust manifold;Dorman;100;1257
+1490;Transmission mount;Anchor;50;1258
+1491;Camshaft position sensor;Dorman;100;1270
+1492;Transmission mount;Anchor;50;1273
+1493;Ignition switch;ACDelco;50;1281
+1494;Control arm;Moog;150;1282
+1495;Brake master cylinder;Centric;100;1287
+1496;Transmission pan gasket;Fel-Pro;25;1269
+1497;Transmission mount;Anchor;50;1269
+1498;MAP sensor;Standard Motor Products;50;1275
+1499;Battery;AC Delco;350;1282
+1500;Battery;AC Delco;350;1287
+1501;Ignition switch;Standard Motor Products;25;1293
+1502;Wheel alignment;-;400;1266
+1503;Wheel alignment;-;400;1278
+1504;CV joint;GSP;100;1280
+1505;Wheel hub assembly;Timken;200;1288
+1506;Transmission speed sensor;ACDelco;25;1293
+1507;Brake fluid flush;Castrol;100;1298
+1508;Engine oil cooler;Dorman;75;1277
+1509;Brake fluid flush;Castrol;100;1281
+1510;Headlight assembly;TYC;100;1284
+1511;Muffler;Walker;100;1289
+1512;Exhaust hanger;Walker;25;1300
+1513;Transmission shift cable;Pioneer Cables;50;1278
+1514;Engine oil cooler;Dorman;75;1279
+1515;Ignition switch;Standard Motor Products;25;1290
+1516;Axle shaft;A1 Cardone;100;1297
+1517;Thermostat;Stant;50;1303
+1518;Water pump;Airtex;200;1305
+1519;Transmission shift solenoid;Rostra;75;1282
+1520;Headlight assembly;TYC;100;1283
+1521;Ignition control module;ACDelco;50;1295
+1522;Fuel pump;Delphi;150;1296
+1523;EGR valve gasket;Fel-Pro;25;1304
+1524;Brake master cylinder;Centric;100;1308
+1525;Catalytic converter;MagnaFlow;300;1310
+1526;Wheel bearing;SKF;50;1288
+1527;CV joint;GSP;100;1289
+1528;EGR valve;ACDelco;75;1298
+1529;Radiator fan assembly;TYC;100;1302
+1530;Exhaust manifold;Dorman;100;1309
+1531;Ignition coil;Delphi;100;1309
+1532;Alternator;Bosch;300;1319
+1536;Power steering pump;Cardone;150;1301
+1534;Control arm bushing;Febi;50;1295
+1538;Brake caliper;Cardone;50;1307
+1536;Power steering pump;Cardone;150;1301
+1537;Air filter;Fram;50;1304
+1538;Brake caliper;Cardone;50;1307
+1539;Oxygen sensor;Bosch;150;1309
+1540;Ignition switch;ACDelco;50;1313
+1541;Ignition switch;Standard Motor Products;25;1322
+1542;Power steering hose;Gates;100;1297
+1543;Transmission shift solenoid;Rostra;75;1302
+1544;Brake pads;Brembo;200;1304
+1545;Headlight assembly;TYC;100;1300
+1546;Fuel tank filler neck;Dorman;50;1300
+1547;Power steering pump;Cardone;150;1303
+1548;Wheel lug nuts;Dorman;25;1317
+1549;Control arm;Dorman;50;1321
+1550;Power steering pump;Cardone;150;1326
+1551;Mass airflow sensor;Spectra Premium;150;1327
+1552;Brake rotor;Centric;100;1328
+1553;Brake pads;Brembo;200;1317
+1554;Headlight bulb;Philips;25;1317
+1555;Control arm;Moog;75;1323
+1556;Spark plugs;NGK;25;1324
+1557;Brake pads;Brembo;200;1332
+1558;Control arm;Moog;150;1333
+1559;Battery;AC Delco;350;1336
+1560;Transmission speed sensor;ACDelco;25;1341
+1561;Windshield wipers;Rain-X;50;1312
+1562;Battery;AC Delco;350;1314
+1563;Wheel hub assembly;Timken;200;1322
+1564;Transmission fluid change;Valvoline;200;1338
+1565;Transmission mount;Westar;25;1338
+1566;Transmission filter;Fram;50;1344
+1567;Oil change;Mobil 1;150;1347
+1568;Thermostat;Stant;50;1318
+1569;Shock absorber;KYB;75;1324
+1570;Fuel injector;Bosch;100;1330
+1571;Alternator;Bosch;300;1334
+1572;EGR valve;ACDelco;75;1342
+1573;Ball joint;Moog;50;1344
+1574;CV joint;GSP;100;1319
+1575;Oxygen sensor;Bosch;150;1323
+1576;Control arm;Moog;75;1332
+1577;Transmission pan gasket;Fel-Pro;25;1353
+1578;Muffler;Walker;100;1355
+1579;Brake caliper;Cardone;50;1355
+1580;Camshaft position sensor;Dorman;100;1324
+1581;EGR valve;Standard Motor Products;50;1335
+1582;Brake fluid flush;Castrol;100;1336
+1583;Ignition coil;Bosch;50;1341
+1584;Transmission mount;Westar;25;1346
+1585;Transmission fluid change;Valvoline;200;1348
+1586;CV joint;GSP;100;1351
+1587;Fuel filter;Wix;50;1357
+1588;Ignition coil;Bosch;50;1359
+1589;Transmission control module;ACDelco;200;1327
+1590;Serpentine belt;Gates;75;1335
+1591;Ignition coil;Delphi;100;1345
+1592;Brake pads;Brembo;200;1347
+1593;Wheel bearing;SKF;50;1368
+1594;Exhaust manifold;Dorman;100;1340
+1595;EGR valve;Standard Motor Products;50;1350
+1596;Fuel injector;Bosch;100;1356
+1597;CV joint;GSP;100;1358
+1598;Exhaust manifold;Dorman;100;1363
+1599;Wheel alignment;-;400;1364
+1601;Transmission pan gasket;Fel-Pro;25;1349
+1601;Transmission pan gasket;Fel-Pro;25;1349
+1602;Oxygen sensor;Bosch;150;1352
+1603;Blower motor;TYC;75;1357
+1604;Engine mount;DEA;50;1363
+1605;Tie rod end;Mevotech;50;1364
+1606;EGR valve;Standard Motor Products;50;1374
+1607;Muffler;Walker;100;1378
+1608;Radiator;Denso;350;1379
+1609;Wheel hub assembly;Timken;200;1343
+1610;Transmission fluid cooler;Hayden;50;1354
+1611;Alternator;Bosch;300;1358
+1612;Water pump;Airtex;200;1359
+1613;Clutch kit;Exedy;200;1360
+1614;Brake master cylinder;Centric;100;1374
+1616;Headlight assembly;TYC;100;1349
+1616;Headlight assembly;TYC;100;1349
+1617;Ball joint;Moog;50;1351
+1618;Radiator fan assembly;TYC;100;1353
+1619;Serpentine belt;Gates;75;1368
+1620;Transmission speed sensor;ACDelco;25;1378
+1621;Radiator;Denso;350;1383
+1622;MAP sensor;Standard Motor Products;50;1389
+1623;Muffler;Walker;100;1389
+1624;Exhaust manifold;Dorman;100;1360
+1625;Brake rotor;Centric;100;1373
+1626;Headlight assembly;TYC;100;1380
+1627;Transmission fluid cooler;Hayden;50;1370
+1628;Headlight assembly;TYC;100;1394
+1629;Transmission fluid cooler;Hayden;50;1395
+1630;Air filter;Fram;50;1366
+1631;Throttle body;Dorman;75;1368
+1632;Mass airflow sensor;Spectra Premium;150;1369
+1633;Transmission mount;Anchor;50;1372
+1634;CV joint;GSP;100;1374
+1635;Brake master cylinder;Centric;100;1383
+1636;EGR valve;Standard Motor Products;50;1396
+1637;Serpentine belt;Gates;75;1370
+1638;Fuel injector;Bosch;100;1372
+1639;Transmission control module;ACDelco;200;1373
+1640;Fuel tank;Spectra Premium;200;1373
+1641;Catalytic converter;MagnaFlow;300;1401
+1643;Transmission pan gasket;Fel-Pro;25;1377
+1643;Transmission pan gasket;Fel-Pro;25;1377
+1644;Transmission mount;Westar;25;1378
+1645;Axle shaft;A1 Cardone;100;1379
+1646;Throttle body;Dorman;75;1379
+1647;Ignition switch;ACDelco;50;1393
+1648;Transmission control module;ACDelco;200;1399
+1649;Thermostat;Stant;50;1399
+1650;Shock absorber;KYB;75;1403
+1651;Radiator fan assembly;TYC;100;1409
+1652;Control arm bushing;Dorman;25;1382
+1653;Ignition coil;Bosch;50;1384
+1654;Ignition switch;ACDelco;50;1393
+1655;EGR valve;ACDelco;75;1394
+1656;EGR valve;Standard Motor Products;50;1402
+1657;Transmission filter;Fram;50;1402
+1658;Transmission shift solenoid;Rostra;75;1413
+1659;Control arm bushing;Dorman;25;1396
+1660;PCV valve;Standard Motor Products;25;1406
+1661;PCV valve;Standard Motor Products;25;1409
+1662;Brake rotor;Centric;100;1422
+1663;Transmission pan gasket;Fel-Pro;25;1395
+1664;Catalytic converter;MagnaFlow;300;1416
+1665;Headlight assembly;TYC;100;1418
+1666;Engine control module;A1 Cardone;200;1419
+1667;Wheel hub assembly;Timken;200;1426
+1668;Fuel pressure regulator;Delphi;25;1400
+1669;Ignition switch;ACDelco;50;1402
+1670;Ball joint;Moog;50;1406
+1671;Fuel pressure regulator;Delphi;25;1408
+1672;Control arm;Dorman;50;1410
+1673;Fuel tank filler neck;Dorman;50;1426
+1674;Wheel alignment;-;400;1428
+1675;Serpentine belt;Gates;75;1408
+1676;Drive belt;Gates;25;1413
+1677;Brake rotor;Centric;100;1427
+1678;Exhaust manifold;Dorman;100;1428
+1679;Radiator fan assembly;TYC;100;1432
+1680;Ignition switch;Standard Motor Products;25;1433
+1681;Brake caliper;Cardone;50;1419
+1682;Control arm bushing;Dorman;25;1419
+1683;Ignition coil;Delphi;100;1420
+1684;Serpentine belt;Gates;75;1414
+1685;Power steering hose;Gates;100;1417
+1686;Transmission speed sensor;ACDelco;25;1417
+1687;Axle shaft;A1 Cardone;100;1436
+1688;Blower motor;TYC;75;1445
+1689;Control arm bushing;Dorman;25;1418
+1690;Brake pads;Brembo;200;1428
+1691;Wheel alignment;-;400;1438
+1692;Wheel cylinder;Raybestos;50;1441
+1693;Wheel cylinder;Raybestos;50;1444
+1694;Ignition coil;Delphi;100;1449
+1695;Ignition switch;Standard Motor Products;25;1450
+1696;Brake rotor;Centric;100;1427
+1697;Oxygen sensor;Bosch;150;1441
+1698;Fuel injector;Bosch;100;1446
+1699;Air filter;Fram;50;1432
+1700;CV joint;GSP;100;1433
+1701;Shock absorber;KYB;75;1438
+1702;Transmission control module;ACDelco;200;1447
+1703;MAP sensor;Standard Motor Products;50;1448
+1704;Fuel injector;Bosch;100;1462
+1705;Control arm bushing;Febi;50;1433
+1706;Muffler;Walker;100;1435
+1707;Throttle body;Dorman;75;1437
+1708;Power steering pump;Cardone;150;1439
+1709;Transmission shift cable;Pioneer Cables;50;1459
+1710;Transmission pan gasket;Fel-Pro;25;1460
+1711;Control arm bushing;Febi;50;1440
+1712;Control arm;Moog;75;1442
+1713;EGR valve gasket;Fel-Pro;25;1444
+1714;Transmission pan gasket;Fel-Pro;25;1445
+1715;Transmission mount;Westar;25;1457
+1716;Transmission fluid cooler;Hayden;50;1469
+1717;Transmission pan gasket;Fel-Pro;25;1474
+1718;Power steering hose;Gates;100;1450
+1719;Tie rod end;Mevotech;50;1456
+1720;Clutch kit;Exedy;200;1467
+1721;Ball joint;Moog;50;1455
+1722;Power steering pump;Cardone;150;1456
+1723;Control arm;Moog;150;1461
+1724;Engine oil cooler;Dorman;75;1466
+1725;Fuel filter;Wix;50;1469
+1726;Muffler;Walker;100;1475
+1727;Power steering pump;Cardone;150;1479
+1728;Camshaft position sensor;Dorman;100;1465
+1729;Air filter;Fram;50;1471
+1730;EGR valve;Standard Motor Products;50;1481
+1731;Fuel tank;Spectra Premium;200;1486
+1732;Transmission mount;Westar;25;1456
+1733;Fuel tank filler neck;Dorman;50;1458
+1734;Exhaust hanger;Walker;25;1466
+1735;Air filter;Fram;50;1470
+1736;Spark plugs;NGK;25;1475
+1737;Tie rod end;Mevotech;50;1483
+1738;Throttle body;Dorman;75;1487
+1739;Power steering pump;Cardone;150;1461
+1740;Ignition control module;ACDelco;50;1472
+1741;Transmission speed sensor;ACDelco;25;1483
+1742;Brake master cylinder;Centric;100;1487
+1743;Oil change;Mobil 1;150;1496
+1744;Windshield wipers;Rain-X;50;1498
+1745;Oil change;Mobil 1;150;1500
+1746;Fuel filter;Wix;50;1470
+1747;Fuel pressure regulator;Delphi;25;1475
+1748;EGR valve gasket;Fel-Pro;25;1488
+1749;Fuel pressure regulator;Delphi;25;1497
+1750;Power steering hose;Gates;100;1498
+1751;Oil change;Mobil 1;150;1499
+1752;Catalytic converter;MagnaFlow;300;1505
+1753;Transmission mount;Anchor;50;1472
+1754;Battery;AC Delco;350;1474
+1755;Ignition coil;Delphi;100;1474
+1756;Serpentine belt;Gates;75;1482
+1757;Engine oil cooler;Dorman;75;1489
+1758;Ignition switch;Standard Motor Products;25;1490
+1759;Oxygen sensor;Bosch;150;1494
+1760;Ignition control module;ACDelco;50;1497
+1761;Fuel tank;Spectra Premium;200;1507
+1762;Muffler;Walker;100;1512
+1763;Ignition coil;Delphi;100;1480
+1764;Camshaft position sensor;Dorman;100;1480
+1765;Headlight assembly;TYC;100;1482
+1766;Ignition switch;Standard Motor Products;25;1484
+1767;Brake master cylinder;Centric;100;1486
+1768;Ignition coil;Delphi;100;1489
+1769;Engine control module;A1 Cardone;200;1492
+1770;Headlight bulb;Philips;25;1496
+1771;Wheel lug nuts;Dorman;25;1496
+1772;Clutch kit;Exedy;200;1500
+1773;Control arm bushing;Dorman;25;1505
+1774;Engine oil cooler;Dorman;75;1507
+1775;Blower motor;TYC;75;1513
+1776;Fuel filter;Wix;50;1516
+1777;Wheel hub assembly;Timken;200;1517
+1778;Muffler;Walker;100;1499
+1779;Transmission fluid change;Valvoline;200;1500
+1780;CV joint;GSP;100;1508
+1781;Catalytic converter;MagnaFlow;300;1493
+1782;Wheel hub assembly;Timken;200;1494
+1783;Wheel hub assembly;Timken;200;1509
+1784;EGR valve;ACDelco;75;1505
+1785;Wheel alignment;-;400;1530
+1786;Brake fluid flush;Castrol;100;1503
+1787;Radiator;Denso;350;1522
+1788;Brake fluid flush;Castrol;100;1522
+1789;Headlight bulb;Philips;25;1534
+1790;Axle shaft;A1 Cardone;100;1535
+1791;Ignition switch;Standard Motor Products;25;1503
+1792;Transmission fluid cooler;Hayden;50;1513
+1793;Fuel tank filler neck;Dorman;50;1518
+1794;Ignition control module;ACDelco;50;1535
+1795;Exhaust hanger;Walker;25;1508
+1796;Windshield wipers;Rain-X;50;1509
+1797;Windshield wipers;Rain-X;50;1512
+1798;Control arm;Moog;75;1519
+1799;Transmission pan gasket;Fel-Pro;25;1525
+1800;Transmission mount;Westar;25;1532
+1801;Tire rotation;-;100;1536
+1802;Thermostat;Stant;50;1537
+1803;Fuel pressure regulator;Delphi;25;1538
+1804;EGR valve gasket;Fel-Pro;25;1542
+1805;Brake rotor;Centric;100;1543
+1806;Ignition coil;Bosch;50;1545
+1807;Ball joint;Moog;50;1521
+1808;Catalytic converter;MagnaFlow;300;1527
+1809;Fuel filter;Wix;50;1530
+1810;Transmission fluid cooler;Hayden;50;1530
+1811;Control arm;Dorman;50;1531
+1812;Wheel bearing;SKF;50;1545
+1813;MAP sensor;Standard Motor Products;50;1546
+1814;Air filter;Fram;50;1531
+1815;Oil change;Mobil 1;150;1526
+1816;Wheel bearing;SKF;50;1527
+1817;Fuel tank filler neck;Dorman;50;1528
+1818;Ignition switch;ACDelco;50;1531
+1819;Ignition coil;Bosch;50;1541
+1820;Tie rod end;Mevotech;50;1541
+1821;Muffler;Walker;100;1545
+1822;Camshaft position sensor;Dorman;100;1550
+1823;Radiator;Denso;350;1550
+1824;Fuel pressure regulator;Delphi;25;1553
+1825;Windshield wipers;Rain-X;50;1534
+1826;Water pump;Airtex;200;1544
+1827;Battery;AC Delco;350;1550
+1828;Engine control module;A1 Cardone;200;1551
+1829;Clutch kit;Exedy;200;1557
+1830;Headlight bulb;Philips;25;1558
+1831;Power steering hose;Gates;100;1563
+1832;Engine oil cooler;Dorman;75;1559
+1833;Catalytic converter;MagnaFlow;300;1566
+1834;Headlight bulb;Philips;25;1536
+1837;Exhaust manifold;Dorman;100;1549
+1836;Control arm;Moog;75;1547
+1837;Exhaust manifold;Dorman;100;1549
+1838;Fuel filter;Wix;50;1554
+1839;Serpentine belt;Gates;75;1571
+1840;Ignition switch;ACDelco;50;1574
+1841;Control arm;Moog;150;1574
+1842;Control arm;Dorman;50;1543
+1843;Water pump;Airtex;200;1551
+1844;Fuel pump;Delphi;150;1557
+1845;Engine oil cooler;Dorman;75;1560
+1846;Fuel pump;Delphi;150;1562
+1847;Ignition coil;Bosch;50;1573
+1848;Exhaust manifold;Dorman;100;1573
+1849;Control arm bushing;Febi;50;1574
+1850;Thermostat;Stant;50;1575
+1851;Fuel tank filler neck;Dorman;50;1577
+1852;Transmission mount;Westar;25;1582
+1853;Fuel tank filler neck;Dorman;50;1566
+1854;Tie rod end;Mevotech;50;1567
+1855;Tie rod end;Mevotech;50;1584
+1856;Radiator fan assembly;TYC;100;1563
+1857;Fuel tank;Spectra Premium;200;1570
+1858;Exhaust manifold;Dorman;100;1580
+1859;Transmission fluid change;Valvoline;200;1584
+1860;Tie rod end;Mevotech;50;1584
+1861;Transmission shift solenoid;Rostra;75;1563
+1862;Windshield wipers;Rain-X;50;1565
+1863;Transmission mount;Westar;25;1570
+1864;Transmission shift cable;Pioneer Cables;50;1587
+1865;Throttle body;Dorman;75;1587
+1866;Transmission pan gasket;Fel-Pro;25;1589
+1867;Fuel injector;Bosch;100;1592
+1868;Tire rotation;-;100;1576
+1869;Ignition switch;Standard Motor Products;25;1578
+1870;Transmission pan gasket;Fel-Pro;25;1586
+1871;PCV valve;Standard Motor Products;25;1590
+1872;Water pump;Airtex;200;1591
+1873;Fuel injector;Bosch;100;1592
+1874;Air filter;Fram;50;1596
+1878;Control arm bushing;Dorman;25;1583
+1876;Ignition coil;Delphi;100;1576
+1877;Throttle body;Dorman;75;1577
+1878;Control arm bushing;Dorman;25;1583
+1879;Transmission mount;Anchor;50;1595
+1880;Transmission speed sensor;ACDelco;25;1599
+1881;Brake pads;Brembo;200;1602
+1882;Fuel injector;Bosch;100;1589
+1883;Wheel lug nuts;Dorman;25;1590
+1884;Blower motor;TYC;75;1593
+1885;Transmission mount;Westar;25;1596
+1886;Fuel injector;Bosch;100;1610
+1887;Ignition switch;ACDelco;50;1591
+1888;Transmission speed sensor;ACDelco;25;1598
+1889;Headlight bulb;Philips;25;1609
+1890;Wheel hub assembly;Timken;200;1612
+1891;Thermostat;Stant;50;1617
+1892;Wheel hub assembly;Timken;200;1596
+1893;Engine mount;DEA;50;1599
+1894;Camshaft position sensor;Dorman;100;1608
+1895;Transmission filter;Fram;50;1614
+1896;Brake fluid flush;Castrol;100;1622
+1897;Transmission fluid cooler;Hayden;50;1594
+1898;Oil change;Mobil 1;150;1604
+1899;Oxygen sensor;Bosch;150;1608
+1900;Oil change;Mobil 1;150;1610
+1901;Throttle body;Dorman;75;1612
+1902;Engine control module;A1 Cardone;200;1622
+1903;Wheel bearing;SKF;50;1626
+1904;Control arm;Dorman;50;1628
+1905;Fuel tank filler neck;Dorman;50;1595
+1906;Transmission fluid change;Valvoline;200;1627
+1907;Wheel cylinder;Raybestos;50;1600
+1908;EGR valve;ACDelco;75;1602
+1909;Ignition coil;Bosch;50;1606
+1910;Drive belt;Gates;25;1611
+1911;Wheel cylinder;Raybestos;50;1615
+1912;Oil change;Mobil 1;150;1618
+1913;Control arm;Dorman;50;1621
+1914;Suspension strut;Monroe;200;1631
+1915;Wheel bearing;SKF;50;1638
+1916;Headlight bulb;Philips;25;1612
+1917;Mass airflow sensor;Spectra Premium;150;1613
+1918;Ignition switch;Standard Motor Products;25;1616
+1919;Wheel alignment;-;400;1617
+1920;Brake pads;Brembo;200;1624
+1921;Mass airflow sensor;Spectra Premium;150;1627
+1922;Water pump;Airtex;200;1609
+1923;Brake fluid flush;Castrol;100;1611
+1924;Fuel pressure regulator;Delphi;25;1614
+1925;Air filter;Fram;50;1621
+1926;Headlight assembly;TYC;100;1626
+1927;Wheel hub assembly;Timken;200;1637
+1928;Mass airflow sensor;Spectra Premium;150;1638
+1929;Control arm;Dorman;50;1640
+1930;Ignition coil;Delphi;100;1620
+1931;Transmission fluid change;Valvoline;200;1624
+1932;EGR valve;Standard Motor Products;50;1625
+1933;Engine oil cooler;Dorman;75;1626
+1934;Radiator fan assembly;TYC;100;1628
+1935;Exhaust manifold;Dorman;100;1632
+1936;Power steering hose;Gates;100;1636
+1937;Air filter;Fram;50;1642
+1938;Blower motor;TYC;75;1642
+1939;Brake caliper;Cardone;50;1647
+1940;Radiator;Denso;350;1650
+1941;Control arm bushing;Dorman;25;1642
+1942;Blower motor;TYC;75;1651
+1943;Ball joint;Moog;50;1631
+1944;Ignition coil;Delphi;100;1635
+1945;Transmission speed sensor;ACDelco;25;1646
+1946;Water pump;Airtex;200;1648
+1947;Ball joint;Moog;50;1650
+1948;Wheel hub assembly;Timken;200;1656
+1949;Air filter;Fram;50;1661
+1950;Fuel pump;Delphi;150;1629
+1951;Fuel filter;Wix;50;1641
+1952;Blower motor;TYC;75;1657
+1953;Wheel cylinder;Raybestos;50;1662
+1954;Fuel filter;Wix;50;1663
+1955;Engine oil cooler;Dorman;75;1639
+1956;Fuel tank filler neck;Dorman;50;1645
+1957;Transmission mount;Anchor;50;1647
+1958;Wheel lug nuts;Dorman;25;1670
+1959;Transmission fluid cooler;Hayden;50;1657
+1960;EGR valve;ACDelco;75;1659
+1962;Engine control module;A1 Cardone;200;1644
+1962;Engine control module;A1 Cardone;200;1644
+1963;Brake fluid flush;Castrol;100;1652
+1964;Fuel injector;Bosch;100;1655
+1965;Axle shaft;A1 Cardone;100;1658
+1966;Thermostat;Stant;50;1664
+1967;Brake caliper;Cardone;50;1665
+1968;Brake fluid flush;Castrol;100;1667
+1969;Engine oil cooler;Dorman;75;1668
+1970;Battery;AC Delco;350;1675
+1971;Wheel alignment;-;400;1681
+1972;Wheel bearing;SKF;50;1650
+1973;EGR valve gasket;Fel-Pro;25;1667
+1974;Ignition switch;Standard Motor Products;25;1667
+1975;Catalytic converter;MagnaFlow;300;1669
+1976;Headlight bulb;Philips;25;1672
+1977;Wheel cylinder;Raybestos;50;1684
+1978;Control arm;Dorman;50;1654
+1979;Transmission fluid change;Valvoline;200;1656
+1980;Engine mount;DEA;50;1664
+1981;Brake caliper;Cardone;50;1665
+1982;Wheel lug nuts;Dorman;25;1678
+1983;Transmission filter;Fram;50;1679
+1984;Fuel pump;Delphi;150;1683
+1985;Radiator;Denso;350;1686
+1986;Engine oil cooler;Dorman;75;1688
+1987;Camshaft position sensor;Dorman;100;1692
+1988;Ignition control module;ACDelco;50;1693
+1989;Ball joint;Moog;50;1659
+1990;Transmission fluid change;Valvoline;200;1662
+1991;Tie rod end;Mevotech;50;1662
+1992;Wheel cylinder;Raybestos;50;1664
+1993;Wheel hub assembly;Timken;200;1673
+1994;Brake master cylinder;Centric;100;1680
+1995;Tire rotation;-;100;1690
+1996;Suspension strut;Monroe;200;1666
+1997;Ignition switch;Standard Motor Products;25;1668
+1998;Engine mount;DEA;50;1670
+1999;Control arm;Dorman;50;1670
+2000;Wheel bearing;SKF;50;1682
+2001;MAP sensor;Standard Motor Products;50;1685
+2002;Wheel bearing;SKF;50;1685
+2003;Throttle body;Dorman;75;1686
+2004;Wheel lug nuts;Dorman;25;1695
+2005;Transmission speed sensor;ACDelco;25;1701
+2006;Exhaust hanger;Walker;25;1673
+2007;Brake pads;Brembo;200;1675
+2010;Wheel alignment;-;400;1687
+2009;EGR valve;Standard Motor Products;50;1681
+2010;Wheel alignment;-;400;1687
+2011;Transmission mount;Anchor;50;1688
+2012;Control arm bushing;Dorman;25;1688
+2013;Headlight assembly;TYC;100;1694
+2014;Wheel alignment;-;400;1694
+2015;Engine oil cooler;Dorman;75;1697
+2016;Serpentine belt;Gates;75;1701
+2017;Headlight assembly;TYC;100;1678
+2018;Control arm;Dorman;50;1680
+2019;Air filter;Fram;50;1681
+2020;EGR valve;Standard Motor Products;50;1699
+2021;Exhaust hanger;Walker;25;1700
+2022;Transmission fluid change;Valvoline;200;1710
+2023;Muffler;Walker;100;1714
+2024;Wheel alignment;-;400;1682
+2025;Camshaft position sensor;Dorman;100;1693
+2026;Exhaust hanger;Walker;25;1711
+2027;Axle shaft;A1 Cardone;100;1700
+2028;Exhaust hanger;Walker;25;1709
+2029;Exhaust hanger;Walker;25;1715
+2030;Exhaust manifold;Dorman;100;1724
+2031;Transmission fluid change;Valvoline;200;1691
+2032;Tire rotation;-;100;1694
+2033;Fuel tank;Spectra Premium;200;1702
+2034;Water pump;Airtex;200;1708
+2035;Throttle body;Dorman;75;1709
+2036;Transmission shift cable;Pioneer Cables;50;1728
+2037;Ignition coil;Delphi;100;1697
+2038;Control arm;Moog;75;1706
+2039;Transmission shift cable;Pioneer Cables;50;1711
+2040;Throttle body;Dorman;75;1711
+2041;Shock absorber;KYB;75;1722
+2042;Ball joint;Moog;50;1723
+2043;Exhaust hanger;Walker;25;1708
+2044;Fuel pressure regulator;Delphi;25;1714
+2045;Air filter;Fram;50;1724
+2046;Oil change;Mobil 1;150;1721
+2047;Control arm bushing;Dorman;25;1723
+2048;Headlight bulb;Philips;25;1729
+2049;Thermostat;Stant;50;1731
+2050;Ignition switch;Standard Motor Products;25;1733
+2051;Wheel alignment;-;400;1734
+2052;Brake pads;Brembo;200;1739
+2055;EGR valve gasket;Fel-Pro;25;1717
+2054;Ignition control module;ACDelco;50;1714
+2055;EGR valve gasket;Fel-Pro;25;1717
+2056;Headlight bulb;Philips;25;1726
+2057;Control arm;Moog;75;1730
+2058;Control arm;Moog;150;1735
+2059;Wheel hub assembly;Timken;200;1739
+2060;Transmission speed sensor;ACDelco;25;1744
+2061;Tie rod end;Mevotech;50;1722
+2062;Transmission shift solenoid;Rostra;75;1725
+2063;Wheel cylinder;Raybestos;50;1736
+2064;Control arm bushing;Dorman;25;1738
+2065;Crankshaft position sensor;Beck/Arnley;50;1742
+2066;Control arm;Dorman;50;1743
+2067;Ignition switch;ACDelco;50;1745
+2068;Water pump;Airtex;200;1747
+2069;Wheel alignment;-;400;1747
+2070;EGR valve;Standard Motor Products;50;1748
+2071;Muffler;Walker;100;1751
+2072;CV joint;GSP;100;1725
+2073;Engine mount;DEA;50;1747
+2074;Control arm bushing;Dorman;25;1737
+2075;Transmission speed sensor;ACDelco;25;1753
+2076;Fuel tank;Spectra Premium;200;1761
+2077;Transmission shift solenoid;Rostra;75;1763
+2078;Fuel injector;Bosch;100;1733
+2079;Transmission pan gasket;Fel-Pro;25;1733
+2080;Serpentine belt;Gates;75;1734
+2081;Transmission fluid change;Valvoline;200;1738
+2082;Power steering hose;Gates;100;1744
+2083;Brake pads;Brembo;200;1744
+2084;Fuel tank;Spectra Premium;200;1749
+2085;Transmission filter;Fram;50;1751
+2086;Fuel tank;Spectra Premium;200;1757
+2087;Control arm bushing;Dorman;25;1758
+2088;Ignition switch;ACDelco;50;1760
+2089;Tire rotation;-;100;1762
+2090;Transmission speed sensor;ACDelco;25;1741
+2091;Thermostat;Stant;50;1760
+2092;Radiator;Denso;350;1767
+2093;Engine control module;A1 Cardone;200;1749
+2094;Fuel filter;Wix;50;1751
+2095;Ignition switch;ACDelco;50;1763
+2096;PCV valve;Standard Motor Products;25;1773
+2097;Transmission mount;Anchor;50;1778
+2098;Control arm;Moog;150;1763
+2099;Spark plugs;NGK;25;1768
+2100;Fuel pressure regulator;Delphi;25;1772
+2101;Oxygen sensor;Bosch;150;1774
+2102;Windshield wipers;Rain-X;50;1779
+2103;Transmission shift cable;Pioneer Cables;50;1785
+2104;Brake pads;Brembo;200;1750
+2105;Ignition control module;ACDelco;50;1762
+2106;Axle shaft;A1 Cardone;100;1765
+2107;Ignition switch;Standard Motor Products;25;1768
+2108;Water pump;Airtex;200;1771
+2109;Transmission shift cable;Pioneer Cables;50;1776
+2110;Ignition coil;Delphi;100;1755
+2111;Transmission shift cable;Pioneer Cables;50;1761
+2112;Engine control module;A1 Cardone;200;1764
+2113;Engine control module;A1 Cardone;200;1766
+2114;Throttle body;Dorman;75;1766
+2115;Alternator;Bosch;300;1786
+2116;PCV valve;Standard Motor Products;25;1787
+2117;Muffler;Walker;100;1791
+2118;Fuel pump;Delphi;150;1760
+2119;Radiator;Denso;350;1765
+2120;Power steering hose;Gates;100;1765
+2121;Alternator;Bosch;300;1780
+2122;Shock absorber;KYB;75;1797
+2123;Transmission shift solenoid;Rostra;75;1769
+2124;Fuel filter;Wix;50;1773
+2125;Exhaust hanger;Walker;25;1774
+2126;Alternator;Bosch;300;1778
+2127;Transmission filter;Fram;50;1782
+2128;EGR valve gasket;Fel-Pro;25;1784
+2129;Engine oil cooler;Dorman;75;1787
+2130;EGR valve;Standard Motor Products;50;1792
+2131;Headlight bulb;Philips;25;1793
+2132;Control arm;Dorman;50;1796
+2133;Windshield wipers;Rain-X;50;1800
+2134;Wheel cylinder;Raybestos;50;1806
+2135;Clutch kit;Exedy;200;1777
+2136;Crankshaft position sensor;Beck/Arnley;50;1786
+2137;Headlight bulb;Philips;25;1793
+2138;Tire rotation;-;100;1793
+2139;Headlight bulb;Philips;25;1778
+2140;Brake pads;Brembo;200;1780
+2141;Wheel bearing;SKF;50;1781
+2142;Air filter;Fram;50;1790
+2143;Transmission fluid cooler;Hayden;50;1804
+2144;Water pump;Airtex;200;1805
+2145;EGR valve gasket;Fel-Pro;25;1814
+2146;Ball joint;Moog;50;1784
+2147;Fuel pump;Delphi;150;1789
+2148;Transmission shift solenoid;Rostra;75;1800
+2149;Wheel alignment;-;400;1802
+2150;Battery;AC Delco;350;1803
+2151;Headlight assembly;TYC;100;1795
+2152;Ignition control module;ACDelco;50;1814
+2153;Ignition control module;ACDelco;50;1818
+2154;Engine mount;DEA;50;1823
+2155;Windshield wipers;Rain-X;50;1824
+2156;Control arm bushing;Dorman;25;1826
+2157;Catalytic converter;MagnaFlow;300;1794
+2158;MAP sensor;Standard Motor Products;50;1799
+2159;Camshaft position sensor;Dorman;100;1803
+2160;Control arm bushing;Febi;50;1804
+2161;Suspension strut;Monroe;200;1811
+2162;Air filter;Fram;50;1821
+2163;Exhaust manifold;Dorman;100;1797
+2164;Fuel filter;Wix;50;1802
+2165;Wheel bearing;SKF;50;1810
+2166;Control arm;Moog;150;1812
+2167;Wheel cylinder;Raybestos;50;1812
+2168;Transmission mount;Westar;25;1814
+2169;Fuel pump;Delphi;150;1825
+2170;Transmission filter;Fram;50;1826
+2171;Fuel pressure regulator;Delphi;25;1832
+2172;Shock absorber;KYB;75;1835
+2173;Transmission control module;ACDelco;200;1804
+2174;Fuel tank;Spectra Premium;200;1816
+2175;Brake fluid flush;Castrol;100;1827
+2176;Tie rod end;Mevotech;50;1828
+2177;Air filter;Fram;50;1829
+2178;Brake master cylinder;Centric;100;1835
+2179;Wheel lug nuts;Dorman;25;1809
+2180;Fuel tank;Spectra Premium;200;1811
+2181;Axle shaft;A1 Cardone;100;1822
+2182;Wheel hub assembly;Timken;200;1831
+2183;Water pump;Airtex;200;1832
+2184;Radiator fan assembly;TYC;100;1840
+2185;Headlight bulb;Philips;25;1823
+2186;EGR valve;ACDelco;75;1839
+2187;Water pump;Airtex;200;1825
+2188;Ignition switch;ACDelco;50;1831
+2189;Throttle body;Dorman;75;1833
+2190;Alternator;Bosch;300;1833
+2191;Brake master cylinder;Centric;100;1842
+2192;Transmission control module;ACDelco;200;1851
+2193;Suspension strut;Monroe;200;1826
+2194;Transmission filter;Fram;50;1829
+2195;Tire rotation;-;100;1831
+2196;Mass airflow sensor;Spectra Premium;150;1840
+2197;Transmission speed sensor;ACDelco;25;1847
+2198;Radiator;Denso;350;1860
+2199;Mass airflow sensor;Spectra Premium;150;1861
+2200;Axle shaft;A1 Cardone;100;1861
+2201;Transmission shift cable;Pioneer Cables;50;1864
+2202;Transmission mount;Westar;25;1842
+2203;Transmission filter;Fram;50;1848
+2204;Oxygen sensor;Bosch;150;1849
+2205;Throttle body;Dorman;75;1864
+2206;Wheel cylinder;Raybestos;50;1866
+2207;Wheel hub assembly;Timken;200;1844
+2208;Transmission shift cable;Pioneer Cables;50;1848
+2209;Transmission filter;Fram;50;1874
+2210;Power steering hose;Gates;100;1851
+2211;Fuel filter;Wix;50;1856
+2212;Oxygen sensor;Bosch;150;1857
+2213;Control arm;Dorman;50;1861
+2214;Wheel bearing;SKF;50;1847
+2215;MAP sensor;Standard Motor Products;50;1847
+2216;Crankshaft position sensor;Beck/Arnley;50;1850
+2217;MAP sensor;Standard Motor Products;50;1858
+2218;Transmission speed sensor;ACDelco;25;1862
+2219;Brake caliper;Cardone;50;1867
+2220;Control arm bushing;Dorman;25;1869
+2221;Battery;AC Delco;350;1876
+2222;Clutch kit;Exedy;200;1849
+2223;Alternator;Bosch;300;1849
+2224;Crankshaft position sensor;Beck/Arnley;50;1860
+2225;Transmission control module;ACDelco;200;1866
+2226;Control arm bushing;Febi;50;1872
+2227;Transmission speed sensor;ACDelco;25;1872
+2228;Transmission fluid cooler;Hayden;50;1874
+2229;Brake fluid flush;Castrol;100;1877
+2230;Mass airflow sensor;Spectra Premium;150;1881
+2231;Shock absorber;KYB;75;1856
+2232;Transmission shift cable;Pioneer Cables;50;1858
+2233;Oil change;Mobil 1;150;1869
+2234;Radiator;Denso;350;1873
+2235;Ignition switch;ACDelco;50;1883
+2236;Transmission shift cable;Pioneer Cables;50;1888
+2237;Mass airflow sensor;Spectra Premium;150;1862
+2238;Engine mount;DEA;50;1897
+2239;Fuel pump;Delphi;150;1869
+2240;Water pump;Airtex;200;1876
+2241;Thermostat;Stant;50;1900
+2242;Wheel bearing;SKF;50;1901
+2243;Engine mount;DEA;50;1870
+2244;Transmission fluid change;Valvoline;200;1874
+2245;Engine mount;DEA;50;1883
+2246;Radiator fan assembly;TYC;100;1886
+2247;PCV valve;Standard Motor Products;25;1888
+2248;Exhaust manifold;Dorman;100;1894
+2249;Transmission shift cable;Pioneer Cables;50;1880
+2250;Engine mount;DEA;50;1884
+2251;Ignition switch;Standard Motor Products;25;1885
+2252;Transmission shift cable;Pioneer Cables;50;1893
+2253;Transmission mount;Westar;25;1893
+2254;Windshield wipers;Rain-X;50;1897
+2255;EGR valve gasket;Fel-Pro;25;1899
+2256;Mass airflow sensor;Spectra Premium;150;1902
+2257;Crankshaft position sensor;Beck/Arnley;50;1916
+2258;Ignition coil;Delphi;100;1920
+2259;Exhaust manifold;Dorman;100;1894
+2260;Fuel tank;Spectra Premium;200;1910
+2261;Exhaust manifold;Dorman;100;1913
+2263;Suspension strut;Monroe;200;1895
+2263;Suspension strut;Monroe;200;1895
+2264;Transmission filter;Fram;50;1905
+2265;Engine control module;A1 Cardone;200;1919
+2266;Suspension strut;Monroe;200;1922
+2267;Drive belt;Gates;25;1927
+2268;Alternator;Bosch;300;1915
+2269;EGR valve;ACDelco;75;1925
+2270;Catalytic converter;MagnaFlow;300;1929
+2271;Brake rotor;Centric;100;1906
+2272;Transmission mount;Anchor;50;1909
+2273;Transmission speed sensor;ACDelco;25;1910
+2274;Wheel cylinder;Raybestos;50;1936
+2275;Crankshaft position sensor;Beck/Arnley;50;1914
+2276;Transmission mount;Anchor;50;1917
+2277;Brake master cylinder;Centric;100;1920
+2278;Blower motor;TYC;75;1913
+2279;Transmission fluid change;Valvoline;200;1913
+2280;Fuel tank;Spectra Premium;200;1934
+2281;Muffler;Walker;100;1934
+2282;Control arm;Moog;75;1937
+2283;Brake pads;Brembo;200;1947
+2284;Spark plugs;NGK;25;1949
+2285;Brake rotor;Centric;100;1919
+2286;Blower motor;TYC;75;1921
+2287;Water pump;Airtex;200;1925
+2288;Ignition control module;ACDelco;50;1928
+2289;Oil change;Mobil 1;150;1932
+2290;Headlight assembly;TYC;100;1933
+2291;Brake rotor;Centric;100;1949
+2292;Axle shaft;A1 Cardone;100;1952
+2293;Drive belt;Gates;25;1932
+2294;Transmission mount;Anchor;50;1950
+2295;Engine oil cooler;Dorman;75;1954
+2296;Engine control module;A1 Cardone;200;1955
+2297;Exhaust manifold;Dorman;100;1957
+2298;Ignition switch;Standard Motor Products;25;1931
+2299;Transmission pan gasket;Fel-Pro;25;1938
+2300;Fuel pump;Delphi;150;1947
+2301;Throttle body;Dorman;75;1961
+2302;Transmission mount;Westar;25;1933
+2303;Wheel lug nuts;Dorman;25;1958
+2304;PCV valve;Standard Motor Products;25;1960
+2305;Radiator fan assembly;TYC;100;1962
+2306;Wheel lug nuts;Dorman;25;1963
+2307;Transmission shift cable;Pioneer Cables;50;1968
+2308;Axle shaft;A1 Cardone;100;1937
+2309;Fuel tank;Spectra Premium;200;1938
+2310;Wheel bearing;SKF;50;1939
+2311;Headlight assembly;TYC;100;1940
+2312;Ignition coil;Delphi;100;1942
+2313;Transmission fluid change;Valvoline;200;1950
+2314;Brake pads;Brembo;200;1953
+2315;Mass airflow sensor;Spectra Premium;150;1955
+2316;Ball joint;Moog;50;1964
+2317;Blower motor;TYC;75;1964
+2318;PCV valve;Standard Motor Products;25;1945
+2319;Transmission mount;Anchor;50;1953
+2320;Transmission shift solenoid;Rostra;75;1958
+2321;Wheel alignment;-;400;1968
+2322;Windshield wipers;Rain-X;50;1969
+2323;Headlight assembly;TYC;100;1975
+2324;Oxygen sensor;Bosch;150;1975
+2325;Camshaft position sensor;Dorman;100;1976
+2326;Control arm bushing;Dorman;25;1980
+2327;Control arm bushing;Dorman;25;1981
+2328;Engine oil cooler;Dorman;75;1951
+2329;Thermostat;Stant;50;1952
+2330;Clutch kit;Exedy;200;1954
+2331;Transmission pan gasket;Fel-Pro;25;1956
+2332;Camshaft position sensor;Dorman;100;1962
+2333;Ignition coil;Bosch;50;1963
+2334;Thermostat;Stant;50;1974
+2335;Fuel filter;Wix;50;1978
+2336;Brake pads;Brembo;200;1979
+2337;Ignition control module;ACDelco;50;1987
+2338;Transmission speed sensor;ACDelco;25;1989
+2339;Mass airflow sensor;Spectra Premium;150;1965
+2340;Power steering pump;Cardone;150;1967
+2341;Fuel injector;Bosch;100;1969
+2342;Oil change;Mobil 1;150;1979
+2343;MAP sensor;Standard Motor Products;50;1984
+2344;Ignition coil;Delphi;100;1985
+2345;Transmission shift solenoid;Rostra;75;1962
+2346;Engine oil cooler;Dorman;75;1979
+2347;Control arm;Dorman;50;1985
+2348;Blower motor;TYC;75;1992
+2349;Drive belt;Gates;25;2000
+2350;Thermostat;Stant;50;2002
+2351;Transmission mount;Westar;25;1968
+2352;Headlight assembly;TYC;100;1982
+2353;Transmission mount;Westar;25;1993
+2354;Oil change;Mobil 1;150;2005
+2355;Control arm bushing;Febi;50;1974
+2356;Spark plugs;NGK;25;1974
+2357;Water pump;Airtex;200;1991
+2358;Transmission mount;Westar;25;1997
+2359;Fuel tank filler neck;Dorman;50;2001
+2360;Engine control module;A1 Cardone;200;2002
+2361;Tie rod end;Mevotech;50;2003
+2362;Engine mount;DEA;50;1984
+2363;Drive belt;Gates;25;1989
+2364;Transmission mount;Westar;25;1991
+2365;Ignition switch;ACDelco;50;1993
+2366;Oxygen sensor;Bosch;150;1994
+2367;Headlight bulb;Philips;25;2001
+2368;Control arm bushing;Dorman;25;2004
+2369;Throttle body;Dorman;75;2014
+2370;Exhaust manifold;Dorman;100;1986
+2371;Control arm bushing;Dorman;25;1986
+2372;Engine oil cooler;Dorman;75;1989
+2373;Control arm bushing;Dorman;25;1992
+2374;Transmission shift solenoid;Rostra;75;1993
+2375;CV joint;GSP;100;1995
+2376;MAP sensor;Standard Motor Products;50;1999
+2377;Fuel tank filler neck;Dorman;50;2000
+2378;Fuel filter;Wix;50;2010
+2379;Camshaft position sensor;Dorman;100;2019
+2380;MAP sensor;Standard Motor Products;50;1992
+2381;Thermostat;Stant;50;2005
+2382;EGR valve gasket;Fel-Pro;25;2006
+2383;Control arm;Moog;150;2008
+2384;Wheel bearing;SKF;50;2008
+2385;Serpentine belt;Gates;75;2018
+2386;Tire rotation;-;100;1995
+2387;Oil change;Mobil 1;150;1995
+2388;Exhaust hanger;Walker;25;1999
+2389;CV joint;GSP;100;2004
+2390;Transmission shift solenoid;Rostra;75;2012
+2391;Brake fluid flush;Castrol;100;2020
+2392;Control arm bushing;Dorman;25;2022
+2393;Air filter;Fram;50;2030
+2395;Alternator;Bosch;300;1998
+2395;Alternator;Bosch;300;1998
+2396;Transmission control module;ACDelco;200;2003
+2397;Engine control module;A1 Cardone;200;2006
+2398;Ball joint;Moog;50;2014
+2399;Control arm;Moog;75;2019
+2400;Fuel filter;Wix;50;2031
+2401;Shock absorber;KYB;75;2034
+2402;Shock absorber;KYB;75;2035
+2403;Exhaust manifold;Dorman;100;2040
+2404;Headlight assembly;TYC;100;2011
+2405;EGR valve gasket;Fel-Pro;25;2013
+2406;Ignition coil;Delphi;100;2015
+2407;Brake pads;Brembo;200;2020
+2408;Alternator;Bosch;300;2024
+2409;Mass airflow sensor;Spectra Premium;150;2028
+2410;Power steering hose;Gates;100;2029
+2411;Tire rotation;-;100;2012
+2412;Spark plugs;NGK;25;2018
+2413;Battery;AC Delco;350;2023
+2414;Transmission mount;Westar;25;2024
+2415;Power steering hose;Gates;100;2036
+2416;Alternator;Bosch;300;2038
+2417;Control arm bushing;Febi;50;2041
+2418;Muffler;Walker;100;2020
+2419;Transmission shift cable;Pioneer Cables;50;2022
+2420;Transmission fluid cooler;Hayden;50;2024
+2421;Spark plugs;NGK;25;2025
+2422;Fuel tank;Spectra Premium;200;2033
+2423;Brake caliper;Cardone;50;2042
+2424;Alternator;Bosch;300;2050
+2425;Axle shaft;A1 Cardone;100;2025
+2426;EGR valve gasket;Fel-Pro;25;2030
+2427;Fuel pressure regulator;Delphi;25;2035
+2428;Clutch kit;Exedy;200;2038
+2429;Control arm;Moog;75;2049
+2430;Shock absorber;KYB;75;2059
+2431;Muffler;Walker;100;2033
+2432;Fuel pump;Delphi;150;2043
+2433;Control arm;Dorman;50;2044
+2434;Brake pads;Brembo;200;2047
+2435;Muffler;Walker;100;2060
+2436;Radiator fan assembly;TYC;100;2061
+2437;Brake pads;Brembo;200;2036
+2438;EGR valve;ACDelco;75;2045
+2439;Fuel tank;Spectra Premium;200;2045
+2440;Control arm;Dorman;50;2048
+2441;Spark plugs;NGK;25;2055
+2442;Engine mount;DEA;50;2043
+2443;PCV valve;Standard Motor Products;25;2046
+2444;Transmission mount;Westar;25;2047
+2445;Oil change;Mobil 1;150;2052
+2446;Muffler;Walker;100;2054
+2447;Transmission filter;Fram;50;2060
+2448;Brake master cylinder;Centric;100;2046
+2449;Control arm;Dorman;50;2054
+2450;Crankshaft position sensor;Beck/Arnley;50;2056
+2451;Transmission mount;Anchor;50;2059
+2452;Transmission fluid change;Valvoline;200;2062
+2453;EGR valve;ACDelco;75;2070
+2454;Throttle body;Dorman;75;2071
+2455;Ignition coil;Delphi;100;2047
+2456;Spark plugs;NGK;25;2050
+2457;Ignition switch;ACDelco;50;2059
+2458;Fuel tank;Spectra Premium;200;2060
+2459;Transmission mount;Westar;25;2069
+2460;Control arm bushing;Febi;50;2074
+2461;Control arm;Moog;150;2075
+2462;Tie rod end;Mevotech;50;2079
+2463;EGR valve;ACDelco;75;2063
+2464;Control arm;Moog;75;2073
+2465;EGR valve;Standard Motor Products;50;2075
+2466;Tie rod end;Mevotech;50;2079
+2467;Transmission shift solenoid;Rostra;75;2085
+2468;Thermostat;Stant;50;2088
+2469;Oil change;Mobil 1;150;2054
+2470;Wheel cylinder;Raybestos;50;2056
+2471;Serpentine belt;Gates;75;2065
+2472;CV joint;GSP;100;2067
+2473;Transmission fluid change;Valvoline;200;2068
+2474;Camshaft position sensor;Dorman;100;2085
+2475;Ignition switch;ACDelco;50;2093
+2476;Transmission shift solenoid;Rostra;75;2062
+2477;CV joint;GSP;100;2070
+2478;Oil change;Mobil 1;150;2083
+2479;Air filter;Fram;50;2084
+2480;MAP sensor;Standard Motor Products;50;2084
+2481;Fuel injector;Bosch;100;2088
+2482;Power steering hose;Gates;100;2102
+2483;Wheel hub assembly;Timken;200;2067
+2484;Drive belt;Gates;25;2086
+2485;Battery;AC Delco;350;2094
+2486;EGR valve gasket;Fel-Pro;25;2103
+2491;PCV valve;Standard Motor Products;25;2082
+2488;Brake pads;Brembo;200;2076
+2489;Water pump;Airtex;200;2076
+2490;Ignition coil;Bosch;50;2079
+2491;PCV valve;Standard Motor Products;25;2082
+2492;Fuel injector;Bosch;100;2089
+2493;Fuel filter;Wix;50;2092
+2495;MAP sensor;Standard Motor Products;50;2082
+2495;MAP sensor;Standard Motor Products;50;2082
+2496;Transmission filter;Fram;50;2088
+2497;Control arm bushing;Febi;50;2099
+2498;Ball joint;Moog;50;2100
+2499;Ignition switch;ACDelco;50;2101
+2500;Transmission shift solenoid;Rostra;75;2107
+2501;MAP sensor;Standard Motor Products;50;2108
+2502;Oxygen sensor;Bosch;150;2116
+2503;Ignition coil;Bosch;50;2116
+2504;Alternator;Bosch;300;2117
+2505;EGR valve;Standard Motor Products;50;2084
+2506;Air filter;Fram;50;2095
+2507;Fuel pressure regulator;Delphi;25;2097
+2508;Control arm;Moog;150;2115
+2509;Suspension strut;Monroe;200;2117
+2510;Fuel injector;Bosch;100;2122
+2511;Power steering pump;Cardone;150;2089
+2512;Thermostat;Stant;50;2095
+2513;Throttle body;Dorman;75;2101
+2514;Fuel filter;Wix;50;2107
+2515;Tire rotation;-;100;2115
+2516;Control arm;Dorman;50;2118
+2517;Transmission filter;Fram;50;2115
+2518;CV joint;GSP;100;2097
+2519;Crankshaft position sensor;Beck/Arnley;50;2098
+2520;Control arm;Moog;150;2103
+2521;Radiator fan assembly;TYC;100;2109
+2522;Fuel pump;Delphi;150;2131
+2523;Fuel pump;Delphi;150;2132
+2524;Spark plugs;NGK;25;2135
+2526;Axle shaft;A1 Cardone;100;2104
+2526;Axle shaft;A1 Cardone;100;2104
+2527;CV joint;GSP;100;2112
+2528;Ball joint;Moog;50;2123
+2529;EGR valve;ACDelco;75;2124
+2530;Engine oil cooler;Dorman;75;2133
+2531;Wheel bearing;SKF;50;2135
+2532;Control arm bushing;Febi;50;2121
+2533;Transmission fluid cooler;Hayden;50;2126
+2534;Engine oil cooler;Dorman;75;2127
+2535;Exhaust hanger;Walker;25;2116
+2536;Power steering hose;Gates;100;2125
+2537;Wheel hub assembly;Timken;200;2131
+2538;Clutch kit;Exedy;200;2133
+2539;Exhaust hanger;Walker;25;2142
+2540;Catalytic converter;MagnaFlow;300;2145
+2541;Thermostat;Stant;50;2150
+2542;Control arm;Moog;150;2150
+2543;Brake pads;Brembo;200;2119
+2544;Engine oil cooler;Dorman;75;2120
+2545;Catalytic converter;MagnaFlow;300;2149
+2546;Control arm bushing;Dorman;25;2129
+2547;Axle shaft;A1 Cardone;100;2131
+2548;Axle shaft;A1 Cardone;100;2137
+2549;Suspension strut;Monroe;200;2143
+2550;Fuel pump;Delphi;150;2130
+2551;Muffler;Walker;100;2136
+2552;Fuel tank;Spectra Premium;200;2157
+2553;Wheel hub assembly;Timken;200;2158
+2554;Battery;AC Delco;350;2159
+2555;MAP sensor;Standard Motor Products;50;2163
+2556;Ignition switch;ACDelco;50;2144
+2557;Radiator;Denso;350;2147
+2558;Brake fluid flush;Castrol;100;2151
+2559;Brake caliper;Cardone;50;2153
+2560;Wheel alignment;-;400;2144
+2561;Windshield wipers;Rain-X;50;2154
+2562;Battery;AC Delco;350;2163
+2563;Catalytic converter;MagnaFlow;300;2169
+2564;Transmission control module;ACDelco;200;2177
+2565;Tie rod end;Mevotech;50;2144
+2566;Brake pads;Brembo;200;2149
+2567;Fuel tank;Spectra Premium;200;2151
+2568;Air filter;Fram;50;2154
+2569;Wheel cylinder;Raybestos;50;2159
+2570;Fuel tank;Spectra Premium;200;2160
+2571;Ignition switch;Standard Motor Products;25;2164
+2572;Control arm;Dorman;50;2170
+2573;Wheel lug nuts;Dorman;25;2176
+2574;Catalytic converter;MagnaFlow;300;2177
+2575;EGR valve;ACDelco;75;2180
+2576;Suspension strut;Monroe;200;2151
+2577;Transmission mount;Anchor;50;2158
+2578;Transmission speed sensor;ACDelco;25;2161
+2579;Serpentine belt;Gates;75;2169
+2580;Brake caliper;Cardone;50;2171
+2581;Power steering hose;Gates;100;2172
+2582;EGR valve;ACDelco;75;2175
+2583;EGR valve gasket;Fel-Pro;25;2156
+2584;Tie rod end;Mevotech;50;2164
+2585;EGR valve gasket;Fel-Pro;25;2171
+2586;Ball joint;Moog;50;2172
+2587;Control arm bushing;Dorman;25;2177
+2588;EGR valve gasket;Fel-Pro;25;2180
+2589;Drive belt;Gates;25;2180
+2590;Transmission shift solenoid;Rostra;75;2181
+2591;Headlight assembly;TYC;100;2188
+2592;Brake master cylinder;Centric;100;2190
+2593;Transmission control module;ACDelco;200;2193
+2594;Exhaust hanger;Walker;25;2160
+2595;Fuel pump;Delphi;150;2164
+2596;PCV valve;Standard Motor Products;25;2167
+2597;Control arm;Moog;75;2185
+2598;Headlight bulb;Philips;25;2172
+2599;Control arm;Dorman;50;2182
+2600;Ball joint;Moog;50;2183
+2601;Transmission fluid cooler;Hayden;50;2201
+2602;Fuel filter;Wix;50;2206
+2603;Oil change;Mobil 1;150;2174
+2604;Ignition switch;ACDelco;50;2174
+2605;Water pump;Airtex;200;2175
+2606;Transmission filter;Fram;50;2187
+2607;Tire rotation;-;100;2192
+2608;Radiator;Denso;350;2196
+2609;Headlight bulb;Philips;25;2206
+2610;Transmission control module;ACDelco;200;2212
+2611;Shock absorber;KYB;75;2183
+2612;Control arm bushing;Febi;50;2184
+2613;Transmission speed sensor;ACDelco;25;2205
+2614;EGR valve gasket;Fel-Pro;25;2209
+2615;Tire rotation;-;100;2214
+2616;PCV valve;Standard Motor Products;25;2215
+2617;Battery;AC Delco;350;2189
+2618;Water pump;Airtex;200;2194
+2619;Brake caliper;Cardone;50;2198
+2620;Exhaust manifold;Dorman;100;2213
+2621;Windshield wipers;Rain-X;50;2190
+2622;Transmission control module;ACDelco;200;2191
+2623;Headlight assembly;TYC;100;2194
+2624;Exhaust hanger;Walker;25;2211
+2625;EGR valve;Standard Motor Products;50;2212
+2626;Transmission mount;Westar;25;2220
+2627;Fuel tank filler neck;Dorman;50;2221
+2628;Fuel tank filler neck;Dorman;50;2225
+2629;Engine mount;DEA;50;2226
+2630;Fuel pressure regulator;Delphi;25;2203
+2631;Water pump;Airtex;200;2210
+2632;Tire rotation;-;100;2211
+2633;Transmission fluid cooler;Hayden;50;2211
+2634;Wheel hub assembly;Timken;200;2209
+2635;Wheel cylinder;Raybestos;50;2222
+2636;Thermostat;Stant;50;2226
+2637;Oil change;Mobil 1;150;2233
+2638;Serpentine belt;Gates;75;2205
+2639;Drive belt;Gates;25;2206
+2640;Engine control module;A1 Cardone;200;2217
+2641;Headlight assembly;TYC;100;2217
+2642;Power steering pump;Cardone;150;2224
+2643;Transmission control module;ACDelco;200;2240
+2644;Mass airflow sensor;Spectra Premium;150;2242
+2645;Wheel lug nuts;Dorman;25;2214
+2646;Suspension strut;Monroe;200;2223
+2647;Exhaust hanger;Walker;25;2235
+2648;Wheel lug nuts;Dorman;25;2214
+2649;Axle shaft;A1 Cardone;100;2217
+2650;Fuel tank;Spectra Premium;200;2225
+2651;Muffler;Walker;100;2226
+2652;Blower motor;TYC;75;2229
+2653;Control arm bushing;Dorman;25;2229
+2654;Brake fluid flush;Castrol;100;2230
+2655;Shock absorber;KYB;75;2234
+2656;Tie rod end;Mevotech;50;2245
+2657;Transmission filter;Fram;50;2247
+2658;Camshaft position sensor;Dorman;100;2249
+2659;Oxygen sensor;Bosch;150;2222
+2660;Windshield wipers;Rain-X;50;2223
+2661;Ignition switch;ACDelco;50;2237
+2662;Tire rotation;-;100;2242
+2663;Exhaust hanger;Walker;25;2243
+2664;Battery;AC Delco;350;2244
+2665;Ignition switch;ACDelco;50;2254
+2667;Air filter;Fram;50;2241
+2667;Air filter;Fram;50;2241
+2668;Oxygen sensor;Bosch;150;2260
+2669;Fuel filter;Wix;50;2235
+2670;Power steering hose;Gates;100;2239
+2671;Fuel pressure regulator;Delphi;25;2255
+2672;Spark plugs;NGK;25;2234
+2673;Engine mount;DEA;50;2239
+2674;Radiator;Denso;350;2243
+2675;Radiator fan assembly;TYC;100;2245
+2676;Ignition control module;ACDelco;50;2263
+2677;Engine mount;DEA;50;2269
+2678;Alternator;Bosch;300;2242
+2679;Ignition switch;ACDelco;50;2249
+2680;Engine mount;DEA;50;2274
+2681;Brake fluid flush;Castrol;100;2276
+2682;Throttle body;Dorman;75;2260
+2683;Transmission shift cable;Pioneer Cables;50;2264
+2684;Transmission shift cable;Pioneer Cables;50;2266
+2685;Transmission control module;ACDelco;200;2266
+2686;Transmission shift solenoid;Rostra;75;2257
+2687;Transmission filter;Fram;50;2264
+2688;Ignition coil;Bosch;50;2280
+2689;Camshaft position sensor;Dorman;100;2261
+2690;Ignition switch;ACDelco;50;2263
+2691;Oil change;Mobil 1;150;2276
+2692;Ignition switch;ACDelco;50;2277
+2693;Exhaust manifold;Dorman;100;2279
+2694;Headlight bulb;Philips;25;2284
+2695;Blower motor;TYC;75;2267
+2696;Radiator fan assembly;TYC;100;2279
+2697;Suspension strut;Monroe;200;2287
+2698;CV joint;GSP;100;2288
+2699;Brake master cylinder;Centric;100;2296
+2700;Ball joint;Moog;50;2303
+2701;Transmission pan gasket;Fel-Pro;25;2268
+2702;Axle shaft;A1 Cardone;100;2280
+2703;Water pump;Airtex;200;2291
+2704;Thermostat;Stant;50;2306
+2705;Brake master cylinder;Centric;100;2274
+2706;Ignition control module;ACDelco;50;2276
+2707;Transmission fluid cooler;Hayden;50;2279
+2708;Engine mount;DEA;50;2290
+2709;Fuel pump;Delphi;150;2292
+2710;Ignition switch;ACDelco;50;2301
+2711;Radiator;Denso;350;2277
+2712;Brake pads;Brembo;200;2281
+2713;Fuel tank;Spectra Premium;200;2303
+2714;Battery;AC Delco;350;2315
+2715;Blower motor;TYC;75;2317
+2716;Axle shaft;A1 Cardone;100;2288
+2717;Ball joint;Moog;50;2288
+2718;Fuel filter;Wix;50;2289
+2719;Brake caliper;Cardone;50;2294
+2720;Radiator fan assembly;TYC;100;2305
+2721;Battery;AC Delco;350;2306
+2722;Tire rotation;-;100;2308
+2723;Ignition coil;Delphi;100;2292
+2724;Transmission mount;Anchor;50;2295
+2725;Wheel bearing;SKF;50;2295
+2726;Transmission mount;Westar;25;2295
+2727;Brake master cylinder;Centric;100;2297
+2728;Drive belt;Gates;25;2298
+2729;Wheel hub assembly;Timken;200;2305
+2730;Wheel alignment;-;400;2310
+2731;Transmission mount;Anchor;50;2310
+2732;Ignition coil;Bosch;50;2319
+2733;Fuel filter;Wix;50;2328
+2734;Brake rotor;Centric;100;2293
+2735;EGR valve gasket;Fel-Pro;25;2301
+2736;EGR valve;ACDelco;75;2306
+2737;Wheel cylinder;Raybestos;50;2314
+2738;Transmission speed sensor;ACDelco;25;2314
+2739;Control arm bushing;Febi;50;2319
+2740;Radiator;Denso;350;2320
+2741;Radiator fan assembly;TYC;100;2324
+2742;Wheel bearing;SKF;50;2326
+2743;Wheel lug nuts;Dorman;25;2330
+2744;Thermostat;Stant;50;2304
+2745;Ignition coil;Delphi;100;2317
+2746;Transmission mount;Anchor;50;2325
+2747;Wheel cylinder;Raybestos;50;2330
+2748;Control arm;Dorman;50;2332
+2749;Wheel hub assembly;Timken;200;2313
+2750;Exhaust hanger;Walker;25;2320
+2751;Oxygen sensor;Bosch;150;2322
+2752;EGR valve gasket;Fel-Pro;25;2323
+2753;Control arm;Dorman;50;2327
+2754;Exhaust hanger;Walker;25;2327
+2755;Transmission control module;ACDelco;200;2329
+2756;Serpentine belt;Gates;75;2341
+2757;Engine oil cooler;Dorman;75;2312
+2758;Control arm bushing;Dorman;25;2322
+2759;Wheel alignment;-;400;2331
+2760;Ignition coil;Delphi;100;2346
+2761;Transmission fluid cooler;Hayden;50;2316
+2762;Control arm;Moog;150;2316
+2763;Water pump;Airtex;200;2330
+2764;Wheel hub assembly;Timken;200;2343
+2765;Transmission mount;Anchor;50;2350
+2766;Headlight bulb;Philips;25;2325
+2767;Ignition coil;Delphi;100;2334
+2768;Drive belt;Gates;25;2338
+2769;Radiator fan assembly;TYC;100;2345
+2770;Muffler;Walker;100;2349
+2771;Camshaft position sensor;Dorman;100;2338
+2772;Brake rotor;Centric;100;2339
+2773;Water pump;Airtex;200;2345
+2774;Transmission shift cable;Pioneer Cables;50;2347
+2775;Fuel pump;Delphi;150;2351
+2776;Radiator;Denso;350;2356
+2777;Shock absorber;KYB;75;2329
+2778;Ignition control module;ACDelco;50;2337
+2779;Ignition control module;ACDelco;50;2354
+2780;Control arm;Moog;75;2354
+2781;Transmission speed sensor;ACDelco;25;2369
+2782;Blower motor;TYC;75;2339
+2783;Headlight bulb;Philips;25;2348
+2784;Throttle body;Dorman;75;2351
+2785;Brake caliper;Cardone;50;2358
+2786;Oil change;Mobil 1;150;2360
+2787;Tire rotation;-;100;2376
+2788;Camshaft position sensor;Dorman;100;2346
+2789;Thermostat;Stant;50;2346
+2790;Fuel pump;Delphi;150;2357
+2791;Transmission speed sensor;ACDelco;25;2360
+2792;Muffler;Walker;100;2365
+2793;Power steering hose;Gates;100;2369
+2794;Engine control module;A1 Cardone;200;2349
+2795;Suspension strut;Monroe;200;2351
+2796;Ignition control module;ACDelco;50;2354
+2797;Crankshaft position sensor;Beck/Arnley;50;2355
+2798;Control arm;Dorman;50;2362
+2799;Fuel pump;Delphi;150;2375
+2800;Clutch kit;Exedy;200;2355
+2801;Spark plugs;NGK;25;2357
+2802;Exhaust manifold;Dorman;100;2357
+2803;Serpentine belt;Gates;75;2360
+2804;Wheel lug nuts;Dorman;25;2370
+2805;Water pump;Airtex;200;2371
+2806;Transmission pan gasket;Fel-Pro;25;2375
+2807;CV joint;GSP;100;2382
+2808;Control arm;Moog;150;2362
+2809;Water pump;Airtex;200;2371
+2810;Ignition control module;ACDelco;50;2372
+2811;Oil change;Mobil 1;150;2373
+2812;Ignition switch;Standard Motor Products;25;2379
+2813;EGR valve gasket;Fel-Pro;25;2387
+2814;Catalytic converter;MagnaFlow;300;2378
+2815;Air filter;Fram;50;2396
+2816;Ignition switch;Standard Motor Products;25;2400
+2817;Brake fluid flush;Castrol;100;2368
+2818;Blower motor;TYC;75;2370
+2819;Transmission fluid change;Valvoline;200;2380
+2820;Wheel alignment;-;400;2380
+2821;Drive belt;Gates;25;2389
+2822;Transmission shift cable;Pioneer Cables;50;2392
+2823;Brake pads;Brembo;200;2400
+2824;Control arm;Dorman;50;2372
+2825;Transmission shift solenoid;Rostra;75;2374
+2826;Transmission fluid cooler;Hayden;50;2379
+2827;Wheel bearing;SKF;50;2381
+2828;Control arm;Moog;75;2387
+2829;Windshield wipers;Rain-X;50;2388
+2830;Shock absorber;KYB;75;2388
+2831;Wheel lug nuts;Dorman;25;2392
+2832;Axle shaft;A1 Cardone;100;2399
+2833;Serpentine belt;Gates;75;2401
+2834;Fuel tank;Spectra Premium;200;2402
+2835;Engine control module;A1 Cardone;200;2407
+2836;Clutch kit;Exedy;200;2410
+2837;Transmission mount;Westar;25;2387
+2838;Transmission shift solenoid;Rostra;75;2394
+2839;Brake caliper;Cardone;50;2403
+2840;Battery;AC Delco;350;2382
+2841;Axle shaft;A1 Cardone;100;2390
+2842;Windshield wipers;Rain-X;50;2393
+2843;Axle shaft;A1 Cardone;100;2394
+2844;Fuel injector;Bosch;100;2395
+2845;Brake master cylinder;Centric;100;2401
+2846;Wheel lug nuts;Dorman;25;2404
+2847;Transmission pan gasket;Fel-Pro;25;2408
+2848;Spark plugs;NGK;25;2408
+2849;Wheel bearing;SKF;50;2415
+2850;Fuel tank filler neck;Dorman;50;2416
+2851;Ignition switch;ACDelco;50;2419
+2852;Ignition coil;Bosch;50;2420
+2853;Control arm;Dorman;50;2395
+2854;Windshield wipers;Rain-X;50;2398
+2855;Brake rotor;Centric;100;2412
+2856;Fuel tank;Spectra Premium;200;2417
+2857;Transmission mount;Anchor;50;2396
+2858;PCV valve;Standard Motor Products;25;2397
+2859;Brake caliper;Cardone;50;2403
+2860;Wheel lug nuts;Dorman;25;2428
+2861;Ignition coil;Bosch;50;2397
+2862;PCV valve;Standard Motor Products;25;2398
+2863;Tie rod end;Mevotech;50;2406
+2864;Ignition coil;Bosch;50;2423
+2865;EGR valve;Standard Motor Products;50;2435
+2866;Ignition switch;ACDelco;50;2401
+2867;Transmission mount;Westar;25;2406
+2868;Engine mount;DEA;50;2411
+2869;EGR valve;ACDelco;75;2415
+2870;Muffler;Walker;100;2420
+2871;Engine mount;DEA;50;2408
+2872;EGR valve;ACDelco;75;2410
+2873;Ignition coil;Delphi;100;2415
+2874;Ball joint;Moog;50;2437
+2875;Radiator;Denso;350;2445
+2876;Fuel injector;Bosch;100;2411
+2877;Control arm bushing;Dorman;25;2412
+2878;Ignition switch;Standard Motor Products;25;2440
+2879;Exhaust hanger;Walker;25;2444
+2880;EGR valve;ACDelco;75;2449
+2881;Control arm bushing;Dorman;25;2422
+2882;Ignition switch;ACDelco;50;2422
+2883;PCV valve;Standard Motor Products;25;2426
+2884;Brake master cylinder;Centric;100;2427
+2885;Mass airflow sensor;Spectra Premium;150;2431
+2886;Engine oil cooler;Dorman;75;2449
+2887;Battery;AC Delco;350;2425
+2888;Wheel lug nuts;Dorman;25;2428
+2889;Transmission control module;ACDelco;200;2434
+2890;Brake fluid flush;Castrol;100;2434
+2891;Exhaust hanger;Walker;25;2435
+2892;Transmission shift cable;Pioneer Cables;50;2437
+2893;Axle shaft;A1 Cardone;100;2443
+2894;Headlight assembly;TYC;100;2448
+2895;Power steering hose;Gates;100;2453
+2896;Clutch kit;Exedy;200;2454
+2897;Exhaust manifold;Dorman;100;2432
+2898;Brake pads;Brembo;200;2439
+2899;EGR valve;Standard Motor Products;50;2445
+2900;Ignition switch;ACDelco;50;2451
+2901;Exhaust hanger;Walker;25;2456
+2902;Ball joint;Moog;50;2458
+2903;Air filter;Fram;50;2431
+2904;Transmission fluid change;Valvoline;200;2432
+2905;Axle shaft;A1 Cardone;100;2442
+2906;Fuel filter;Wix;50;2442
+2907;Tire rotation;-;100;2439
+2908;Suspension strut;Monroe;200;2439
+2909;Wheel hub assembly;Timken;200;2456
+2910;Ignition coil;Delphi;100;2459
+2911;Transmission mount;Anchor;50;2467
+2912;Engine oil cooler;Dorman;75;2467
+2913;Exhaust hanger;Walker;25;2470
+2914;Control arm bushing;Dorman;25;2442
+2915;MAP sensor;Standard Motor Products;50;2446
+2916;Water pump;Airtex;200;2470
+2917;PCV valve;Standard Motor Products;25;2475
+2918;Water pump;Airtex;200;2477
+2919;Headlight bulb;Philips;25;2451
+2920;Control arm bushing;Febi;50;2454
+2921;Catalytic converter;MagnaFlow;300;2466
+2922;CV joint;GSP;100;2469
+2923;Camshaft position sensor;Dorman;100;2471
+2924;Transmission pan gasket;Fel-Pro;25;2478
+2925;Serpentine belt;Gates;75;2479
+2926;Ignition coil;Bosch;50;2480
+2927;Transmission speed sensor;ACDelco;25;2481
+2928;Thermostat;Stant;50;2464
+2929;Air filter;Fram;50;2466
+2930;Water pump;Airtex;200;2467
+2931;Axle shaft;A1 Cardone;100;2468
+2932;Brake rotor;Centric;100;2476
+2933;Transmission speed sensor;ACDelco;25;2481
+2934;Clutch kit;Exedy;200;2457
+2935;Thermostat;Stant;50;2463
+2936;Windshield wipers;Rain-X;50;2473
+2937;Fuel pump;Delphi;150;2475
+2938;Headlight bulb;Philips;25;2479
+2939;Windshield wipers;Rain-X;50;2482
+2940;Spark plugs;NGK;25;2462
+2941;Shock absorber;KYB;75;2469
+2942;Fuel pressure regulator;Delphi;25;2470
+2943;Oxygen sensor;Bosch;150;2474
+2944;Transmission fluid change;Valvoline;200;2485
+2945;Suspension strut;Monroe;200;2497
+2946;Ignition switch;ACDelco;50;2498
+2947;Transmission mount;Westar;25;2490
+2948;Transmission shift solenoid;Rostra;75;2492
+2949;Transmission mount;Anchor;50;2500
+2950;Radiator;Denso;350;2473
+2951;Drive belt;Gates;25;2473
+2952;Exhaust manifold;Dorman;100;2482
+2953;Wheel cylinder;Raybestos;50;2493
+2954;Shock absorber;KYB;75;2494
+2955;Radiator;Denso;350;2504
+2956;Axle shaft;A1 Cardone;100;2505
+2957;Wheel hub assembly;Timken;200;2476
+2958;Catalytic converter;MagnaFlow;300;2476
+2959;Ignition coil;Bosch;50;2478
+2960;Wheel lug nuts;Dorman;25;2488
+2961;Radiator fan assembly;TYC;100;2495
+2962;Fuel pump;Delphi;150;2484
+2963;MAP sensor;Standard Motor Products;50;2485
+2964;Fuel injector;Bosch;100;2486
+2965;Wheel lug nuts;Dorman;25;2486
+2966;Engine control module;A1 Cardone;200;2492
+2967;Ball joint;Moog;50;2500
+2968;Ball joint;Moog;50;2484
+2969;Engine oil cooler;Dorman;75;2485
+2970;Transmission control module;ACDelco;200;2493
+2971;Ignition control module;ACDelco;50;2498
+2972;Engine mount;DEA;50;2499
+2973;Fuel tank filler neck;Dorman;50;2505
+2974;Fuel injector;Bosch;100;2508
+2975;Fuel injector;Bosch;100;2508
+2976;Tie rod end;Mevotech;50;2511
+2977;Engine control module;A1 Cardone;200;2518
+2978;Engine control module;A1 Cardone;200;2518
+2979;Wheel cylinder;Raybestos;50;2493
+2980;Transmission shift cable;Pioneer Cables;50;2496
+2981;Camshaft position sensor;Dorman;100;2507
+2982;Ignition coil;Delphi;100;2514
+2983;Water pump;Airtex;200;2498
+2984;EGR valve;Standard Motor Products;50;2506
+2985;Engine oil cooler;Dorman;75;2509
+2986;Fuel injector;Bosch;100;2512
+2987;Mass airflow sensor;Spectra Premium;150;2519
+2988;Crankshaft position sensor;Beck/Arnley;50;2520
+2989;EGR valve gasket;Fel-Pro;25;2523
+2990;Control arm bushing;Dorman;25;2504
+2991;Radiator fan assembly;TYC;100;2505
+2992;Ignition switch;ACDelco;50;2510
+2993;Fuel tank filler neck;Dorman;50;2514
+2994;Fuel pump;Delphi;150;2516
+2995;Wheel cylinder;Raybestos;50;2515
+2996;Headlight bulb;Philips;25;2520
+2997;Fuel tank;Spectra Premium;200;2521
+2998;Thermostat;Stant;50;2525
+2999;Blower motor;TYC;75;2507
+3000;Brake fluid flush;Castrol;100;2508
+3001;Exhaust hanger;Walker;25;2510
+3002;Drive belt;Gates;25;2515
+3003;Control arm bushing;Febi;50;2524
+3004;Power steering hose;Gates;100;2525
+3005;Serpentine belt;Gates;75;2529
+3006;Spark plugs;NGK;25;2540
+3007;Control arm bushing;Dorman;25;2535
+3008;EGR valve gasket;Fel-Pro;25;2536
+3009;Battery;AC Delco;350;2539
+3010;Control arm;Dorman;50;2545
+3011;Windshield wipers;Rain-X;50;2545
+3012;Power steering pump;Cardone;150;2552
+3013;Windshield wipers;Rain-X;50;2532
+3014;PCV valve;Standard Motor Products;25;2532
+3015;Control arm;Moog;75;2538
+3016;Shock absorber;KYB;75;2543
+3017;EGR valve;Standard Motor Products;50;2546
+3018;Control arm;Moog;75;2550
+3019;EGR valve gasket;Fel-Pro;25;2525
+3020;Serpentine belt;Gates;75;2531
+3021;Oil change;Mobil 1;150;2540
+3022;Wheel lug nuts;Dorman;25;2554
+3023;Fuel tank filler neck;Dorman;50;2562
+3024;Catalytic converter;MagnaFlow;300;2564
+3025;Alternator;Bosch;300;2533
+3026;Fuel tank;Spectra Premium;200;2534
+3027;Control arm bushing;Dorman;25;2546
+3028;Ignition switch;Standard Motor Products;25;2550
+3029;Camshaft position sensor;Dorman;100;2557
+3030;Alternator;Bosch;300;2563
+3031;Engine control module;A1 Cardone;200;2546
+3032;Wheel lug nuts;Dorman;25;2548
+3033;Transmission speed sensor;ACDelco;25;2554
+3034;Control arm;Moog;75;2574
+3035;Fuel filter;Wix;50;2575
+3036;Brake pads;Brembo;200;2543
+3037;Throttle body;Dorman;75;2560
+3038;Axle shaft;A1 Cardone;100;2578
+3039;Engine control module;A1 Cardone;200;2548
+3040;Crankshaft position sensor;Beck/Arnley;50;2561
+3041;Air filter;Fram;50;2571
+3042;Brake rotor;Centric;100;2554
+3043;Camshaft position sensor;Dorman;100;2559
+3044;Brake pads;Brembo;200;2575
+3045;PCV valve;Standard Motor Products;25;2580
+3046;EGR valve gasket;Fel-Pro;25;2561
+3047;Ignition control module;ACDelco;50;2564
+3048;Exhaust hanger;Walker;25;2568
+3049;Transmission fluid change;Valvoline;200;2575
+3050;Tie rod end;Mevotech;50;2581
+3051;Ball joint;Moog;50;2586
+3052;Transmission filter;Fram;50;2594
+3053;Oxygen sensor;Bosch;150;2563
+3054;Ignition coil;Delphi;100;2589
+3055;EGR valve;ACDelco;75;2589
+3056;Ball joint;Moog;50;2593
+3057;Fuel filter;Wix;50;2597
+3058;Crankshaft position sensor;Beck/Arnley;50;2569
+3059;Muffler;Walker;100;2573
+3060;Brake rotor;Centric;100;2574
+3061;Transmission filter;Fram;50;2580
+3062;Transmission shift solenoid;Rostra;75;2582
+3063;EGR valve;ACDelco;75;2588
+3064;Fuel filter;Wix;50;2591
+3065;Brake pads;Brembo;200;2592
+3066;Transmission mount;Anchor;50;2603
+3067;Transmission shift cable;Pioneer Cables;50;2579
+3068;Catalytic converter;MagnaFlow;300;2579
+3069;Muffler;Walker;100;2585
+3070;Fuel tank;Spectra Premium;200;2586
+3071;Wheel alignment;-;400;2592
+3072;Transmission fluid cooler;Hayden;50;2601
+3073;Engine mount;DEA;50;2581
+3074;Ball joint;Moog;50;2581
+3075;Engine oil cooler;Dorman;75;2584
+3076;Ignition control module;ACDelco;50;2587
+3077;Wheel lug nuts;Dorman;25;2600
+3078;Mass airflow sensor;Spectra Premium;150;2584
+3079;Oxygen sensor;Bosch;150;2585
+3080;Brake pads;Brembo;200;2586
+3081;Headlight bulb;Philips;25;2587
+3082;Wheel alignment;-;400;2590
+3083;Thermostat;Stant;50;2590
+3084;EGR valve;ACDelco;75;2591
+3085;Camshaft position sensor;Dorman;100;2590
+3086;Fuel injector;Bosch;100;2598
+3087;Tie rod end;Mevotech;50;2612
+3088;Power steering hose;Gates;100;2612
+3089;Transmission shift cable;Pioneer Cables;50;2618
+3090;Fuel filter;Wix;50;2594
+3091;Power steering pump;Cardone;150;2599
+3092;Wheel bearing;SKF;50;2614
+3093;Suspension strut;Monroe;200;2625
+3094;Tie rod end;Mevotech;50;2626
+3095;Clutch kit;Exedy;200;2626
+3096;Fuel pressure regulator;Delphi;25;2600
+3097;Control arm;Dorman;50;2617
+3098;Thermostat;Stant;50;2625
+3099;Power steering hose;Gates;100;2610
+3100;Wheel lug nuts;Dorman;25;2637
+3101;Radiator fan assembly;TYC;100;2608
+3102;Exhaust manifold;Dorman;100;2624
+3103;Exhaust hanger;Walker;25;2632
+3104;Brake pads;Brembo;200;2633
+3106;Fuel tank;Spectra Premium;200;2615
+3106;Fuel tank;Spectra Premium;200;2615
+3107;Headlight bulb;Philips;25;2621
+3108;Transmission fluid cooler;Hayden;50;2629
+3109;Power steering pump;Cardone;150;2641
+3110;Ignition control module;ACDelco;50;2638
+3111;Tie rod end;Mevotech;50;2641
+3112;Fuel pump;Delphi;150;2625
+3113;Transmission fluid change;Valvoline;200;2633
+3114;Fuel tank filler neck;Dorman;50;2634
+3115;Radiator fan assembly;TYC;100;2637
+3116;Radiator;Denso;350;2644
+3117;Mass airflow sensor;Spectra Premium;150;2647
+3118;Radiator;Denso;350;2650
+3119;Drive belt;Gates;25;2653
+3120;Camshaft position sensor;Dorman;100;2654
+3121;Transmission shift cable;Pioneer Cables;50;2636
+3122;Battery;AC Delco;350;2648
+3123;Fuel filter;Wix;50;2658
+3124;Water pump;Airtex;200;2662
+3125;Exhaust manifold;Dorman;100;2638
+3126;Wheel cylinder;Raybestos;50;2652
+3127;Wheel alignment;-;400;2652
+3128;Wheel bearing;SKF;50;2643
+3129;Ignition switch;Standard Motor Products;25;2645
+3130;EGR valve;ACDelco;75;2648
+3131;Battery;AC Delco;350;2649
+3132;Catalytic converter;MagnaFlow;300;2663
+3133;Oxygen sensor;Bosch;150;2645
+3134;Brake caliper;Cardone;50;2653
+3135;Transmission shift cable;Pioneer Cables;50;2655
+3136;Radiator fan assembly;TYC;100;2662
+3137;Muffler;Walker;100;2669
+3138;Blower motor;TYC;75;2672
+3139;Control arm bushing;Febi;50;2673
+3140;Windshield wipers;Rain-X;50;2682
+3141;Fuel tank filler neck;Dorman;50;2649
+3142;Exhaust hanger;Walker;25;2650
+3143;CV joint;GSP;100;2656
+3144;Headlight assembly;TYC;100;2657
+3145;Drive belt;Gates;25;2668
+3146;Power steering pump;Cardone;150;2671
+3147;EGR valve gasket;Fel-Pro;25;2677
+3148;EGR valve;Standard Motor Products;50;2680
+3149;Exhaust hanger;Walker;25;2686
+3150;Ignition switch;Standard Motor Products;25;2655
+3151;Engine oil cooler;Dorman;75;2660
+3152;Catalytic converter;MagnaFlow;300;2674
+3153;Radiator;Denso;350;2681
+3154;Oxygen sensor;Bosch;150;2660
+3155;Transmission mount;Anchor;50;2663
+3156;Headlight assembly;TYC;100;2689
+3157;Serpentine belt;Gates;75;2691
+3158;Muffler;Walker;100;2692
+3159;Windshield wipers;Rain-X;50;2667
+3160;Transmission fluid cooler;Hayden;50;2676
+3161;Wheel lug nuts;Dorman;25;2676
+3162;Ignition switch;ACDelco;50;2678
+3163;Tire rotation;-;100;2678
+3164;Brake pads;Brembo;200;2686
+3165;Transmission mount;Anchor;50;2688
+3166;Tie rod end;Mevotech;50;2695
+3167;Alternator;Bosch;300;2701
+3168;Axle shaft;A1 Cardone;100;2667
+3169;Control arm;Moog;75;2669
+3170;Exhaust hanger;Walker;25;2684
+3171;Brake rotor;Centric;100;2684
+3172;Ignition control module;ACDelco;50;2688
+3173;Wheel hub assembly;Timken;200;2691
+3174;Fuel injector;Bosch;100;2694
+3175;Control arm bushing;Febi;50;2696
+3176;Transmission filter;Fram;50;2703
+3177;Fuel filter;Wix;50;2675
+3178;Headlight assembly;TYC;100;2679
+3179;Ignition switch;ACDelco;50;2698
+3180;Fuel pump;Delphi;150;2713
+3181;Wheel bearing;SKF;50;2716
+3182;Transmission fluid cooler;Hayden;50;2684
+3183;Camshaft position sensor;Dorman;100;2687
+3184;Suspension strut;Monroe;200;2688
+3185;Brake pads;Brembo;200;2689
+3186;Clutch kit;Exedy;200;2695
+3187;Fuel injector;Bosch;100;2697
+3188;MAP sensor;Standard Motor Products;50;2702
+3189;Fuel tank filler neck;Dorman;50;2702
+3190;EGR valve;ACDelco;75;2711
+3191;Power steering hose;Gates;100;2715
+3192;Ignition switch;Standard Motor Products;25;2717
+3193;Battery;AC Delco;350;2718
+3194;Throttle body;Dorman;75;2693
+3195;Transmission shift cable;Pioneer Cables;50;2695
+3196;Suspension strut;Monroe;200;2703
+3197;Wheel hub assembly;Timken;200;2697
+3198;Ignition switch;Standard Motor Products;25;2709
+3199;Mass airflow sensor;Spectra Premium;150;2710
+3200;Transmission fluid cooler;Hayden;50;2712
+3201;Power steering pump;Cardone;150;2718
+3202;Ball joint;Moog;50;2719
+3203;Engine mount;DEA;50;2720
+3204;MAP sensor;Standard Motor Products;50;2720
+3205;Alternator;Bosch;300;2722
+3206;Brake pads;Brembo;200;2722
+3207;Water pump;Airtex;200;2723
+3208;Tie rod end;Mevotech;50;2731
+3209;Control arm;Moog;150;2699
+3210;Brake fluid flush;Castrol;100;2701
+3211;Camshaft position sensor;Dorman;100;2708
+3212;Fuel pump;Delphi;150;2713
+3213;MAP sensor;Standard Motor Products;50;2715
+3214;Fuel tank filler neck;Dorman;50;2733
+3215;CV joint;GSP;100;2716
+3216;Transmission shift solenoid;Rostra;75;2719
+3217;Brake fluid flush;Castrol;100;2721
+3218;Blower motor;TYC;75;2726
+3219;Wheel lug nuts;Dorman;25;2732
+3220;Drive belt;Gates;25;2734
+3221;Ignition switch;ACDelco;50;2717
+3222;Control arm;Moog;150;2719
+3223;Brake fluid flush;Castrol;100;2725
+3224;Water pump;Airtex;200;2735
+3225;Wheel hub assembly;Timken;200;2741
+3226;Radiator;Denso;350;2721
+3227;Windshield wipers;Rain-X;50;2728
+3228;EGR valve gasket;Fel-Pro;25;2731
+3229;Exhaust manifold;Dorman;100;2737
+3230;Mass airflow sensor;Spectra Premium;150;2744
+3231;EGR valve gasket;Fel-Pro;25;2747
+3232;Windshield wipers;Rain-X;50;2750
+3233;Brake fluid flush;Castrol;100;2732
+3234;Mass airflow sensor;Spectra Premium;150;2737
+3235;Ignition control module;ACDelco;50;2743
+3236;Brake caliper;Cardone;50;2750
+3237;Ignition switch;Standard Motor Products;25;2724
+3238;Transmission control module;ACDelco;200;2739
+3239;Suspension strut;Monroe;200;2745
+3240;Transmission control module;ACDelco;200;2745
+3241;Blower motor;TYC;75;2756
+3242;Exhaust hanger;Walker;25;2757
+3243;Fuel pressure regulator;Delphi;25;2737
+3244;Brake caliper;Cardone;50;2735
+3245;Wheel lug nuts;Dorman;25;2738
+3246;Mass airflow sensor;Spectra Premium;150;2755
+3247;Axle shaft;A1 Cardone;100;2767
+3248;Axle shaft;A1 Cardone;100;2748
+3249;Spark plugs;NGK;25;2749
+3250;Control arm bushing;Dorman;25;2750
+3251;Water pump;Airtex;200;2755
+3252;Thermostat;Stant;50;2759
+3253;Headlight bulb;Philips;25;2767
+3254;Control arm;Dorman;50;2771
+3255;Wheel alignment;-;400;2771
+3256;EGR valve gasket;Fel-Pro;25;2742
+3257;Transmission shift solenoid;Rostra;75;2743
+3258;Brake pads;Brembo;200;2758
+3259;Blower motor;TYC;75;2761
+3260;Blower motor;TYC;75;2767
+3261;Headlight assembly;TYC;100;2769
+3262;Exhaust hanger;Walker;25;2749
+3263;Air filter;Fram;50;2760
+3264;EGR valve;ACDelco;75;2765
+3265;Tire rotation;-;100;2766
+3266;Transmission fluid change;Valvoline;200;2768
+3267;Transmission mount;Westar;25;2770
+3268;Headlight bulb;Philips;25;2772
+3269;Clutch kit;Exedy;200;2777
+3270;Transmission speed sensor;ACDelco;25;2781
+3271;Fuel pump;Delphi;150;2751
+3272;Ignition control module;ACDelco;50;2756
+3273;Wheel hub assembly;Timken;200;2758
+3274;Suspension strut;Monroe;200;2762
+3275;Ignition switch;Standard Motor Products;25;2764
+3276;Fuel filter;Wix;50;2766
+3277;Engine oil cooler;Dorman;75;2768
+3278;MAP sensor;Standard Motor Products;50;2786
+3279;Mass airflow sensor;Spectra Premium;150;2788
+3280;Ignition switch;ACDelco;50;2761
+3281;Fuel pump;Delphi;150;2764
+3282;Headlight bulb;Philips;25;2794
+3283;Exhaust manifold;Dorman;100;2763
+3284;Fuel injector;Bosch;100;2774
+3285;Brake fluid flush;Castrol;100;2775
+3286;Crankshaft position sensor;Beck/Arnley;50;2778
+3287;Power steering pump;Cardone;150;2782
+3288;Control arm;Dorman;50;2792
+3289;Windshield wipers;Rain-X;50;2793
+3290;Water pump;Airtex;200;2773
+3291;Control arm;Moog;150;2785
+3292;EGR valve gasket;Fel-Pro;25;2787
+3293;Serpentine belt;Gates;75;2792
+3294;Oxygen sensor;Bosch;150;2802
+3295;Spark plugs;NGK;25;2802
+3296;Control arm;Moog;75;2805
+3297;Control arm bushing;Febi;50;2772
+3298;EGR valve;ACDelco;75;2775
+3299;Radiator fan assembly;TYC;100;2788
+3300;Camshaft position sensor;Dorman;100;2796
+3301;Brake master cylinder;Centric;100;2811
+3302;Control arm;Moog;75;2780
+3303;Headlight assembly;TYC;100;2783
+3304;Transmission mount;Westar;25;2791
+3305;Exhaust hanger;Walker;25;2795
+3306;Suspension strut;Monroe;200;2799
+3307;Blower motor;TYC;75;2800
+3308;Brake caliper;Cardone;50;2810
+3309;EGR valve gasket;Fel-Pro;25;2811
+3310;Tie rod end;Mevotech;50;2813
+3311;Control arm bushing;Dorman;25;2784
+3312;Headlight assembly;TYC;100;2788
+3313;EGR valve gasket;Fel-Pro;25;2798
+3314;Headlight assembly;TYC;100;2807
+3315;Control arm;Dorman;50;2807
+3316;Suspension strut;Monroe;200;2818
+3317;EGR valve gasket;Fel-Pro;25;2820
+3318;Exhaust manifold;Dorman;100;2801
+3319;Transmission filter;Fram;50;2818
+3320;Power steering hose;Gates;100;2795
+3321;Battery;AC Delco;350;2795
+3322;Transmission filter;Fram;50;2801
+3323;Headlight assembly;TYC;100;2809
+3324;Transmission filter;Fram;50;2814
+3325;Radiator;Denso;350;2816
+3326;Transmission speed sensor;ACDelco;25;2818
+3327;Brake fluid flush;Castrol;100;2800
+3328;Control arm;Moog;75;2808
+3329;Water pump;Airtex;200;2814
+3330;Muffler;Walker;100;2831
+3331;Crankshaft position sensor;Beck/Arnley;50;2836
+3332;Thermostat;Stant;50;2804
+3333;Engine mount;DEA;50;2812
+3334;Axle shaft;A1 Cardone;100;2812
+3335;Control arm;Moog;75;2815
+3336;Power steering hose;Gates;100;2817
+3337;Brake pads;Brembo;200;2824
+3338;Exhaust manifold;Dorman;100;2828
+3339;Battery;AC Delco;350;2828
+3340;Fuel tank;Spectra Premium;200;2829
+3341;EGR valve;ACDelco;75;2830
+3342;Wheel bearing;SKF;50;2843
+3343;Transmission speed sensor;ACDelco;25;2815
+3344;Throttle body;Dorman;75;2821
+3345;Blower motor;TYC;75;2826
+3346;Blower motor;TYC;75;2834
+3347;Battery;AC Delco;350;2845
+3348;Fuel injector;Bosch;100;2813
+3349;Oil change;Mobil 1;150;2815
+3350;Fuel tank;Spectra Premium;200;2824
+3351;Windshield wipers;Rain-X;50;2831
+3352;Transmission shift cable;Pioneer Cables;50;2836
+3353;EGR valve;ACDelco;75;2848
+3354;Engine oil cooler;Dorman;75;2823
+3355;Wheel cylinder;Raybestos;50;2825
+3356;Mass airflow sensor;Spectra Premium;150;2833
+3357;Transmission shift solenoid;Rostra;75;2840
+3358;Control arm;Dorman;50;2847
+3359;PCV valve;Standard Motor Products;25;2852
+3360;Axle shaft;A1 Cardone;100;2852
+3361;Wheel bearing;SKF;50;2857
+3362;Transmission mount;Anchor;50;2823
+3363;Ignition coil;Delphi;100;2847
+3364;Catalytic converter;MagnaFlow;300;2849
+3365;Brake rotor;Centric;100;2854
+3366;Spark plugs;NGK;25;2860
+3367;MAP sensor;Standard Motor Products;50;2836
+3368;Wheel bearing;SKF;50;2857
+3369;Wheel hub assembly;Timken;200;2867
+3373;Brake fluid flush;Castrol;100;2839
+3371;MAP sensor;Standard Motor Products;50;2837
+3372;Headlight bulb;Philips;25;2838
+3373;Brake fluid flush;Castrol;100;2839
+3374;Tie rod end;Mevotech;50;2849
+3375;Transmission fluid change;Valvoline;200;2838
+3376;Shock absorber;KYB;75;2840
+3377;Serpentine belt;Gates;75;2854
+3378;Power steering hose;Gates;100;2848
+3379;Ignition coil;Delphi;100;2850
+3380;Camshaft position sensor;Dorman;100;2858
+3381;Transmission fluid cooler;Hayden;50;2854
+3382;Thermostat;Stant;50;2858
+3383;Serpentine belt;Gates;75;2859
+3384;Engine mount;DEA;50;2863
+3385;Transmission control module;ACDelco;200;2871
+3386;Fuel pressure regulator;Delphi;25;2876
+3387;Wheel bearing;SKF;50;2877
+3388;Transmission speed sensor;ACDelco;25;2881
+3389;Transmission mount;Westar;25;2862
+3390;Air filter;Fram;50;2877
+3391;Alternator;Bosch;300;2880
+3392;Fuel pressure regulator;Delphi;25;2882
+3393;Brake fluid flush;Castrol;100;2883
+3394;Shock absorber;KYB;75;2884
+3395;Engine mount;DEA;50;2864
+3396;Radiator;Denso;350;2873
+3397;Power steering hose;Gates;100;2879
+3398;Power steering pump;Cardone;150;2883
+3399;Brake master cylinder;Centric;100;2895
+3400;Control arm;Dorman;50;2874
+3401;Water pump;Airtex;200;2898
+3402;Fuel tank filler neck;Dorman;50;2869
+3403;Ignition coil;Delphi;100;2876
+3404;PCV valve;Standard Motor Products;25;2879
+3405;Exhaust hanger;Walker;25;2880
+3406;Brake fluid flush;Castrol;100;2888
+3407;Wheel cylinder;Raybestos;50;2889
+3408;Muffler;Walker;100;2899
+3409;Fuel tank filler neck;Dorman;50;2901
+3410;Control arm bushing;Dorman;25;2907
+3411;Brake pads;Brembo;200;2880
+3412;Mass airflow sensor;Spectra Premium;150;2881
+3413;Shock absorber;KYB;75;2884
+3414;EGR valve gasket;Fel-Pro;25;2894
+3415;Transmission filter;Fram;50;2902
+3416;Radiator;Denso;350;2905
+3417;Control arm bushing;Febi;50;2912
+3418;Throttle body;Dorman;75;2888
+3419;Ignition switch;ACDelco;50;2888
+3420;Fuel injector;Bosch;100;2898
+3421;Mass airflow sensor;Spectra Premium;150;2906
+3422;Throttle body;Dorman;75;2908
+3423;Ignition switch;ACDelco;50;2908
+3424;Transmission control module;ACDelco;200;2909
+3425;MAP sensor;Standard Motor Products;50;2891
+3426;Brake rotor;Centric;100;2894
+3427;MAP sensor;Standard Motor Products;50;2895
+3428;Blower motor;TYC;75;2897
+3429;Catalytic converter;MagnaFlow;300;2917
+3430;Ignition coil;Bosch;50;2918
+3431;Transmission control module;ACDelco;200;2890
+3432;Transmission mount;Anchor;50;2891
+3433;Wheel bearing;SKF;50;2905
+3434;Crankshaft position sensor;Beck/Arnley;50;2906
+3435;Fuel filter;Wix;50;2916
+3436;Camshaft position sensor;Dorman;100;2895
+3437;Brake rotor;Centric;100;2900
+3438;Brake caliper;Cardone;50;2907
+3439;Power steering hose;Gates;100;2911
+3440;Wheel hub assembly;Timken;200;2912
+3441;PCV valve;Standard Motor Products;25;2912
+3442;PCV valve;Standard Motor Products;25;2915
+3443;Control arm;Moog;150;2922
+3444;Power steering pump;Cardone;150;2922
+3445;Transmission shift solenoid;Rostra;75;2924
+3446;Muffler;Walker;100;2931
+3447;Wheel bearing;SKF;50;2897
+3448;Transmission mount;Anchor;50;2920
+3449;Wheel hub assembly;Timken;200;2924
+3450;Tie rod end;Mevotech;50;2927
+3451;Ignition control module;ACDelco;50;2933
+3452;Transmission mount;Anchor;50;2913
+3453;Wheel lug nuts;Dorman;25;2919
+3454;Throttle body;Dorman;75;2923
+3455;Brake pads;Brembo;200;2923
+3456;Transmission speed sensor;ACDelco;25;2934
+3457;Transmission fluid cooler;Hayden;50;2938
+3458;Fuel pump;Delphi;150;2915
+3459;Tie rod end;Mevotech;50;2917
+3460;Radiator;Denso;350;2920
+3461;Thermostat;Stant;50;2929
+3462;Engine control module;A1 Cardone;200;2940
+3463;Ignition coil;Delphi;100;2941
+3464;Power steering hose;Gates;100;2942
+3465;Battery;AC Delco;350;2920
+3466;Fuel pressure regulator;Delphi;25;2921
+3467;Water pump;Airtex;200;2932
+3468;Catalytic converter;MagnaFlow;300;2938
+3469;Ignition switch;Standard Motor Products;25;2947
+3470;EGR valve gasket;Fel-Pro;25;2918
+3471;Ignition coil;Bosch;50;2930
+3472;Fuel tank filler neck;Dorman;50;2932
+3473;Clutch kit;Exedy;200;2945
+3474;PCV valve;Standard Motor Products;25;2947
+3475;Transmission filter;Fram;50;2954
+3477;Wheel alignment;-;400;2925
+3477;Wheel alignment;-;400;2925
+3478;Brake pads;Brembo;200;2935
+3479;Oil change;Mobil 1;150;2938
+3480;Thermostat;Stant;50;2950
+3481;Throttle body;Dorman;75;2953
+3482;Power steering pump;Cardone;150;2954
+3483;Brake rotor;Centric;100;2961
+3484;MAP sensor;Standard Motor Products;50;2929
+3485;Mass airflow sensor;Spectra Premium;150;2931
+3486;Exhaust hanger;Walker;25;2954
+3487;Air filter;Fram;50;2955
+3488;Control arm;Moog;150;2935
+3489;Oxygen sensor;Bosch;150;2937
+3490;EGR valve gasket;Fel-Pro;25;2944
+3491;Water pump;Airtex;200;2945
+3492;Engine oil cooler;Dorman;75;2958
+3493;Oxygen sensor;Bosch;150;2943
+3494;Throttle body;Dorman;75;2946
+3495;Transmission pan gasket;Fel-Pro;25;2946
+3496;Ignition coil;Delphi;100;2959
+3497;Wheel bearing;SKF;50;2960
+3498;PCV valve;Standard Motor Products;25;2970
+3499;Axle shaft;A1 Cardone;100;2970
+3500;Ignition switch;ACDelco;50;2971
+3501;Muffler;Walker;100;2973
+3502;MAP sensor;Standard Motor Products;50;2951
+3503;Brake caliper;Cardone;50;2950
+3504;Windshield wipers;Rain-X;50;2955
+3505;EGR valve;ACDelco;75;2957
+3506;Ignition coil;Delphi;100;2959
+3507;Transmission speed sensor;ACDelco;25;2962
+3508;Wheel lug nuts;Dorman;25;2963
+3509;Serpentine belt;Gates;75;2975
+3510;Thermostat;Stant;50;2978
+3511;Wheel bearing;SKF;50;2984
+3512;PCV valve;Standard Motor Products;25;2960
+3513;Control arm bushing;Dorman;25;2973
+3514;Water pump;Airtex;200;2975
+3515;Brake rotor;Centric;100;2980
+3516;Brake rotor;Centric;100;2985
+3517;Drive belt;Gates;25;2989
+3518;Water pump;Airtex;200;2961
+3519;Tire rotation;-;100;2967
+3520;Suspension strut;Monroe;200;2972
+3521;Ball joint;Moog;50;2981
+3522;EGR valve gasket;Fel-Pro;25;2964
+3523;Ignition coil;Delphi;100;2965
+3524;Ignition coil;Delphi;100;2970
+3525;EGR valve gasket;Fel-Pro;25;2974
+3526;Wheel cylinder;Raybestos;50;2991
+3527;Oil change;Mobil 1;150;2994
+3528;Transmission fluid change;Valvoline;200;2968
+3529;Catalytic converter;MagnaFlow;300;2972
+3530;Tie rod end;Mevotech;50;2975
+3531;Transmission mount;Anchor;50;2984
+3532;Engine oil cooler;Dorman;75;2987
+3533;Crankshaft position sensor;Beck/Arnley;50;2988
+3534;Radiator fan assembly;TYC;100;3004
+3535;Radiator;Denso;350;2985
+3536;Transmission fluid cooler;Hayden;50;2986
+3537;Ignition coil;Delphi;100;2987
+3538;Brake rotor;Centric;100;2999
+3539;Thermostat;Stant;50;2981
+3540;PCV valve;Standard Motor Products;25;2983
+3541;Ignition control module;ACDelco;50;2985
+3542;EGR valve gasket;Fel-Pro;25;2989
+3543;Transmission shift solenoid;Rostra;75;2994
+3544;Brake caliper;Cardone;50;3004
+3545;Control arm;Moog;150;3007
+3546;Brake rotor;Centric;100;3013
+3547;Control arm;Moog;150;2983
+3549;Transmission speed sensor;ACDelco;25;2998
+3549;Transmission speed sensor;ACDelco;25;2998
+3550;Transmission mount;Westar;25;2999
+3551;Oxygen sensor;Bosch;150;3017
+3552;Fuel tank filler neck;Dorman;50;2997
+3553;Ignition coil;Delphi;100;3006
+3554;Suspension strut;Monroe;200;3015
+3555;Muffler;Walker;100;3017
+3556;Control arm bushing;Febi;50;3021
+3557;Transmission mount;Westar;25;2991
+3558;Engine mount;DEA;50;2991
+3559;Fuel tank filler neck;Dorman;50;3005
+3560;Radiator;Denso;350;3016
+3561;Power steering hose;Gates;100;3020
+3562;EGR valve;ACDelco;75;3002
+3563;EGR valve gasket;Fel-Pro;25;3009
+3564;PCV valve;Standard Motor Products;25;3013
+3565;Transmission shift solenoid;Rostra;75;3014
+3566;Throttle body;Dorman;75;3002
+3567;Transmission mount;Anchor;50;3002
+3568;Radiator fan assembly;TYC;100;3009
+3569;Ignition control module;ACDelco;50;3022
+3570;Alternator;Bosch;300;3025
+3571;Transmission pan gasket;Fel-Pro;25;3032
+3572;Radiator;Denso;350;3034
+3573;Transmission fluid change;Valvoline;200;3034
+3574;Control arm bushing;Febi;50;3038
+3575;Air filter;Fram;50;3018
+3576;Exhaust manifold;Dorman;100;3018
+3577;Fuel pump;Delphi;150;3022
+3578;Throttle body;Dorman;75;3027
+3579;Fuel tank filler neck;Dorman;50;3032
+3580;Blower motor;TYC;75;3041
+3581;Thermostat;Stant;50;3017
+3582;Fuel pressure regulator;Delphi;25;3022
+3583;Fuel injector;Bosch;100;3023
+3584;Water pump;Airtex;200;3025
+3585;Brake pads;Brembo;200;3016
+3586;Transmission shift cable;Pioneer Cables;50;3020
+3587;Spark plugs;NGK;25;3026
+3588;Suspension strut;Monroe;200;3028
+3589;Transmission fluid change;Valvoline;200;3036
+3590;Brake rotor;Centric;100;3038
+3591;Power steering hose;Gates;100;3052
+3592;Transmission shift solenoid;Rostra;75;3032
+3593;Brake caliper;Cardone;50;3035
+3594;Wheel alignment;-;400;3040
+3595;Muffler;Walker;100;3046
+3596;Radiator;Denso;350;3055
+3597;Fuel pump;Delphi;150;3055
+3598;Fuel tank;Spectra Premium;200;3033
+3599;Battery;AC Delco;350;3033
+3600;Oil change;Mobil 1;150;3037
+3601;Control arm;Dorman;50;3047
+3602;Brake fluid flush;Castrol;100;3060
+3603;Transmission fluid change;Valvoline;200;3060
+3604;Transmission mount;Westar;25;3062
+3605;Brake rotor;Centric;100;3029
+3606;Exhaust hanger;Walker;25;3035
+3607;Transmission fluid change;Valvoline;200;3057
+3608;EGR valve;ACDelco;75;3033
+3609;Fuel tank;Spectra Premium;200;3039
+3610;Alternator;Bosch;300;3048
+3611;Tire rotation;-;100;3054
+3612;Suspension strut;Monroe;200;3054
+3613;Throttle body;Dorman;75;3057
+3614;Brake pads;Brembo;200;3058
+3615;Ignition coil;Delphi;100;3063
+3616;Shock absorber;KYB;75;3065
+3617;Control arm;Dorman;50;3043
+3618;Radiator;Denso;350;3045
+3619;Suspension strut;Monroe;200;3049
+3620;Control arm bushing;Dorman;25;3061
+3621;Transmission mount;Westar;25;3061
+3622;Power steering pump;Cardone;150;3066
+3623;Headlight bulb;Philips;25;3046
+3624;Oil change;Mobil 1;150;3046
+3625;Air filter;Fram;50;3055
+3626;Serpentine belt;Gates;75;3072
+3627;EGR valve gasket;Fel-Pro;25;3047
+3628;Blower motor;TYC;75;3060
+3629;Radiator fan assembly;TYC;100;3066
+3630;Serpentine belt;Gates;75;3068
+3631;Ignition coil;Delphi;100;3056
+3632;Tire rotation;-;100;3058
+3633;PCV valve;Standard Motor Products;25;3067
+3634;Throttle body;Dorman;75;3072
+3635;Transmission fluid change;Valvoline;200;3078
+3636;Power steering pump;Cardone;150;3081
+3637;Transmission control module;ACDelco;200;3085
+3638;Ignition coil;Delphi;100;3086
+3639;Transmission mount;Westar;25;3062
+3640;Transmission speed sensor;ACDelco;25;3067
+3641;Ball joint;Moog;50;3084
+3642;Axle shaft;A1 Cardone;100;3086
+3643;Control arm;Moog;75;3089
+3644;EGR valve;Standard Motor Products;50;3091
+3645;Air filter;Fram;50;3095
+3646;Serpentine belt;Gates;75;3097
+3647;Control arm;Moog;150;3092
+3648;Control arm bushing;Febi;50;3097
+3649;Headlight bulb;Philips;25;3072
+3650;Spark plugs;NGK;25;3073
+3651;Transmission filter;Fram;50;3089
+3652;Ball joint;Moog;50;3092
+3653;Tire rotation;-;100;3084
+3654;Power steering hose;Gates;100;3100
+3655;Control arm bushing;Dorman;25;3102
+3656;Power steering hose;Gates;100;3102
+3657;Spark plugs;NGK;25;3104
+3658;Exhaust hanger;Walker;25;3110
+3659;Drive belt;Gates;25;3080
+3660;Windshield wipers;Rain-X;50;3091
+3661;Wheel hub assembly;Timken;200;3101
+3662;Catalytic converter;MagnaFlow;300;3109
+3663;Brake fluid flush;Castrol;100;3087
+3664;Muffler;Walker;100;3103
+3665;Exhaust hanger;Walker;25;3103
+3666;Ignition control module;ACDelco;50;3106
+3667;Fuel injector;Bosch;100;3106
+3668;Transmission speed sensor;ACDelco;25;3093
+3669;Water pump;Airtex;200;3100
+3670;Windshield wipers;Rain-X;50;3104
+3671;Wheel alignment;-;400;3117
+3672;Suspension strut;Monroe;200;3122
+3673;Thermostat;Stant;50;3122
+3674;Fuel tank;Spectra Premium;200;3096
+3675;Transmission speed sensor;ACDelco;25;3111
+3676;Control arm;Dorman;50;3116
+3677;PCV valve;Standard Motor Products;25;3101
+3678;Crankshaft position sensor;Beck/Arnley;50;3101
+3679;Engine control module;A1 Cardone;200;3107
+3680;Control arm bushing;Febi;50;3110
+3681;Suspension strut;Monroe;200;3114
+3682;Shock absorber;KYB;75;3115
+3683;Camshaft position sensor;Dorman;100;3102
+3684;Fuel filter;Wix;50;3105
+3685;Transmission shift solenoid;Rostra;75;3106
+3686;Thermostat;Stant;50;3110
+3687;Brake master cylinder;Centric;100;3113
+3688;Battery;AC Delco;350;3121
+3689;Clutch kit;Exedy;200;3118
+3690;Wheel alignment;-;400;3119
+3691;Fuel pressure regulator;Delphi;25;3134
+3692;Transmission fluid change;Valvoline;200;3120
+3693;Brake pads;Brembo;200;3126
+3694;Exhaust manifold;Dorman;100;3131
+3695;Brake fluid flush;Castrol;100;3127
+3696;Ignition control module;ACDelco;50;3129
+3697;Transmission shift solenoid;Rostra;75;3133
+3698;Power steering hose;Gates;100;3134
+3699;Transmission filter;Fram;50;3136
+3700;Ignition control module;ACDelco;50;3136
+3701;Wheel alignment;-;400;3136
+3702;Transmission speed sensor;ACDelco;25;3123
+3703;Ignition coil;Bosch;50;3126
+3704;Ignition switch;Standard Motor Products;25;3130
+3705;Control arm bushing;Dorman;25;3135
+3706;Engine mount;DEA;50;3144
+3707;Control arm;Moog;150;3144
+3708;Alternator;Bosch;300;3150
+3709;Ignition coil;Bosch;50;3130
+3710;Control arm;Moog;75;3138
+3711;Brake master cylinder;Centric;100;3147
+3712;Exhaust manifold;Dorman;100;3154
+3713;Brake pads;Brembo;200;3155
+3714;Transmission fluid cooler;Hayden;50;3159
+3715;Brake fluid flush;Castrol;100;3134
+3716;Wheel cylinder;Raybestos;50;3151
+3717;Catalytic converter;MagnaFlow;300;3154
+3718;Control arm;Moog;75;3161
+3719;Transmission fluid change;Valvoline;200;3144
+3720;Suspension strut;Monroe;200;3153
+3721;Control arm;Moog;75;3155
+3722;Transmission fluid cooler;Hayden;50;3158
+3723;Transmission pan gasket;Fel-Pro;25;3161
+3724;Fuel pressure regulator;Delphi;25;3148
+3725;MAP sensor;Standard Motor Products;50;3153
+3726;Serpentine belt;Gates;75;3160
+3727;Water pump;Airtex;200;3164
+3728;Radiator fan assembly;TYC;100;3171
+3729;Windshield wipers;Rain-X;50;3143
+3730;Power steering pump;Cardone;150;3149
+3731;Fuel pressure regulator;Delphi;25;3150
+3732;Transmission speed sensor;ACDelco;25;3153
+3733;Exhaust manifold;Dorman;100;3157
+3734;Wheel cylinder;Raybestos;50;3158
+3735;Throttle body;Dorman;75;3163
+3736;Transmission pan gasket;Fel-Pro;25;3169
+3737;Serpentine belt;Gates;75;3151
+3738;Headlight bulb;Philips;25;3179
+3739;Control arm;Moog;150;3182
+3740;Battery;AC Delco;350;3159
+3741;Fuel injector;Bosch;100;3163
+3742;Brake fluid flush;Castrol;100;3166
+3743;Transmission fluid cooler;Hayden;50;3167
+3744;Transmission mount;Westar;25;3173
+3745;CV joint;GSP;100;3176
+3746;Control arm;Moog;75;3186
+3747;Control arm;Dorman;50;3166
+3748;Transmission fluid change;Valvoline;200;3172
+3749;Axle shaft;A1 Cardone;100;3187
+3750;Tie rod end;Mevotech;50;3165
+3751;Transmission filter;Fram;50;3169
+3752;Transmission shift solenoid;Rostra;75;3185
+3753;Axle shaft;A1 Cardone;100;3185
+3754;Control arm bushing;Dorman;25;3196
+3761;Ignition control module;ACDelco;50;3178
+3756;Fuel injector;Bosch;100;3168
+3757;Transmission speed sensor;ACDelco;25;3168
+3758;Fuel injector;Bosch;100;3170
+3759;Throttle body;Dorman;75;3170
+3760;Transmission speed sensor;ACDelco;25;3174
+3761;Ignition control module;ACDelco;50;3178
+3762;EGR valve;ACDelco;75;3183
+3763;Radiator;Denso;350;3192
+3766;Serpentine belt;Gates;75;3178
+3765;Wheel lug nuts;Dorman;25;3175
+3766;Serpentine belt;Gates;75;3178
+3767;Headlight assembly;TYC;100;3185
+3768;Ignition switch;ACDelco;50;3187
+3769;Control arm bushing;Dorman;25;3189
+3770;Crankshaft position sensor;Beck/Arnley;50;3193
+3771;Transmission speed sensor;ACDelco;25;3182
+3772;Ignition coil;Delphi;100;3183
+3773;Engine control module;A1 Cardone;200;3184
+3774;Transmission shift cable;Pioneer Cables;50;3187
+3775;Transmission speed sensor;ACDelco;25;3189
+3776;Wheel bearing;SKF;50;3197
+3777;Brake fluid flush;Castrol;100;3201
+3778;EGR valve gasket;Fel-Pro;25;3198
+3779;Power steering hose;Gates;100;3203
+3780;Control arm;Moog;150;3188
+3781;Brake pads;Brembo;200;3188
+3782;EGR valve;Standard Motor Products;50;3194
+3783;Transmission mount;Anchor;50;3197
+3784;Brake caliper;Cardone;50;3202
+3785;Fuel pressure regulator;Delphi;25;3211
+3786;EGR valve;Standard Motor Products;50;3213
+3787;Ignition coil;Delphi;100;3217
+3788;Radiator;Denso;350;3192
+3789;Control arm bushing;Dorman;25;3196
+3790;Exhaust hanger;Walker;25;3204
+3791;Catalytic converter;MagnaFlow;300;3205
+3792;Wheel cylinder;Raybestos;50;3216
+3793;Crankshaft position sensor;Beck/Arnley;50;3202
+3794;CV joint;GSP;100;3205
+3795;Shock absorber;KYB;75;3216
+3796;Tie rod end;Mevotech;50;3218
+3797;Mass airflow sensor;Spectra Premium;150;3225
+3798;Transmission mount;Westar;25;3226
+3799;Engine control module;A1 Cardone;200;3217
+3800;Ignition control module;ACDelco;50;3228
+3801;Battery;AC Delco;350;3232
+3802;Control arm;Moog;75;3233
+3803;Suspension strut;Monroe;200;3207
+3804;Drive belt;Gates;25;3208
+3805;Transmission mount;Westar;25;3231
+3806;Control arm bushing;Febi;50;3238
+3807;Alternator;Bosch;300;3217
+3808;Ignition coil;Bosch;50;3218
+3809;Transmission fluid cooler;Hayden;50;3220
+3810;Axle shaft;A1 Cardone;100;3225
+3811;Fuel injector;Bosch;100;3229
+3812;MAP sensor;Standard Motor Products;50;3241
+3813;Crankshaft position sensor;Beck/Arnley;50;3243
+3814;Engine control module;A1 Cardone;200;3221
+3815;Throttle body;Dorman;75;3223
+3816;EGR valve;ACDelco;75;3227
+3817;Ignition switch;Standard Motor Products;25;3228
+3818;Radiator fan assembly;TYC;100;3230
+3819;Battery;AC Delco;350;3246
+3820;Water pump;Airtex;200;3224
+3821;Oxygen sensor;Bosch;150;3234
+3822;Wheel cylinder;Raybestos;50;3237
+3823;PCV valve;Standard Motor Products;25;3229
+3824;PCV valve;Standard Motor Products;25;3232
+3825;Transmission shift cable;Pioneer Cables;50;3234
+3826;Ball joint;Moog;50;3235
+3827;Transmission fluid cooler;Hayden;50;3258
+3828;Ignition control module;ACDelco;50;3243
+3829;Ignition switch;Standard Motor Products;25;3252
+3830;Headlight assembly;TYC;100;3266
+3831;Transmission pan gasket;Fel-Pro;25;3251
+3832;Wheel bearing;SKF;50;3257
+3833;Headlight assembly;TYC;100;3261
+3834;Ball joint;Moog;50;3267
+3840;Clutch kit;Exedy;200;3255
+3836;Wheel bearing;SKF;50;3241
+3837;Ignition switch;ACDelco;50;3243
+3838;Oil change;Mobil 1;150;3249
+3839;Engine mount;DEA;50;3251
+3840;Clutch kit;Exedy;200;3255
+3841;PCV valve;Standard Motor Products;25;3259
+3842;Brake fluid flush;Castrol;100;3263
+3843;Transmission control module;ACDelco;200;3268
+3844;Transmission mount;Anchor;50;3246
+3845;Control arm bushing;Febi;50;3262
+3846;PCV valve;Standard Motor Products;25;3269
+3847;Control arm bushing;Dorman;25;3271
+3848;Engine mount;DEA;50;3281
+3849;Clutch kit;Exedy;200;3285
+3850;Engine control module;A1 Cardone;200;3262
+3851;Axle shaft;A1 Cardone;100;3265
+3852;Ignition coil;Delphi;100;3266
+3853;Radiator;Denso;350;3268
+3854;Engine control module;A1 Cardone;200;3269
+3855;Oxygen sensor;Bosch;150;3271
+3856;Tire rotation;-;100;3272
+3857;Headlight assembly;TYC;100;3284
+3858;Air filter;Fram;50;3290
+3859;Brake master cylinder;Centric;100;3291
+3860;Wheel cylinder;Raybestos;50;3260
+3861;Headlight assembly;TYC;100;3263
+3862;Ignition control module;ACDelco;50;3272
+3863;Ignition coil;Delphi;100;3275
+3864;Alternator;Bosch;300;3278
+3865;Tire rotation;-;100;3286
+3866;Drive belt;Gates;25;3265
+3867;Alternator;Bosch;300;3268
+3868;Transmission shift cable;Pioneer Cables;50;3272
+3869;Ignition switch;ACDelco;50;3292
+3870;Wheel cylinder;Raybestos;50;3293
+3871;Blower motor;TYC;75;3296
+3872;Fuel pump;Delphi;150;3297
+3873;Fuel injector;Bosch;100;3270
+3874;Fuel tank filler neck;Dorman;50;3280
+3875;Fuel injector;Bosch;100;3282
+3876;Control arm;Moog;75;3282
+3877;Control arm;Moog;75;3285
+3878;Exhaust hanger;Walker;25;3287
+3879;Brake rotor;Centric;100;3294
+3880;Spark plugs;NGK;25;3279
+3881;Oil change;Mobil 1;150;3295
+3882;Catalytic converter;MagnaFlow;300;3295
+3883;Serpentine belt;Gates;75;3296
+3884;Fuel pressure regulator;Delphi;25;3310
+3885;Mass airflow sensor;Spectra Premium;150;3276
+3886;Transmission pan gasket;Fel-Pro;25;3283
+3887;Control arm bushing;Febi;50;3291
+3888;Wheel lug nuts;Dorman;25;3293
+3889;Headlight assembly;TYC;100;3294
+3890;Windshield wipers;Rain-X;50;3310
+3891;Control arm;Moog;150;3313
+3892;Ball joint;Moog;50;3286
+3893;Brake pads;Brembo;200;3286
+3894;Control arm bushing;Dorman;25;3288
+3895;Radiator;Denso;350;3304
+3896;Crankshaft position sensor;Beck/Arnley;50;3309
+3897;Fuel tank filler neck;Dorman;50;3313
+3898;Transmission mount;Anchor;50;3317
+3899;Axle shaft;A1 Cardone;100;3319
+3900;Camshaft position sensor;Dorman;100;3321
+3901;Transmission control module;ACDelco;200;3294
+3902;Oxygen sensor;Bosch;150;3297
+3903;Control arm;Dorman;50;3308
+3904;Radiator fan assembly;TYC;100;3311
+3905;Battery;AC Delco;350;3321
+3906;EGR valve;ACDelco;75;3323
+3907;PCV valve;Standard Motor Products;25;3292
+3908;Transmission pan gasket;Fel-Pro;25;3295
+3909;Fuel pump;Delphi;150;3307
+3910;Exhaust manifold;Dorman;100;3308
+3911;Control arm;Moog;75;3314
+3912;Control arm;Dorman;50;3318
+3913;Alternator;Bosch;300;3318
+3914;Fuel pump;Delphi;150;3319
+3915;Ignition control module;ACDelco;50;3326
+3916;Control arm;Moog;150;3299
+3917;Transmission mount;Westar;25;3299
+3918;Shock absorber;KYB;75;3311
+3919;Transmission fluid change;Valvoline;200;3312
+3920;Drive belt;Gates;25;3315
+3921;Oxygen sensor;Bosch;150;3318
+3922;Transmission pan gasket;Fel-Pro;25;3325
+3923;Ignition switch;ACDelco;50;3332
+3924;Headlight assembly;TYC;100;3303
+3925;Suspension strut;Monroe;200;3309
+3926;Oil change;Mobil 1;150;3316
+3927;EGR valve;Standard Motor Products;50;3324
+3928;Radiator;Denso;350;3340
+3929;Fuel tank filler neck;Dorman;50;3321
+3930;Transmission mount;Westar;25;3322
+3931;PCV valve;Standard Motor Products;25;3329
+3932;Transmission shift cable;Pioneer Cables;50;3331
+3933;Transmission filter;Fram;50;3314
+3934;Engine control module;A1 Cardone;200;3320
+3935;Fuel filter;Wix;50;3323
+3936;Radiator;Denso;350;3339
+3937;Transmission control module;ACDelco;200;3346
+3938;Power steering hose;Gates;100;3322
+3939;Radiator;Denso;350;3324
+3940;Tire rotation;-;100;3329
+3941;Tie rod end;Mevotech;50;3335
+3942;Brake fluid flush;Castrol;100;3342
+3943;Spark plugs;NGK;25;3352
+3944;Transmission control module;ACDelco;200;3323
+3945;EGR valve;ACDelco;75;3326
+3946;Ignition coil;Bosch;50;3326
+3947;Brake fluid flush;Castrol;100;3335
+3948;Drive belt;Gates;25;3341
+3949;Tie rod end;Mevotech;50;3348
+3950;Transmission shift solenoid;Rostra;75;3350
+3951;Ignition switch;Standard Motor Products;25;3362
+3952;Wheel hub assembly;Timken;200;3330
+3953;Headlight assembly;TYC;100;3352
+3954;Tire rotation;-;100;3357
+3955;Shock absorber;KYB;75;3359
+3956;Transmission control module;ACDelco;200;3362
+3957;EGR valve;ACDelco;75;3364
+3958;Blower motor;TYC;75;3331
+3959;Fuel injector;Bosch;100;3335
+3960;MAP sensor;Standard Motor Products;50;3351
+3961;Ignition coil;Delphi;100;3367
+3962;Battery;AC Delco;350;3367
+3963;Power steering hose;Gates;100;3369
+3964;Fuel tank;Spectra Premium;200;3370
+3965;Power steering hose;Gates;100;3371
+3966;Transmission mount;Westar;25;3347
+3967;Wheel hub assembly;Timken;200;3357
+3968;Suspension strut;Monroe;200;3365
+3969;Catalytic converter;MagnaFlow;300;3370
+3970;Brake master cylinder;Centric;100;3375
+3971;Fuel pump;Delphi;150;3378
+3972;Engine mount;DEA;50;3342
+3973;Ignition coil;Bosch;50;3344
+3974;Transmission speed sensor;ACDelco;25;3351
+3975;Brake pads;Brembo;200;3363
+3976;Transmission shift solenoid;Rostra;75;3367
+3977;Ignition coil;Delphi;100;3380
+3978;Oxygen sensor;Bosch;150;3381
+3979;Ignition coil;Delphi;100;3347
+3980;Wheel lug nuts;Dorman;25;3359
+3981;Thermostat;Stant;50;3366
+3982;Fuel injector;Bosch;100;3372
+3983;Transmission pan gasket;Fel-Pro;25;3353
+3984;Brake caliper;Cardone;50;3353
+3985;Engine control module;A1 Cardone;200;3363
+3986;Power steering pump;Cardone;150;3365
+3987;Serpentine belt;Gates;75;3366
+3988;PCV valve;Standard Motor Products;25;3368
+3989;Axle shaft;A1 Cardone;100;3383
+3990;PCV valve;Standard Motor Products;25;3384
+3991;Ignition coil;Bosch;50;3393
+3992;Transmission filter;Fram;50;3358
+3993;Oil change;Mobil 1;150;3363
+3994;Water pump;Airtex;200;3391
+3995;Spark plugs;NGK;25;3394
+3996;Battery;AC Delco;350;3398
+3997;CV joint;GSP;100;3399
+3998;Spark plugs;NGK;25;3374
+3999;Exhaust hanger;Walker;25;3376
+4000;Brake pads;Brembo;200;3376
+4001;Transmission mount;Westar;25;3380
+4002;Engine control module;A1 Cardone;200;3380
+4003;Wheel alignment;-;400;3393
+4004;Wheel lug nuts;Dorman;25;3393
+4005;Throttle body;Dorman;75;3400
+4006;Power steering hose;Gates;100;3378
+4007;Ignition coil;Bosch;50;3383
+4008;Windshield wipers;Rain-X;50;3394
+4009;Transmission shift cable;Pioneer Cables;50;3395
+4010;Wheel hub assembly;Timken;200;3406
+4011;Brake pads;Brembo;200;3407
+4012;Muffler;Walker;100;3375
+4013;Power steering pump;Cardone;150;3376
+4014;Fuel pressure regulator;Delphi;25;3384
+4015;Tire rotation;-;100;3384
+4016;Wheel cylinder;Raybestos;50;3385
+4017;Wheel alignment;-;400;3386
+4018;Wheel lug nuts;Dorman;25;3395
+4019;Brake pads;Brembo;200;3397
+4020;Spark plugs;NGK;25;3410
+4021;Wheel hub assembly;Timken;200;3414
+4022;Ignition switch;Standard Motor Products;25;3387
+4023;Brake master cylinder;Centric;100;3396
+4024;Serpentine belt;Gates;75;3397
+4025;Air filter;Fram;50;3394
+4026;Oxygen sensor;Bosch;150;3403
+4027;PCV valve;Standard Motor Products;25;3397
+4028;Engine control module;A1 Cardone;200;3426
+4029;Wheel hub assembly;Timken;200;3398
+4030;Radiator;Denso;350;3400
+4031;Transmission shift cable;Pioneer Cables;50;3429
+4032;Engine control module;A1 Cardone;200;3430
+4033;Ignition switch;ACDelco;50;3431
+4034;Camshaft position sensor;Dorman;100;3419
+4035;Brake caliper;Cardone;50;3433
+4036;Water pump;Airtex;200;3407
+4037;Axle shaft;A1 Cardone;100;3408
+4038;PCV valve;Standard Motor Products;25;3421
+4039;Ignition switch;ACDelco;50;3437
+4040;EGR valve;ACDelco;75;3442
+4041;Axle shaft;A1 Cardone;100;3412
+4042;Fuel tank;Spectra Premium;200;3416
+4043;EGR valve;Standard Motor Products;50;3417
+4044;Engine mount;DEA;50;3421
+4045;Tire rotation;-;100;3424
+4046;Ignition switch;ACDelco;50;3427
+4047;Axle shaft;A1 Cardone;100;3433
+4048;Control arm bushing;Febi;50;3438
+4049;Radiator fan assembly;TYC;100;3443
+4050;Windshield wipers;Rain-X;50;3446
+4051;Transmission fluid cooler;Hayden;50;3417
+4052;Water pump;Airtex;200;3418
+4053;Control arm;Dorman;50;3422
+4054;Catalytic converter;MagnaFlow;300;3430
+4055;Radiator;Denso;350;3431
+4056;Brake caliper;Cardone;50;3455
+4057;Brake fluid flush;Castrol;100;3420
+4058;Battery;AC Delco;350;3431
+4059;EGR valve;ACDelco;75;3448
+4060;Power steering hose;Gates;100;3450
+4061;Wheel bearing;SKF;50;3451
+4062;Fuel injector;Bosch;100;3461
+4063;Transmission pan gasket;Fel-Pro;25;3426
+4064;Transmission shift solenoid;Rostra;75;3433
+4065;Water pump;Airtex;200;3440
+4066;Mass airflow sensor;Spectra Premium;150;3441
+4067;Exhaust manifold;Dorman;100;3444
+4068;Suspension strut;Monroe;200;3449
+4069;Thermostat;Stant;50;3451
+4070;Wheel alignment;-;400;3460
+4071;Radiator;Denso;350;3462
+4072;Transmission mount;Westar;25;3466
+4073;Wheel lug nuts;Dorman;25;3466
+4074;Transmission mount;Anchor;50;3467
+4075;Control arm bushing;Dorman;25;3439
+4076;Engine control module;A1 Cardone;200;3446
+4077;Fuel tank filler neck;Dorman;50;3446
+4078;Wheel alignment;-;400;3462
+4079;Transmission control module;ACDelco;200;3465
+4080;Wheel cylinder;Raybestos;50;3469
+4081;Windshield wipers;Rain-X;50;3454
+4082;Axle shaft;A1 Cardone;100;3456
+4083;Transmission speed sensor;ACDelco;25;3460
+4084;Control arm;Moog;150;3472
+4085;Ignition control module;ACDelco;50;3474
+4086;Transmission shift cable;Pioneer Cables;50;3445
+4087;Engine mount;DEA;50;3454
+4088;Engine oil cooler;Dorman;75;3456
+4089;Mass airflow sensor;Spectra Premium;150;3459
+4090;Fuel tank filler neck;Dorman;50;3470
+4091;Fuel tank filler neck;Dorman;50;3448
+4092;Shock absorber;KYB;75;3449
+4093;Radiator;Denso;350;3461
+4094;Wheel cylinder;Raybestos;50;3477
+4095;Tie rod end;Mevotech;50;3481
+4096;Transmission pan gasket;Fel-Pro;25;3452
+4097;Transmission fluid change;Valvoline;200;3455
+4098;Brake master cylinder;Centric;100;3459
+4099;Water pump;Airtex;200;3461
+4100;Transmission fluid cooler;Hayden;50;3464
+4101;Transmission shift cable;Pioneer Cables;50;3469
+4102;Thermostat;Stant;50;3478
+4103;Axle shaft;A1 Cardone;100;3484
+4104;Windshield wipers;Rain-X;50;3493
+4105;Drive belt;Gates;25;3458
+4106;Catalytic converter;MagnaFlow;300;3474
+4107;Transmission shift cable;Pioneer Cables;50;3474
+4108;Crankshaft position sensor;Beck/Arnley;50;3487
+4109;Blower motor;TYC;75;3489
+4110;Transmission fluid cooler;Hayden;50;3495
+4111;Suspension strut;Monroe;200;3464
+4112;Thermostat;Stant;50;3468
+4113;Crankshaft position sensor;Beck/Arnley;50;3472
+4114;Ignition coil;Delphi;100;3472
+4115;Engine mount;DEA;50;3483
+4116;Ignition coil;Delphi;100;3488
+4117;Fuel tank filler neck;Dorman;50;3489
+4118;Ignition switch;ACDelco;50;3491
+4119;Power steering pump;Cardone;150;3476
+4120;Exhaust manifold;Dorman;100;3487
+4121;Brake fluid flush;Castrol;100;3488
+4122;Wheel bearing;SKF;50;3495
+4123;Transmission control module;ACDelco;200;3497
+4124;Clutch kit;Exedy;200;3505
+4125;Engine mount;DEA;50;3479
+4126;EGR valve;ACDelco;75;3490
+4127;Transmission speed sensor;ACDelco;25;3493
+4128;Ignition coil;Bosch;50;3506
+4129;Thermostat;Stant;50;3510
+4130;Ignition control module;ACDelco;50;3497
+4131;EGR valve;ACDelco;75;3501
+4132;Ignition switch;ACDelco;50;3507
+4133;Blower motor;TYC;75;3512
+4134;Exhaust hanger;Walker;25;3519
+4135;Wheel bearing;SKF;50;3519
+4136;Wheel alignment;-;400;3522
+4137;Fuel injector;Bosch;100;3501
+4138;Power steering hose;Gates;100;3502
+4139;Ignition coil;Bosch;50;3508
+4140;Engine mount;DEA;50;3508
+4141;Muffler;Walker;100;3511
+4142;Drive belt;Gates;25;3520
+4143;Control arm bushing;Febi;50;3529
+4144;EGR valve;Standard Motor Products;50;3505
+4145;Transmission fluid cooler;Hayden;50;3512
+4146;Transmission shift cable;Pioneer Cables;50;3515
+4147;Radiator;Denso;350;3536
+4148;Ignition coil;Bosch;50;3502
+4149;Tie rod end;Mevotech;50;3503
+4150;PCV valve;Standard Motor Products;25;3511
+4151;Power steering hose;Gates;100;3519
+4152;Control arm;Dorman;50;3524
+4153;Wheel bearing;SKF;50;3531
+4154;Axle shaft;A1 Cardone;100;3536
+4155;Transmission control module;ACDelco;200;3514
+4156;Suspension strut;Monroe;200;3516
+4157;Crankshaft position sensor;Beck/Arnley;50;3526
+4158;Engine oil cooler;Dorman;75;3532
+4159;Wheel cylinder;Raybestos;50;3548
+4160;Fuel filter;Wix;50;3537
+4161;Radiator fan assembly;TYC;100;3549
+4162;Transmission control module;ACDelco;200;3550
+4163;Control arm bushing;Febi;50;3554
+4164;Blower motor;TYC;75;3522
+4165;Transmission speed sensor;ACDelco;25;3531
+4166;Muffler;Walker;100;3533
+4167;Oxygen sensor;Bosch;150;3549
+4168;Wheel cylinder;Raybestos;50;3527
+4169;Wheel alignment;-;400;3529
+4170;Transmission filter;Fram;50;3546
+4171;Control arm;Moog;150;3551
+4172;Ignition switch;ACDelco;50;3564
+4173;Air filter;Fram;50;3565
+4174;Blower motor;TYC;75;3544
+4175;Crankshaft position sensor;Beck/Arnley;50;3549
+4176;Ignition control module;ACDelco;50;3558
+4177;Fuel tank;Spectra Premium;200;3571
+4178;Fuel pump;Delphi;150;3547
+4179;Alternator;Bosch;300;3551
+4180;Engine control module;A1 Cardone;200;3570
+4181;CV joint;GSP;100;3572
+4182;Power steering pump;Cardone;150;3544
+4183;Shock absorber;KYB;75;3569
+4184;PCV valve;Standard Motor Products;25;3546
+4185;Ignition control module;ACDelco;50;3558
+4186;Spark plugs;NGK;25;3578
+4187;EGR valve gasket;Fel-Pro;25;3586
+4188;Brake caliper;Cardone;50;3593
+4189;Brake master cylinder;Centric;100;3561
+4190;Control arm bushing;Febi;50;3567
+4191;CV joint;GSP;100;3570
+4192;Transmission filter;Fram;50;3576
+4193;Power steering hose;Gates;100;3576
+4194;Control arm;Moog;75;3564
+4195;EGR valve;Standard Motor Products;50;3566
+4196;Transmission fluid cooler;Hayden;50;3566
+4197;Air filter;Fram;50;3578
+4198;Transmission fluid cooler;Hayden;50;3585
+4199;Transmission mount;Westar;25;3585
+4200;Wheel bearing;SKF;50;3589
+4201;Radiator;Denso;350;3597
+4202;Wheel lug nuts;Dorman;25;3600
+4203;Catalytic converter;MagnaFlow;300;3579
+4204;Suspension strut;Monroe;200;3581
+4205;Transmission fluid cooler;Hayden;50;3584
+4206;Exhaust hanger;Walker;25;3593
+4207;Control arm bushing;Dorman;25;3595
+4208;Power steering hose;Gates;100;3600
+4209;Radiator;Denso;350;3606
+4210;Ignition coil;Delphi;100;3573
+4211;PCV valve;Standard Motor Products;25;3575
+4212;EGR valve gasket;Fel-Pro;25;3578
+4213;Transmission speed sensor;ACDelco;25;3590
+4214;Brake rotor;Centric;100;3601
+4215;PCV valve;Standard Motor Products;25;3605
+4216;Control arm;Moog;150;3579
+4217;Transmission control module;ACDelco;200;3586
+4218;Brake caliper;Cardone;50;3590
+4219;Ignition switch;Standard Motor Products;25;3608
+4220;Transmission shift cable;Pioneer Cables;50;3586
+4221;Spark plugs;NGK;25;3606
+4222;Wheel hub assembly;Timken;200;3607
+4223;Ignition coil;Bosch;50;3609
+4224;Ignition control module;ACDelco;50;3592
+4225;Fuel injector;Bosch;100;3595
+4226;Fuel injector;Bosch;100;3601
+4227;Fuel filter;Wix;50;3604
+4228;Thermostat;Stant;50;3611
+4229;Headlight assembly;TYC;100;3598
+4230;Radiator fan assembly;TYC;100;3598
+4231;Wheel alignment;-;400;3603
+4232;EGR valve gasket;Fel-Pro;25;3608
+4233;Engine mount;DEA;50;3610
+4234;Control arm bushing;Febi;50;3611
